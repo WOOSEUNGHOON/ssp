@@ -24,7 +24,7 @@ nav:
 - **L2Fuzz: Discovering Bluetooth L2CAP Vulnerabilities Using Stateful Fuzz Testing**<br>Haram Park, Carlos Nkuba Kayembe, Seunghoon Woo, Heejo Lee<br>
 52nd IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2022)<br>[[paper]](/ssp/assets/papers/DSN22.pdf) [[slide]](/ssp/assets/presentations/L2Fuzz_DSN22_presentation.pdf) [[code]](https://github.com/haramel/l2fuzz)
 
-- **CIRCUIT: A JavaScript Memory Heap-Based Approach for Precisely Detecting Cryptojacking Websites**<br>Seunghoon Woo$^\dagger$, Hyunji Hong$^\dagger$, Sunghan Park$^\dagger$, Jeongwook Lee, Heejo Lee ($^\dagger$ contributed equally)<br>IEEE ACCESS (2022, IF:3.476)<br>[[paper]](/ssp/assets/papers/ACCESS22_circuit.pdf)
+- **CIRCUIT: A JavaScript Memory Heap-Based Approach for Precisely Detecting Cryptojacking Websites**<br>Seunghoon Woo&#42;, Hyunji Hong&#42;, Sunghan Park&#42;, Jeongwook Lee, Heejo Lee (* contributed equally)<br>IEEE ACCESS (2022, IF:3.476)<br>[[paper]](/ssp/assets/papers/ACCESS22_circuit.pdf)
 
 - **xVDB: A High-Coverage Approach for Constructing a Vulnerability Database**<br>Hyunji Hong, Seunghoon Woo, Eunjin Choi, Jihyun Choi, Heejo Lee<br>IEEE ACCESS (2022, IF:3.476)<br>[[paper]](/ssp/assets/papers/ACCESS22_xvdb.pdf)
 
