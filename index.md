@@ -21,6 +21,14 @@ We are continuously looking for enthusiastic **PhD/master students**, **graduate
 
 [See more](/research)
 
+
+## LATEST NEWS
+
+
+* **Aug. 2023**: <U>V1SCAN</U> has been published at **[USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)**.
+* <U>SSP lab</U> has been established.
+
+
 ## CONTACT
 
 Room XXX, XXX<br>
@@ -36,10 +44,3 @@ Seoul 136-713, Korea<br>
     {% assign value = link[1] %}
     {% include button.html type=key text="" link=value style="bare" %}
 {% endfor %}
-
-
-## LATEST NEWS
-
-
-* **Aug. 2023**: <U>V1SCAN</U> has been published at **[USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)**.
-* <U>SSP lab</U> has been established.
