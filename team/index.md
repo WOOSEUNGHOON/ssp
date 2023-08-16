@@ -14,7 +14,6 @@ nav:
   flip=false
 %}
 
-![test](/ssp/images/new_me.jpg) asdfddd
 
 {% include section.html %}
 
