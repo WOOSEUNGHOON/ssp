@@ -7,12 +7,12 @@ footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@WOOSEUNGHOON.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: WOOSEUNGHOON
-  twitter: WOOSEUNGHOON
-  youtube: WOOSEUNGHOON
+  email: seunghoonwoo@korea.ac.kr
+  # orcid: 0000-0001-8713-9213
+  google-scholar: vm77ejwAAAAJ
+  github: https://github.com/wooseunghoon/
+  #twitter: WOOSEUNGHOON
+  #youtube: WOOSEUNGHOON
 
 ### jekyll settings
 
