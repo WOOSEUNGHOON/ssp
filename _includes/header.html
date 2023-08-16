@@ -42,7 +42,7 @@
       | where_exp: "page", "page.nav"
       | sort: "nav.order"
     %}
-    [HOME](/ssp/)
+    <a href="/ssp/" data-tooltip="Home"> HOME </a>
     {% for page in pages %}
       {% if page.nav %}
         <a
