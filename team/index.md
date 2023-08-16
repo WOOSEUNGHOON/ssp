@@ -10,17 +10,6 @@ nav:
 {%
   include my_feature.html
   image="images/me.jpg"
-  text="""\
-  Our team is made up of people all around the globe
-  asdfasdf\
-  """
-  flip=false
-%}
-
-
-{%
-  include my_feature.html
-  image="images/me.jpg"
   text="Our team is made up of people all around the globe<br>TEST"
   flip=false
 %}
