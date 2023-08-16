@@ -7,6 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Members
 
+## Advisor
+
 {%
   include my_feature.html
   image="images/new_me.jpg"

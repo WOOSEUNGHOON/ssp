@@ -31,6 +31,8 @@ We conduct various research on software security. Representative current researc
   flip=true
 %}
 
+{% include section.html %}
+
 ## Security Patch Analysis
 
 {%
