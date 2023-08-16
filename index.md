@@ -19,7 +19,7 @@ We are continuously looking for enthusiastic **PhD/master students**, **graduate
 * **Software Composition Analysis (SCA)**
 * **Security Patch Analysis**
 
-[See more](/research)
+[See more](/ssp/research)
 
 
 ## LATEST NEWS
