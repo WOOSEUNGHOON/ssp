@@ -5,12 +5,17 @@ nav:
   tooltip: Publications
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
-
-We conduct various research on software security. Representative current research topics are as follows.
+# {% include icon.html icon="fa-solid fa-book" %}Publications
 
 {% include section.html %}
 
-## Open-source Software Security
+## 2023
 
-The reuse of open-source software (OSS) provides efficiency for developers. However, unmanaged OSS reuse may lead to the propagation of vulnerabilities. We have conducted research to devise scalable and precise vulnerability detection techniques aimed at resolving security threats caused by vulnerable OSS reuse. Our techniques can actually be used to resolve vulnerabilities in real-world popular software programs (e.g., Android, Redis, Mozjpeg, etc.). In addition, our research papers have been published in international conferences, including V1SCAN [USENIX Security '23], MOVERY [USENIX Security '22], and VUDDY [S&P '17].
+- **V1SCAN: Discovering 1-day Vulnerabilities in Reused C/C++ Open-source Software Components Using Code Classification Techniques**<br><U>Seunghoon Woo</U>, Eunjin Choi, Heejo Lee, Hakjoo Oh<br>32nd USENIX Security Symposium (Security 2023)
+
+
+{% include section.html %}
+
+## Before 2023
+
+- **MOVERY: A Precise Approach for Modified Vulnerable Code Clone Discovery from Modified Open-Source Software Components**<br><U>Seunghoon Woo</U>, Hyunji Hong, Eunjin Choi, Heejo Lee<br>31st USENIX Security Symposium (Security 2022)
