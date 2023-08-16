@@ -23,9 +23,9 @@ We are continuously looking for enthusiastic graduate/undergraduate students and
 * **Software Composition Analysis (SCA)**
 * **Security Patch Analysis**
 
+[See more](https://wooseunghoon.github.io/ssp/research/)
+
 <br>
-
-
 
 {%
   include button.html
