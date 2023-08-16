@@ -2,17 +2,16 @@
 title: Research
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: Research Topics
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We conduct various research on software security. Representative current research topics are as follows.
 
 {% include section.html %}
 
-## Highlighted
+## Vulnerability detection
 
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
