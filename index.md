@@ -27,19 +27,8 @@ We are continuously looking for enthusiastic **PhD/master students**, **graduate
 
 [See more](https://wooseunghoon.github.io/ssp/research/)
 
-<br>
-
-{%
-  include button.html
-  link="research"
-  text="See more"
-  flip=true
-  style="bare"
-%}
-
-
 ## LATEST NEWS
 
 
-* **Aug. 2023**: <U>**V1SCAN**</U> has been published at **[USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)**.
+* **Aug. 2023**: __**V1SCAN**__ has been published at **[USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)**.
 * <U>SSP lab</U> has been established.
