@@ -37,7 +37,7 @@ Please contact Prof. [Seunghoon Woo](seunghoonwoo@korea.ac.kr) (seunghoonwoo@kor
 
 
 * **Aug. 2023**: <U>V1SCAN</U> has been published at [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23).
-* **2023**: SSP lab has been established.
+* <U>SSP lab</U> has been established.
 
 
 
