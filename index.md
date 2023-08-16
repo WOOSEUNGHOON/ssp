@@ -9,13 +9,22 @@ Software Security and Privacy Laboratory (SSP Lab) was established in 2023. We c
 
 We are continuously looking for enthusiastic graduate/undergraduate students and postdocs interested in working with us.
 
+## RESEARCH AREAS (NOT LIMITED TO)
+
+* **Open-source Software Security**
+* **Vulnerability Detection**
+* **Software Composition Analysis (SCA)**
+* **Security Assessment for Software Ecosystems**
+* **Security Patch Analysis**
+
+
 {% for link in site.links %}
     {% assign key = link[0] %}
     {% assign value = link[1] %}
     {% include button.html type=key text="" link=value style="bare" %}
 {% endfor %}
 
-{% include section.html %}
+<!-- {% include section.html %}
 
 ## Highlights
 
@@ -89,3 +98,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
+ -->
