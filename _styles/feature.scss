@@ -13,7 +13,7 @@ $wrap: 800px;
 
 .feature-image {
   flex-shrink: 0;
-  width: 40%;
+  width: 30%;
   aspect-ratio: 3 / 2;
   border-radius: var(--rounded);
   overflow: hidden;
@@ -23,7 +23,7 @@ $wrap: 800px;
 .feature-image img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: scale-down;
 }
 
 .feature-text {
