@@ -36,8 +36,8 @@ College of Informatics<br>
 Korea University<br>
 Anam-dong 5-ga, Seongbuk-gu<br>
 Seoul 136-713, Korea<br>
-(office) +82.2.3290.XXXX<br>
-(email) seunghoonwoo@korea.ac.kr
+[Office] +82.2.3290.XXXX<br>
+[Email] seunghoonwoo@korea.ac.kr
 
 {% for link in site.links %}
     {% assign key = link[0] %}
