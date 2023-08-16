@@ -9,7 +9,11 @@ Software Security and Privacy Laboratory (SSP Lab) was established in 2023. We c
 
 We are continuously looking for enthusiastic graduate/undergraduate students and postdocs interested in working with us.
 
-
+{% for link in site.links %}
+    {% assign key = link[0] %}
+    {% assign value = link[1] %}
+    {% include button.html type=key text="" link=value style="bare" %}
+{% endfor %}
 
 {% include section.html %}
 
