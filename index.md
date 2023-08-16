@@ -14,22 +14,19 @@ Software Security and Privacy Laboratory (SSP Lab) was established in 2023. We c
 ## RESEARCHER RECRUITMENT
 
 We are continuously looking for enthusiastic graduate/undergraduate students and postdocs interested in working with us. 
-
-Please contact Prof. [Seunghoon](seunghoonwoo@korea.ac.kr).
+Please contact Prof. [Seunghoon Woo](seunghoonwoo@korea.ac.kr).
 
 ## RESEARCH AREAS (NOT LIMITED TO)
 
 * **Open-source Software Security**
 * **Vulnerability Detection**
 * **Software Composition Analysis (SCA)**
-* **Security Assessment for Software Ecosystems**
 * **Security Patch Analysis**
 
 {%
   include button.html
   link="research"
   text="See more"
-  icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
 %}
