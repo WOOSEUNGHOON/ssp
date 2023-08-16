@@ -25,10 +25,10 @@ We are continuously looking for enthusiastic **PhD/master students**, **graduate
 * **Software Composition Analysis (SCA)**
 * **Security Patch Analysis**
 
-[See more](https://wooseunghoon.github.io/ssp/research/)
+[See more](/research)
 
 ## LATEST NEWS
 
 
-* **Aug. 2023**: __**V1SCAN**__ has been published at **[USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)**.
+* **Aug. 2023**: <U>V1SCAN</U> has been published at **[USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)**.
 * <U>SSP lab</U> has been established.
