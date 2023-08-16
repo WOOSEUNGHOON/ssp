@@ -11,9 +11,9 @@ Software Security and Privacy Laboratory (SSP Lab) was established in 2023. We c
     {% include button.html type=key text="" link=value style="bare" %}
 {% endfor %}
 
-## NEWS
+## RESEARCHER RECRUITMENT
 
-We are continuously looking for enthusiastic graduate/undergraduate students and postdocs interested in working with us.
+We are continuously looking for enthusiastic graduate/undergraduate students and postdocs interested in working with us. Please contact Prof. [Seunghoon] (seunghoonwoo@korea.ac.kr).
 
 ## RESEARCH AREAS (NOT LIMITED TO)
 
@@ -22,5 +22,12 @@ We are continuously looking for enthusiastic graduate/undergraduate students and
 * **Software Composition Analysis (SCA)**
 * **Security Assessment for Software Ecosystems**
 * **Security Patch Analysis**
+
+## LATEST NEWS
+
+
+* **Aug. 2023**: <U>V1SCAN</U> has been published at [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23).
+* **2023**: SSP lab has been established.
+
 
 
