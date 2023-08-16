@@ -19,6 +19,7 @@ Please contact Prof. [Seunghoon Woo](seunghoonwoo@korea.ac.kr).
 ## RESEARCH AREAS (NOT LIMITED TO)
 
 * **Open-source Software Security**
+* **Supply Chain Security**
 * **Vulnerability Detection**
 * **Software Composition Analysis (SCA)**
 * **Security Patch Analysis**
