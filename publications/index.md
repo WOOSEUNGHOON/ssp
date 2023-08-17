@@ -43,3 +43,9 @@ Annual Computer Security Applications Conference (ACSAC 2021)<br>[[paper]](/ssp/
 - **Poster: IoTcube: an automated analysis platform for finding security vulnerabilities**<br>Seulbae Kim, Seunghoon Woo, Heejo Lee, Hakjoo Oh<br>38th IEEE Symposium on Poster presented at Security and Privacy (S&P Poster 2017)<br>[[paper]](/ssp/assets/papers/SNP17_Poster.pdf)
 
 - **VUDDY: A Scalable Approach for Vulnerable Code Clone Discovery**<br>Seulbae Kim, Seunghoon Woo, Heejo Lee, Hakjoo Oh<br>38th IEEE Symposium on Security and Privacy (S&P 2017)<br>[[paper]](/ssp/assets/papers/SNP17.pdf) [[slide]](/ssp/assets/presentations/VUDDY_SNP17_presentation.pdf) [[code]](https://github.com/squizz617/vuddy) [[article1]](https://www.korea.ac.kr/user/boardList.do?boardId=474633&siteId=university&page=20&search=&column=&boardType=02&listType=&id=university_060108000000&parent=&boardSeq=474672&command=albumView&chkBoxSeq=&chkBoxId=&chkBoxPos=&chkBoxDepth=&chkBoxFamSeq=&warningYn=N&categoryId=&categoryDepth=&totalYn=&searchDate1=&searchDate2=) [[article2]](http://www.veritas-a.com/news/articleView.html?idxno=83064)
+
+## Domestic Publications
+
+- **Web 3.0 시대 핵심 기술, 블록체인 보안 위협 전망 및 분석**<br>우승훈, 이건우, 이태준, 최윤성, 이희조, 민경식, 박진상<br>KISA INSIGHT (2023)<br>[[paper]](/ssp/assets/papers/KISA_Insight23.pdf)
+- **오픈소스 SW 취약점 분석 및 탐지기술 동향**<br>우승훈, 홍현지, 이희조<br>OSIA Standards & Technology Review Journal (2022)<br>[[paper]](/ssp/assets/papers/OSIA22.pdf)
+- **공급망 보안을 위한 오픈소스 소프트웨어 취약점 관리 기술**<br>홍현지, 우승훈, 이희조<br>정보보호학회지 (2022)<br>[[paper]](/ssp/assets/papers/JBBH22.pdf)
