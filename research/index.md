@@ -46,8 +46,6 @@ We conduct various research on software security. Representative current researc
 
 ## Security Patch Analysis
 
-![image](/ssp/images/patch.jpg)
-
 {%
   include my_feature.html
   image="images/patch.jpg"
