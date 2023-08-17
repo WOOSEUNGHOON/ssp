@@ -20,6 +20,17 @@ We conduct various research on software security. Representative current researc
   flip=false
 %}
 
+["소프트웨어 보안취약점, 기존 기술 대비 최대 6배 이상 탐지 가능" (KR)](https://www.korea.ac.kr/user/boardList.do?boardId=474633&command=albumView&page=1&boardSeq=493539&id=university_060108000000)
+
+<br>
+
+["이희조 고려대 교수팀 , 취약 코드 탐지 MOVERY 기술 개발" (KR)](https://n.news.naver.com/mnews/article/030/0003046842?sid=105)
+
+<br>
+
+["고려대, ‘재사용 코드’ 자동 탐지 기술 개발" (KR)](http://www.veritas-a.com/news/articleView.html?idxno=83064)
+
+
 {% include section.html %}
 
 ## Software Composition Analysis (SCA)
@@ -31,6 +42,15 @@ We conduct various research on software security. Representative current researc
   flip=true
 %}
 
+["CENTRIS: New tool helps prevent software supply chain attacks by flagging modified open source components"](https://portswigger.net/daily-swig/centris-new-tool-helps-prevent-software-supply-chain-attacks-by-flagging-modified-open-source-components)
+
+<br>
+
+["오픈소스 커뮤니티 노리는 공급망 공격, 국내 연구팀 기술로 차단한다" (KR)](https://www.boannews.com/media/view.asp?idx=95883)
+
+
+
+
 {% include section.html %}
 
 ## Security Patch Analysis
@@ -41,3 +61,6 @@ We conduct various research on software security. Representative current researc
   text="Assessing the quality of security patches provided through public vulnerability databases (e.g., NVD) is an essential task for proper vulnerability resolution. We have conducted research ranging from effective methods of collecting security patches to techniques for verifying their quality. The results of our research have been presented in international conferences and journals as papers, including [V0Finder](/ssp/assets/papers/SECURITY21.pdf) [USENIX Security '21] and [xVDB](/ssp/assets/papers/ACCESS22_xvdb.pdf) [IEEE ACCESS '22]."
   flip=false
 %}
+
+["고려대 이희조 교수팀, 취약점 최초 발생 지점 탐지기술 'V0Finder' 개발"](https://www.boannews.com/media/view.asp?idx=100545)
+
