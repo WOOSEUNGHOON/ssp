@@ -42,6 +42,15 @@
       | where_exp: "page", "page.nav"
       | sort: "nav.order"
     %}
+    
+    <input
+      type="checkbox"
+      class="dark-toggle"
+      data-tooltip="Dark mode"
+      aria-label="toggle dark mode"
+      oninput="onDarkToggleChange(event)"
+    >
+
     <a href="/ssp/" data-tooltip="Home"> HOME </a>
     {% for page in pages %}
       {% if page.nav %}
