@@ -1,6 +1,6 @@
 # site properties and page defaults
 title: Software Security and Privacy Laboratory @ Korea University
-subtitle: 
+subtitle:
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
 footer: images/background.jpg
@@ -10,7 +10,7 @@ links:
   email: seunghoonwoo@korea.ac.kr
   # orcid: 0000-0001-8713-9213
   google-scholar: vm77ejwAAAAJ
-  github: https://github.com/wooseunghoon/
+  github: wooseunghoon/
   #twitter: WOOSEUNGHOON
   #youtube: WOOSEUNGHOON
 
