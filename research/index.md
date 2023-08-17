@@ -36,7 +36,7 @@ We conduct various research on software security. Representative current researc
   flip=true
 %}
 
-- ["CENTRIS: New tool helps prevent software supply chain attacks by flagging modified open source components"](https://portswigger.net/daily-swig/centris-new-tool-helps-prevent-software-supply-chain-attacks-by-flagging-modified-open-source-components)
+- ["CENTRIS: New tool helps prevent software supply chain attacks by flagging modified open source components" (EN)](https://portswigger.net/daily-swig/centris-new-tool-helps-prevent-software-supply-chain-attacks-by-flagging-modified-open-source-components)
 - ["오픈소스 커뮤니티 노리는 공급망 공격, 국내 연구팀 기술로 차단한다" (KR)](https://www.boannews.com/media/view.asp?idx=95883)
 
 
@@ -53,5 +53,4 @@ We conduct various research on software security. Representative current researc
   flip=false
 %}
 
-- ["고려대 이희조 교수팀, 취약점 최초 발생 지점 탐지기술 'V0Finder' 개발"](https://www.boannews.com/media/view.asp?idx=100545)
-
+- ["고려대 이희조 교수팀, 취약점 최초 발생 지점 탐지기술 'V0Finder' 개발" (KR)](https://www.boannews.com/media/view.asp?idx=100545)
