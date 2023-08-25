@@ -9,6 +9,7 @@ nav:
 
 {% include section.html %}
 
+- **오픈소스 소프트웨어 취약점 탐지 기술 동향**<br>IoTcube Conference 2023 (Aug 2023)
 - **V1SCAN: Discovering 1-day Vulnerabilities in Reused C/C++ Open-source Software Components Using Code Classification Techniques**<br>Paper presentation at 32nd USENIX Security Symposium (Aug 2023)
 - **공급망 보안을 위한 오픈소스 소프트웨어 취약점 탐지**<br>NetSec-KR (Apr 2023)
 - **블록체인 소프트웨어의 취약점과 보안**<br>2022 블록체인 진흥주간(Dec 2022)<br>[[presentation]](https://www.youtube.com/watch?v=MHwvT8JTnKo)
