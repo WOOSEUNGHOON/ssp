@@ -11,7 +11,7 @@ Software Security and Privacy Laboratory (SSP Lab) was established in 2023. We c
 
 ## RECRUITMENT
 
-We are continuously looking for enthusiastic **PhD/master students**, **graduate/undergraduate interns**, and **postdocs** interested in working with us. Please contact Prof. Seunghoon Woo (<U>seunghoonwoo@korea.ac.kr</U>).
+We are continuously looking for enthusiastic **Ph.D./master students**, **graduate/undergraduate interns**, and **postdocs** interested in working with us. Please contact Prof. Seunghoon Woo (<U>seunghoonwoo@korea.ac.kr</U>).
 
 ## RESEARCH AREAS (NOT LIMITED TO)
 
