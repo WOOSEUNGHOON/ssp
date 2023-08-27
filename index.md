@@ -3,13 +3,7 @@
 
 {% include images.html %}
 
-{%
-  include figure.html
-  image="images/main.png"
-  caption=""
-  link=""
-  width="1000px"
-%}
+![plain image](/images/main.png)
 
 # Software Security and Privacy Laboratory @ Korea UNIVERSITY
 
