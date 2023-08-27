@@ -3,7 +3,7 @@
 
 {% include images.html %}
 
-![plain image](/ssp/images/main.png)
+![plain image](/ssp/images/main.jpg)
 
 # Software Security and Privacy Laboratory @ Korea UNIVERSITY
 
