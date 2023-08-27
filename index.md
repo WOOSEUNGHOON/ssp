@@ -6,9 +6,33 @@
 {%
   include figure.html
   image="images/centris1.png"
-  caption="<Centris: New tool helps prevent software supply chain attacks by flagging modified open source components, The Daily Swig, 2021>"
+  caption="<The Daily Swig, 2021>"
   link="https://portswigger.net/daily-swig/centris-new-tool-helps-prevent-software-supply-chain-attacks-by-flagging-modified-open-source-components"
-  width="400px"
+  width="300px"
+%}
+
+{%
+  include figure.html
+  image="images/centris1.png"
+  caption="<The Daily Swig, 2021>"
+  link="https://portswigger.net/daily-swig/centris-new-tool-helps-prevent-software-supply-chain-attacks-by-flagging-modified-open-source-components"
+  width="300px"
+%}
+
+{%
+  include figure.html
+  image="images/centris1.png"
+  caption="<The Daily Swig, 2021>"
+  link="https://portswigger.net/daily-swig/centris-new-tool-helps-prevent-software-supply-chain-attacks-by-flagging-modified-open-source-components"
+  width="300px"
+%}
+
+{%
+  include figure.html
+  image="images/centris1.png"
+  caption="<The Daily Swig, 2021>"
+  link="https://portswigger.net/daily-swig/centris-new-tool-helps-prevent-software-supply-chain-attacks-by-flagging-modified-open-source-components"
+  width="300px"
 %}
 
 # Software Security and Privacy Laboratory @ Korea UNIVERSITY
