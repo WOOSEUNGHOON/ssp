@@ -33,12 +33,12 @@ We are continuously looking for enthusiastic **Ph.D./master students**, **gradua
 
 ## CONTACT
 
-Room XXX, XXX<br>
+[Room] Not assigned yet<br>
 College of Informatics<br>
 Korea University<br>
 Anam-dong 5-ga, Seongbuk-gu<br>
 Seoul, Korea<br>
-[Office] +82.2.3290.XXXX<br>
+[Office] Not assigned yet<br>
 [Email] seunghoonwoo@korea.ac.kr
 
 {% for link in site.links %}
