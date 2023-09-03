@@ -19,6 +19,7 @@ We are continuously looking for enthusiastic **Ph.D./master students**, **gradua
 * **Supply Chain Security**
 * **Vulnerability Detection**
 * **Software Composition Analysis (SCA)**
+* **Software Bills of Materials (SBoM) Management**
 * **Security Patch Analysis**
 
 [See more](/ssp/research)
