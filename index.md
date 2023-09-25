@@ -3,7 +3,9 @@
 
 {% include images.html %}
 
-![plain image](/ssp/images/main.jpg)
+ <img src="images/main.jpg">  
+
+![plain image](/images/main.jpg)
 
 # Software Security and Privacy Laboratory @ Korea UNIVERSITY
 
