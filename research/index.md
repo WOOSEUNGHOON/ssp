@@ -16,13 +16,14 @@ We conduct various research on software security. Representative current researc
 {%
   include my_feature.html
   image="images/oss.jpg"
-  text="The reuse of open-source software (OSS) provides efficiency for developers. However, unmanaged OSS reuse may lead to the propagation of vulnerabilities. We have conducted research to devise scalable and precise vulnerability detection techniques aimed at resolving security threats caused by vulnerable OSS reuse. Our techniques can actually be used to resolve vulnerabilities in real-world popular software programs (e.g., Android, Redis, Mozjpeg, etc.). In addition, our research papers have been published in international conferences, including [V1SCAN](/ssp/assets/papers/SECURITY23.pdf) [USENIX Security '23], [MOVERY](/ssp/assets/papers/SECURITY22.pdf) [USENIX Security '22], and [VUDDY](/ssp/assets/papers/SNP17.pdf) [S&P '17]."
+  text="The reuse of open-source software (OSS) provides efficiency for developers. However, unmanaged OSS reuse may lead to the propagation of vulnerabilities. We have conducted research to devise scalable and precise vulnerability detection techniques aimed at resolving security threats caused by vulnerable OSS reuse. Our techniques can actually be used to resolve vulnerabilities in real-world popular software programs (e.g., Android, Redis, Mozjpeg, etc.). In addition, our research papers have been published in international conferences, including [V1SCAN](/assets/papers/SECURITY23.pdf) [USENIX Security '23], [MOVERY](/assets/papers/SECURITY22.pdf) [USENIX Security '22], and [VUDDY](/assets/papers/SNP17.pdf) [S&P '17]."
   flip=false
 %}
 
 - ["소프트웨어 보안취약점, 기존 기술 대비 최대 6배 이상 탐지 가능" (KR)](https://www.korea.ac.kr/user/boardList.do?boardId=474633&command=albumView&page=1&boardSeq=493539&id=university_060108000000)
 - ["이희조 고려대 교수팀 , 취약 코드 탐지 MOVERY 기술 개발" (KR)](https://n.news.naver.com/mnews/article/030/0003046842?sid=105)
-- ["고려대, ‘재사용 코드’ 자동 탐지 기술 개발" (KR)](http://www.veritas-a.com/news/articleView.html?idxno=83064)
+- ["고려대, '재사용 코드'' 자동 탐지 기술 개발" (KR)](http://www.veritas-a.com/news/articleView.html?idxno=83064)
+- ["이희조·우승훈 고려대 컴퓨터학과 교수 연구팀, 오픈소스 소프트웨어 취약점 탐지 기술 V1SCAN 개발" (KR)](https://www.dailysmart.co.kr/news/articleView.html?idxno=77884)
 
 
 {% include section.html %}
@@ -32,7 +33,7 @@ We conduct various research on software security. Representative current researc
 {%
   include my_feature.html
   image="images/sca.jpg"
-  text="Identifying what and how OSS projects are reused in the software program is the very first step towards ensuring software security. Our research can precisely identify third-party OSS components from the target software codebase, especially in C/C++ languages where identifying OSS components is challenging. The results of the research have been published in international conferences, including [CENTRIS](/ssp/assets/papers/ICSE21.pdf) [ICSE '21]."
+  text="Identifying what and how OSS projects are reused in the software program is the very first step towards ensuring software security. Our research can precisely identify third-party OSS components from the target software codebase, especially in C/C++ languages where identifying OSS components is challenging. The results of the research have been published in international conferences, including [CENTRIS](/assets/papers/ICSE21.pdf) [ICSE '21]."
   flip=true
 %}
 
@@ -49,7 +50,7 @@ We conduct various research on software security. Representative current researc
 {%
   include my_feature.html
   image="images/patch.jpg"
-  text="Assessing the quality of security patches provided through public vulnerability databases (e.g., NVD) is an essential task for proper vulnerability resolution. We have conducted research ranging from effective methods of collecting security patches to techniques for verifying their quality. The results of our research have been presented in international conferences and journals as papers, including [V0Finder](/ssp/assets/papers/SECURITY21.pdf) [USENIX Security '21] and [xVDB](/ssp/assets/papers/ACCESS22_xvdb.pdf) [IEEE ACCESS '22]."
+  text="Assessing the quality of security patches provided through public vulnerability databases (e.g., NVD) is an essential task for proper vulnerability resolution. We have conducted research ranging from effective methods of collecting security patches to techniques for verifying their quality. The results of our research have been presented in international conferences and journals as papers, including [V0Finder](/assets/papers/SECURITY21.pdf) [USENIX Security '21] and [xVDB](/assets/papers/ACCESS22_xvdb.pdf) [IEEE ACCESS '22]."
   flip=false
 %}
 
