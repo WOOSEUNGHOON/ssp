@@ -16,7 +16,7 @@ We are continuously looking for enthusiastic **Ph.D./master students**, **gradua
 ## ADVISOR
 
 {%
-  include my_feature.html
+  include my_feature_idx.html
   image="images/profile.jpg"
   text="**Seunghoon Woo (우승훈)**<br>(seunghoonwoo@korea.ac.kr)<br>Assistant professor<br>[Dept. of Computer Science and Engineering](https://cs.korea.ac.kr/)<br>[College of Informatics](https://info.korea.ac.kr/), [Korea University](https://www.korea.ac.kr/)<br>[[CV]](/assets/CV.pdf)"
   flip=false
@@ -35,15 +35,15 @@ We are continuously looking for enthusiastic **Ph.D./master students**, **gradua
 
 ## EDUCATIONAL BACKGROUND
 
-* 2016.09 - 2022.08, Ph.D and M.S., Dept. of Computer Science and Engineering, Korea University
-* 2010.03 - 2016.02, B.S., Dept. of Computer Science and Engineering, Korea University
+* 2016.09 - 2022.08, **Ph.D and M.S.**, Dept. of Computer Science and Engineering, Korea University
+* 2010.03 - 2016.02, **B.S.**, Dept. of Computer Science and Engineering, Korea University
 * 2007.03 - 2010.02, Changwon Yongho High School
 
 ## WORKING EXPERIENCES
 
-* 2023.09 - Present, Assistant Professor, Dept. of Computer Science and Engineering, Korea University
-* 2022.05 - Present, Chief Scientist, LABRADOR LABS Inc.
-* 2022.09 - 2023.08, Research Professor, Center for Software Security and Assurance (CSSA), Korea University
+* 2023.09 - Present, **Assistant Professor**, Dept. of Computer Science and Engineering, Korea University
+* 2022.05 - Present, **Chief Scientist**, LABRADOR LABS Inc.
+* 2022.09 - 2023.08, **Research Professor**, Center for Software Security and Assurance (CSSA), Korea University
 
 ## LATEST NEWS
 
