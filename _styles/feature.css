@@ -6,6 +6,15 @@
   margin: 40px 0;
 }
 
+.feature-image-idx {
+  flex-shrink: 0;
+  width: 20%;
+  aspect-ratio: 1;
+  border-radius: var(--rounded);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
+
 .feature-image {
   flex-shrink: 0;
   width: 30%;
