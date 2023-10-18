@@ -50,6 +50,13 @@ We are continuously looking for enthusiastic **Ph.D./master students**, **gradua
 * **Aug. 2023**: **[V1SCAN](/assets/papers/SECURITY23.pdf)** has been published at **[USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)**.
 * <U>SSP lab</U> has been established.
 
+## REVIEWER
+
+* TSE: IEEE Transactions on Software Engineering (2023)
+* TOSEM: ACM Transactions on Software Engineering and Methodology (2023)
+* SP&E: Software Practice and Experience (2023)
+* IEEE Transactions on Vehicular Technology (2022)
+* Journal of Communications and Networks (2021)
 
 ## CONTACT
 
