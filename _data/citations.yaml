@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2023.10.11.560955
+  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+  authors:
+  - Richard J. Abdill
+  - Samantha P. Graham
+  - Vincent Rubinetti
+  - Frank W. Albert
+  - Casey S. Greene
+  - Sean Davis
+  - Ran Blekhman
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-10-11'
+  link: https://doi.org/gsvf5z
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/nar/gkad289
   title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
     and user-created collections of genes'
@@ -61,6 +77,28 @@
   publisher: GigaScience
   date: '2022-12-28'
   link: https://doi.org/gsd85n
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.02.18.461833
+  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
+    and phylogeny'
+  authors:
+  - Jacob D Krol
+  - Joseph T Burke
+  - Samuel Z Chen
+  - Lo Sosinski
+  - Faisal S Alquaddoomi
+  - Evan P Brenner
+  - Ethan P Wolfe
+  - Vince P Rubinetti
+  - Shaddai Amolitos
+  - Kellen M Reason
+  - John B Johnston
+  - Janani Ravi
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-02-22'
+  link: https://doi.org/gstx7j
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
