@@ -15,7 +15,7 @@ USENIX Security (2021, 2022, 2023), ICSE (2021), S&P (2017), ACSAC (2021), DSN (
 
 ## 2023
 
-- **V1SCAN: Discovering 1-day Vulnerabilities in Reused C/C++ Open-source Software Components Using Code Classification Techniques**<br>Seunghoon Woo, Eunjin Choi, Heejo Lee, Hakjoo Oh<br><i class="fa-solid fa-crown"></i> 32nd USENIX Security Symposium (Security 2023)<br>[[paper]](/assets/papers/SECURITY23.pdf) [[slide]](/assets/presentations/V1SCAN_SECURITY23_presentation.pdf) [[code]](https://github.com/wooseunghoon/V1SCAN-public)
+- **V1SCAN: Discovering 1-day Vulnerabilities in Reused C/C++ Open-source Software Components Using Code Classification Techniques**<br>Seunghoon Woo, Eunjin Choi, Heejo Lee, Hakjoo Oh<br><i class="fa-solid fa-crown"></i> 32nd USENIX Security Symposium (Security 2023)<br>[[paper]](/assets/papers/SECURITY23.pdf) [[slide]](/assets/presentations/V1SCAN_SECURITY23_presentation.pdf) [[code]](https://github.com/wooseunghoon/V1SCAN-public) [[article1]](https://www.koit.co.kr/news/articleView.html?idxno=117106)
 
 - **ZMAD: Lightweight Model-based Anomaly Detection for the Structured Z-Wave Protocol**<br>Carlos Nkuba Kayembe, Seunghoon Woo, Heejo Lee, Sven Dietrich<br>IEEE ACCESS (2023, IF:3.476)<br>[[paper]](/assets/papers/ACCESS23.pdf)
 
