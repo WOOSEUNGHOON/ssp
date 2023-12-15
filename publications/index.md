@@ -8,10 +8,13 @@ nav:
 # {% include icon.html icon="fa-solid fa-book" %}Publications
 
 Published research papers on software security and engineering in prestigious conferences and journals including
-USENIX Security (2021, 2022, 2023), ICSE (2021), S&P (2017), ACSAC (2021), DSN (2021, 2022), and IEEE ACCESS (2022, 2023).
+USENIX Security (2021, 2022, 2023), ICSE (2021, 2024), S&P (2017), ACSAC (2021), DSN (2021, 2022), and IEEE ACCESS (2022, 2023).
 <br><br>
 <i class="fa-solid fa-crown"></i>: Top-tier conferences
 {% include section.html %}
+
+## 2024
+- **CNEPS: A Precise Approach for Examining Dependencies among Third-Party C/C++ Open-Source Components (To appear)**<br>Yoonjong Na, Seunghoon Woo&#42;, Joomyeong Lee, Heejo Lee&#42; (* Co-corresponding authors)<br><i class="fa-solid fa-crown"></i>46th International Conference on Software Engineering (ICSE 2024)
 
 ## 2023
 
