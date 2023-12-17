@@ -15,6 +15,12 @@ Software Security and Privacy Laboratory (SSP Lab) was established in 2023. We c
 
 We are continuously looking for enthusiastic **Ph.D./master students**, **graduate/undergraduate interns**, and **postdocs** interested in working with us. Please contact Prof. Seunghoon Woo (<U>seunghoonwoo@korea.ac.kr</U>).
 
+## LATEST NEWS
+
+* **Dec. 2023**: **CNEPS** has been accepted at **[ICSE 2024](https://conf.researchr.org/home/icse-2024)**.
+* **Aug. 2023**: **[V1SCAN](/assets/papers/SECURITY23.pdf)** has been published at **[USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)**.
+* <U>SSP lab</U> has been established.
+
 ## ADVISOR
 
 {%
@@ -46,12 +52,6 @@ We are continuously looking for enthusiastic **Ph.D./master students**, **gradua
 * 2023.09 - Present, **Assistant Professor**, Dept. of Computer Science and Engineering, Korea University
 * 2022.05 - Present, **Chief Scientist**, LABRADOR LABS Inc.
 * 2022.09 - 2023.08, **Research Professor**, Center for Software Security and Assurance (CSSA), Korea University
-
-## LATEST NEWS
-
-* **Dec. 2023**: **CNEPS** has been accepted at **[ICSE 2024](https://conf.researchr.org/home/icse-2024)**.
-* **Aug. 2023**: **[V1SCAN](/assets/papers/SECURITY23.pdf)** has been published at **[USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)**.
-* <U>SSP lab</U> has been established.
 
 ## REVIEWER
 
