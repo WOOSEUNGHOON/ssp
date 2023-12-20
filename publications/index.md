@@ -16,6 +16,8 @@ USENIX Security (2021, 2022, 2023), ICSE (2021, 2024), S&P (2017), ACSAC (2021),
 ## 2024
 - **CNEPS: A Precise Approach for Examining Dependencies among Third-Party C/C++ Open-Source Components (To appear)**<br>Yoonjong Na, Seunghoon Woo&#42;, Joomyeong Lee, Heejo Lee&#42; (* Co-corresponding authors)<br><i class="fa-solid fa-crown"></i> 46th International Conference on Software Engineering (ICSE 2024)
 
+{% include section.html %}
+
 ## 2023
 
 - **V1SCAN: Discovering 1-day Vulnerabilities in Reused C/C++ Open-source Software Components Using Code Classification Techniques**<br>Seunghoon Woo, Eunjin Choi, Heejo Lee, Hakjoo Oh<br><i class="fa-solid fa-crown"></i> 32nd USENIX Security Symposium (Security 2023)<br>[[paper]](/assets/papers/SECURITY23.pdf) [[slide]](/assets/presentations/V1SCAN_SECURITY23_presentation.pdf) [[code]](https://github.com/wooseunghoon/V1SCAN-public) [[article1]](https://www.koit.co.kr/news/articleView.html?idxno=117106)
