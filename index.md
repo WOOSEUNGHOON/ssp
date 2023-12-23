@@ -43,7 +43,7 @@ We are continuously looking for enthusiastic **Ph.D./master students**, **gradua
 
 ## EDUCATIONAL BACKGROUND
 
-* 2016.09 - 2022.08, **Ph.D and M.S.**, Dept. of Computer Science and Engineering, Korea University
+* 2016.09 - 2022.08, **Ph.D and M.S.**, Dept. of Computer Science and Engineering, Korea University (Advisor: Prof. Heejo Lee)
 * 2010.03 - 2016.02, **B.S.**, Dept. of Computer Science and Engineering, Korea University
 * 2007.03 - 2010.02, Changwon Yongho High School
 
@@ -52,6 +52,9 @@ We are continuously looking for enthusiastic **Ph.D./master students**, **gradua
 * 2023.09 - Present, **Assistant Professor**, Dept. of Computer Science and Engineering, Korea University
 * 2022.05 - Present, **Chief Scientist**, LABRADOR LABS Inc.
 * 2022.09 - 2023.08, **Research Professor**, Center for Software Security and Assurance (CSSA), Korea University
+* 2016.12 - 2017.03, **Visiting Researcher**, National University of Singapore (Adivsor: Prof. Min Suk Kang)
+* 2015.12 - 2016.02, **Employee**, Samsung Electronics.
+* 2014.06 - 2014.08, **Internship**, Samsung Electronics.
 
 ## REVIEWER
 
