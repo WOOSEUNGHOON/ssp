@@ -52,12 +52,13 @@ We are continuously looking for enthusiastic **Ph.D./master students**, **gradua
 * 2023.09 - Present, **Assistant Professor**, Dept. of Computer Science and Engineering, Korea University
 * 2022.05 - Present, **Chief Scientist**, LABRADOR LABS Inc.
 * 2022.09 - 2023.08, **Research Professor**, Center for Software Security and Assurance (CSSA), Korea University
-* 2016.12 - 2017.03, **Visiting Researcher**, National University of Singapore (Adivsor: Prof. Min Suk Kang)
+* 2016.12 - 2017.03, **Visiting Researcher**, National University of Singapore (Advisor: Prof. Min Suk Kang)
 * 2015.12 - 2016.02, **Employee**, Samsung Electronics.
 * 2014.06 - 2014.08, **Internship**, Samsung Electronics.
 
 ## REVIEWER
 
+* TDSC: IEEE Transactions on Dependable and Secure Computing (2024)
 * TSE: IEEE Transactions on Software Engineering (2023)
 * TOSEM: ACM Transactions on Software Engineering and Methodology (2023)
 * SP&E: Software Practice and Experience (2023)
