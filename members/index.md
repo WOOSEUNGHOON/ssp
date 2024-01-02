@@ -32,4 +32,10 @@ Please contact Prof. Seunghoon Woo (<U>seunghoonwoo@korea.ac.kr</U>).
 
 ## Undergraduate students
 
-Please contact Prof. Seunghoon Woo (<U>seunghoonwoo@korea.ac.kr</U>).
+{%
+  include member_image.html
+  image="images/newnew_me.jpg"
+  text="**TEST**"
+  flip=false
+%}
+

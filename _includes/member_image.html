@@ -1,0 +1,10 @@
+<div>
+ <img
+      src="{{ include.image | relative_url }}"
+      alt="{{ include.title | default: "feature image" }}"
+      {% include fallback.html %}
+    >
+ <div class="feature-text">
+    {{ include.text | markdownify }}
+  </div>
+</div>
