@@ -1,9 +1,11 @@
-<div>
+<div class="feature">
+<a class="feature-image" aria-label="feature link">
  <img
       src="{{ include.image | relative_url }}"
       alt="{{ include.title | default: "feature image" }}"
       {% include fallback.html %}
     >
+  </a>
  <div class="feature-text">
     {{ include.text | markdownify }}
   </div>

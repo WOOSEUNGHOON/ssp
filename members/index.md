@@ -34,8 +34,16 @@ Please contact Prof. Seunghoon Woo (<U>seunghoonwoo@korea.ac.kr</U>).
 
 {%
   include member_image.html
-  image="images/newnew_me.jpg"
-  text="**TEST**"
+  image="images/SJM.jpg"
+  text="**Son Jimin (손지민)**<br>(jamie1608@korea.ac.kr)<br>Research Interests:"
+  flip=false
+%}
+
+
+{%
+  include member_image.html
+  image="images/NHS.jpg"
+  text="**Roh Hyunseo (노현서)**<br>(milknono@korea.ac.kr)<br>Research Interests: AI related software security"
   flip=false
 %}
 
