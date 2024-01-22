@@ -10,18 +10,18 @@ title: 2023fall_toc
 
 |Index|Lecture Title|Materials|
 |:---:|:---:|:---:|
-|0|Introduction|[![plain image](/images/pdf.png)](/assets/2023fall_toc/lec0.pdf)|
+|0|Introduction|[![plain image](/images/pdf.jpg)](/assets/2023fall_toc/lec0.pdf)|
 |1|Mathematical Preliminaries and Notations|[PDF](/assets/2023fall_toc/lec1.pdf)|
 |2|Finite Automata|[PDF](/assets/2023fall_toc/lec2.pdf)|
 |3|Regular Languages and Regular Grammars - I|[PDF](/assets/2023fall_toc/lec3_1.pdf)|
 |4|Regular Languages and Regular Grammars - II|[PDF](/assets/2023fall_toc/lec3_2.pdf)|
 |5|Properties of Regular Languages - I|[PDF](/assets/2023fall_toc/lec4_1.pdf)|
 |6|Properties of Regular Languages - II|[PDF](/assets/2023fall_toc/lec4_2.pdf)|
-|7|Context Free Languages - I|[PDF](/assets/2023fall_toc/lec5_1.pdf)|
-|8|Context Free Languages - II|[PDF](/assets/2023fall_toc/lec5_2.pdf)|
-|9|Simplification of Context Free Grammars and Normal Forms - I|[PDF](/assets/2023fall_toc/lec6_1.pdf)|
-|10|Simplification of Context Free Grammars and Normal Forms - II|[PDF](/assets/2023fall_toc/lec6_2.pdf)|
-|11|Simplification of Context Free Grammars and Normal Forms - III|[PDF](/assets/2023fall_toc/lec6_3.pdf)|
+|7|Context Free Languages (CFG) - I|[PDF](/assets/2023fall_toc/lec5_1.pdf)|
+|8|Context Free Languages (CFG) - II|[PDF](/assets/2023fall_toc/lec5_2.pdf)|
+|9|Simplification of CFG and Normal Forms - I|[PDF](/assets/2023fall_toc/lec6_1.pdf)|
+|10|Simplification of CFG and Normal Forms - II|[PDF](/assets/2023fall_toc/lec6_2.pdf)|
+|11|Simplification of CFG and Normal Forms - III|[PDF](/assets/2023fall_toc/lec6_3.pdf)|
 |12|Pushdown Automata - I|[PDF](/assets/2023fall_toc/lec7_1.pdf)|
 |13|Pushdown Automata - II|[PDF](/assets/2023fall_toc/lec7_2.pdf)|
 |14|Pushdown Automata - III|[PDF](/assets/2023fall_toc/lec7_3.pdf)|
