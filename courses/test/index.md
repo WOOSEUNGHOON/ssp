@@ -1,3 +1,7 @@
+---
+title: TEST
+---
+
 # {% include icon.html icon="fa-solid fa-wrench" %}TEST
 
 ## 2023 Fall
