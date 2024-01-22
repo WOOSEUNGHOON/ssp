@@ -8,5 +8,4 @@ nav:
 # {% include icon.html icon="fa-solid fa-wrench" %}Courses
 
 ## 2023 Fall
-- [COSE215] Theory of Computation
-[see more](/courses/test/)
+- [COSE215] [Theory of Computation](/courses/2023fall_toc/)
