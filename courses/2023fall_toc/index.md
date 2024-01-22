@@ -10,9 +10,9 @@ title: 2023fall_toc
 
 |Index|Lecture Title|Materials|
 |:---:|:---:|:---:|
-|0|Introduction|[![plain image](/images/pdf_small.png)](/assets/2023fall_toc/lec0.pdf)|
+|0|Introduction|[![plain image](/images/png_small_test1.png)](/assets/2023fall_toc/lec0.pdf)|
 |1|Mathematical Preliminaries and Notations|[![plain image](/images/pdf_small.png)](/assets/2023fall_toc/lec1.pdf)|
-|2|Finite Automata|[![plain image](/images/pdf_small.png)](/assets/2023fall_toc/lec2.pdf)|
+|2|Finite Automata|[![plain image](/images/myicon1.png)](/assets/2023fall_toc/lec2.pdf)|
 |3|Regular Languages and Regular Grammars - I|[![plain image](/images/pdf_small.png)](/assets/2023fall_toc/lec3_1.pdf)|
 |4|Regular Languages and Regular Grammars - II|[![plain image](/images/pdf_small.png)](/assets/2023fall_toc/lec3_2.pdf)|
 |5|Properties of Regular Languages - I|[![plain image](/images/pdf_small.png)](/assets/2023fall_toc/lec4_1.pdf)|
