@@ -24,7 +24,7 @@ title: 2023fall_toc
 |11|Simplification of CFG and Normal Forms - III|[{% include pdf_icon.html icon="fa-solid fa-file-pdf" %}](/assets/2023fall_toc/lec6_3.pdf)|
 |12|Pushdown Automata - I|[{% include pdf_icon.html icon="fa-solid fa-file-pdf" %}](/assets/2023fall_toc/lec7_1.pdf)|
 |13|Pushdown Automata - II|[{% include pdf_icon.html icon="fa-solid fa-file-pdf" %}](/assets/2023fall_toc/lec7_2.pdf)|
-|14|Pushdown A[PDF]utomata - III|[{% include pdf_icon.html icon="fa-solid fa-file-pdf" %}](/assets/2023fall_toc/lec7_3.pdf)|
+|14|Pushdown Automata - III|[{% include pdf_icon.html icon="fa-solid fa-file-pdf" %}](/assets/2023fall_toc/lec7_3.pdf)|
 |15|Properties of Context Free Languages - I|[{% include pdf_icon.html icon="fa-solid fa-file-pdf" %}](/assets/2023fall_toc/lec8_1.pdf)|
 |16|Properties of Context Free Languages - II|[{% include pdf_icon.html icon="fa-solid fa-file-pdf" %}](/assets/2023fall_toc/lec8_2.pdf)|
 |17|Turing Machines - I|[{% include pdf_icon.html icon="fa-solid fa-file-pdf" %}](/assets/2023fall_toc/lec9_1.pdf)|
