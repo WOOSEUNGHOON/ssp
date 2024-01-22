@@ -13,7 +13,7 @@ Software Security and Privacy Laboratory (SSP Lab) was established in 2023. We c
 
 ## RECRUITMENT
 
-We are continuously looking for enthusiastic **Ph.D./master students**, **graduate/undergraduate interns**, and **postdocs** interested in working with us. Please contact Prof. Seunghoon Woo (<U>seunghoonwoo[at]korea.ac.kr</U>).
+We are continuously looking for enthusiastic **Ph.D./master students**, **graduate/undergraduate interns**, and **postdocs** interested in working with us. Please contact Prof. Seunghoon Woo (<U>seunghoonwoo [at] korea.ac.kr</U>).
 
 ## LATEST NEWS
 
@@ -26,7 +26,7 @@ We are continuously looking for enthusiastic **Ph.D./master students**, **gradua
 {%
   include my_feature_idx.html
   image="images/profile.jpg"
-  text="**Seunghoon Woo (우승훈)**<br>(seunghoonwoo[at]korea.ac.kr)<br>Assistant professor<br>[Dept. of Computer Science and Engineering](https://cs.korea.ac.kr/)<br>[College of Informatics](https://info.korea.ac.kr/), [Korea University](https://www.korea.ac.kr/)<br>[[CV]](/assets/CV.pdf)"
+  text="**Seunghoon Woo (우승훈)**<br>(seunghoonwoo [at] korea.ac.kr)<br>Assistant professor<br>[Dept. of Computer Science and Engineering](https://cs.korea.ac.kr/)<br>[College of Informatics](https://info.korea.ac.kr/), [Korea University](https://www.korea.ac.kr/)<br>[[CV]](/assets/CV.pdf)"
   flip=false
 %}
 
@@ -73,7 +73,7 @@ Korea University<br>
 Anam-dong 5-ga, Seongbuk-gu<br>
 Seoul, Korea<br>
 [Office] Not assigned yet<br>
-[Email] seunghoonwoo[at]korea.ac.kr
+[Email] seunghoonwoo [at] korea.ac.kr
 
 {% for link in site.links %}
     {% assign key = link[0] %}
