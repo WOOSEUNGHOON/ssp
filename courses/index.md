@@ -9,3 +9,4 @@ nav:
 
 ## 2023 Fall
 - [COSE215] Theory of Computation
+[see more](/courses/test/)
