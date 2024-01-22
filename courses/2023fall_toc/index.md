@@ -17,11 +17,11 @@ title: 2023fall_toc
 |4|Regular Languages and Regular Grammars - II|[{% include pdf_icon.html icon="fa-solid fa-file-pdf" %}](/assets/2023fall_toc/lec3_2.pdf)|
 |5|Properties of Regular Languages - I|[{% include pdf_icon.html icon="fa-solid fa-file-pdf" %}](/assets/2023fall_toc/lec4_1.pdf)|
 |6|Properties of Regular Languages - II|[{% include pdf_icon.html icon="fa-solid fa-file-pdf" %}](/assets/2023fall_toc/lec4_2.pdf)|
-|7|Context Free Languages (CFG) - I|[{% include pdf_icon.html icon="fa-solid fa-file-pdf" %}](/assets/2023fall_toc/lec5_1.pdf)|
-|8|Context Free Languages (CFG) - II|[{% include pdf_icon.html icon="fa-solid fa-file-pdf" %}](/assets/2023fall_toc/lec5_2.pdf)|
-|9|Simplification of CFG and Normal Forms - I|[{% include pdf_icon.html icon="fa-solid fa-file-pdf" %}](/assets/2023fall_toc/lec6_1.pdf)|
-|10|Simplification of CFG and Normal Forms - II|[{% include pdf_icon.html icon="fa-solid fa-file-pdf" %}](/assets/2023fall_toc/lec6_2.pdf)|
-|11|Simplification of CFG and Normal Forms - III|[{% include pdf_icon.html icon="fa-solid fa-file-pdf" %}](/assets/2023fall_toc/lec6_3.pdf)|
+|7|Context Free Languages - I|[{% include pdf_icon.html icon="fa-solid fa-file-pdf" %}](/assets/2023fall_toc/lec5_1.pdf)|
+|8|Context Free Languages - II|[{% include pdf_icon.html icon="fa-solid fa-file-pdf" %}](/assets/2023fall_toc/lec5_2.pdf)|
+|9|Simplification of Context Free Grammars and Normal Forms - I|[{% include pdf_icon.html icon="fa-solid fa-file-pdf" %}](/assets/2023fall_toc/lec6_1.pdf)|
+|10|Simplification of Context Free Grammars and Normal Forms - II|[{% include pdf_icon.html icon="fa-solid fa-file-pdf" %}](/assets/2023fall_toc/lec6_2.pdf)|
+|11|Simplification of Context Free Grammars and Normal Forms - III|[{% include pdf_icon.html icon="fa-solid fa-file-pdf" %}](/assets/2023fall_toc/lec6_3.pdf)|
 |12|Pushdown Automata - I|[{% include pdf_icon.html icon="fa-solid fa-file-pdf" %}](/assets/2023fall_toc/lec7_1.pdf)|
 |13|Pushdown Automata - II|[{% include pdf_icon.html icon="fa-solid fa-file-pdf" %}](/assets/2023fall_toc/lec7_2.pdf)|
 |14|Pushdown Automata - III|[{% include pdf_icon.html icon="fa-solid fa-file-pdf" %}](/assets/2023fall_toc/lec7_3.pdf)|
