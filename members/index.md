@@ -47,3 +47,15 @@ Please contact Prof. Seunghoon Woo (<U>seunghoonwoo [at] korea.ac.kr</U>).
   flip=false
 %}
 
+{%
+  include member_image.html
+  image="images/CYJ.jpg"
+  text="**Choi Youngjae (최영재)**<br>(youngjaechoi727 [at] gmail.com)<br>Research Interests: Vulnerability Detection with AI"
+  flip=false
+%}
+
+{% include section.html %}
+
+## Former members
+
+
