@@ -9,7 +9,7 @@ nav:
 
 
 ## 2024 Spring
-- [COSE451] Software Security
+- [COSE451] [Software Security](/courses/2024spr_ss/)
 
 ## 2023 Fall
 - [COSE215] [Theory of Computation](/courses/2023fall_toc/)
