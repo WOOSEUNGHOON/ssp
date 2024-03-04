@@ -22,7 +22,7 @@ nav:
 
 {%
   include member_image.html
-  image="images/YHD_2.jpg"
+  image="images/YHD2.jpg"
   text="**Yang Heedong (양희동)**<br>(heedongy [at] korea.ac.kr)<br>Research Interests: Binary Code Similarity Detection, Software Security"
   flip=false
 %}
