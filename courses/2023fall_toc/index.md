@@ -6,8 +6,6 @@ title: 2023fall_toc
 
 ## Instructor: Seunghoon Woo
 
-- Course Materials
-
 |Index|Lecture Title|Materials|
 |:---:|:---:|:---:|
 |0|Introduction|[{% include pdf_icon.html icon="fa-solid fa-file-pdf" %}](/assets/2023fall_toc/lec0.pdf)|

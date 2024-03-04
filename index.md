@@ -67,13 +67,13 @@ We are continuously looking for enthusiastic **Ph.D./master students**, **gradua
 
 ## CONTACT
 
-[Room] Not assigned yet<br>
+<i class="fa-solid fa-home"></i> 206B, Woojung Hall of Informatics<br>
 College of Informatics<br>
 Korea University<br>
 Anam-dong 5-ga, Seongbuk-gu<br>
 Seoul, Korea<br>
-[Office] Not assigned yet<br>
-[Email] seunghoonwoo [at] korea.ac.kr
+<i class="fa-solid fa-phone"></i> +82-2-3290-3192<br>
+<i class="fa-solid fa-envelope"></i> seunghoonwoo [at] korea.ac.kr
 
 {% for link in site.links %}
     {% assign key = link[0] %}
