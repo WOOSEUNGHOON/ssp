@@ -20,7 +20,12 @@ nav:
 
 ## Ph.D. students
 
-Please contact Prof. Seunghoon Woo (<U>seunghoonwoo [at] korea.ac.kr</U>).
+{%
+  include member_image.html
+  image="images/YHD2.jpg"
+  text="**Yang Heedong (양희동)**<br>(heedongy [at] korea.ac.kr)<br>Research Interests: Binary Code Similarity Detection, Software Security"
+  flip=false
+%}
 
 {% include section.html %}
 
