@@ -45,12 +45,12 @@ Please contact Prof. Seunghoon Woo (<U>seunghoonwoo [at] korea.ac.kr</U>).
 %}
 
 
-{%
+<!-- {%
   include member_image.html
   image="images/NHS.jpg"
   text="**Roh Hyunseo (노현서)**<br>(milknono [at] korea.ac.kr)<br>Research Interests: AI related Software Security"
   flip=false
-%}
+%} -->
 
 {%
   include member_image.html
@@ -63,4 +63,5 @@ Please contact Prof. Seunghoon Woo (<U>seunghoonwoo [at] korea.ac.kr</U>).
 
 ## Former members
 
+* Roh Hyunseo (노현서): Korea University
 
