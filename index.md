@@ -13,10 +13,11 @@ Software Security and Privacy Laboratory (SSP Lab) was established in 2023. We c
 
 ## RECRUITMENT
 
-We are continuously looking for enthusiastic **Ph.D./master students**, **graduate/undergraduate interns**, and **postdocs** interested in working with us. Please contact Prof. Seunghoon Woo (<U>seunghoonwoo [at] korea.ac.kr</U>).
+We are continuously looking for enthusiastic **Ph.D./master students** and **graduate/undergraduate interns** interested in working with us. Please contact Prof. Seunghoon Woo (<U>seunghoonwoo [at] korea.ac.kr</U>).
 
 ## LATEST NEWS
 
+* **Mar. 2024**: **BLOOMFUZZ** has been accepted at **[ESORICS 2024](https://esorics2024.org/)**.
 * **Dec. 2023**: **CNEPS** has been accepted at **[ICSE 2024](https://conf.researchr.org/home/icse-2024)**.
 * **Aug. 2023**: **[V1SCAN](/assets/papers/SECURITY23.pdf)** has been published at **[USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)**.
 * <U>SSP lab</U> has been established.
@@ -45,7 +46,6 @@ We are continuously looking for enthusiastic **Ph.D./master students**, **gradua
 
 * 2016.09 - 2022.08, **Ph.D and M.S.**, Dept. of Computer Science and Engineering, Korea University (Advisor: Prof. Heejo Lee)
 * 2010.03 - 2016.02, **B.S.**, Dept. of Computer Science and Engineering, Korea University
-* 2007.03 - 2010.02, Changwon Yongho High School
 
 ## WORKING EXPERIENCES
 
