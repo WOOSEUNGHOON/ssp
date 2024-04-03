@@ -17,9 +17,9 @@ We are continuously looking for enthusiastic **Ph.D./master students** and **gra
 
 ## LATEST NEWS
 
-* **Mar. 2024**: Our paper **BLOOMFUZZ** has been accepted at **[ESORICS 2024](https://esorics2024.org/)**! Congrats to Pyeongju.
+* **Mar. 2024**: Our paper **BLOOMFUZZ** has been accepted at **[ESORICS 2024](https://esorics2024.org/)**! Congrats to Pyeongju!
 * **Mar. 2024**: One **new Ph.D. student** is joining our team. Welcome Heedong Yang!
-* **Dec. 2023**: Our paper **CNEPS** has been accepted at **[ICSE 2024](https://conf.researchr.org/home/icse-2024)**! Congrats to Yoonjong.
+* **Dec. 2023**: Our paper **CNEPS** has been accepted at **[ICSE 2024](https://conf.researchr.org/home/icse-2024)**! Congrats to Yoonjong!
 * **Aug. 2023**: **[V1SCAN](/assets/papers/SECURITY23.pdf)** has been published at **[USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)**.
 * <U>SSP lab</U> has been established.
 
