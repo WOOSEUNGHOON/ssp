@@ -16,7 +16,7 @@ USENIX Security (2021, 2022, 2023), ICSE (2021, 2024), S&P (2017), ACSAC (2021),
 ## 2024
 - **BLOOMFUZZ: Unveiling Bluetooth L2CAP Vulnerabilities via State Cluster Fuzzing with Target-Oriented State Machines (To appear)**<br>Pyeongju Ahn, Yeonseok Jang, Seunghoon Woo&#42;, Heejo Lee&#42; (* Co-corresponding authors)<br>29th European Symposium on Research in Computer Security (ESORICS 2024)
 
-- **CNEPS: A Precise Approach for Examining Dependencies among Third-Party C/C++ Open-Source Components (To appear)**<br>Yoonjong Na, Seunghoon Woo&#42;, Joomyeong Lee, Heejo Lee&#42; (* Co-corresponding authors)<br><i class="fa-solid fa-crown"></i> 46th International Conference on Software Engineering (ICSE 2024)
+- **CNEPS: A Precise Approach for Examining Dependencies among Third-Party C/C++ Open-Source Components**<br>Yoonjong Na, Seunghoon Woo&#42;, Joomyeong Lee, Heejo Lee&#42; (* Co-corresponding authors)<br><i class="fa-solid fa-crown"></i> 46th International Conference on Software Engineering (ICSE 2024)<br>[[paper]](/assets/papers/ICSE24.pdf) [[slide]](/assets/presentations/CNEPS_ICSE24_presentation.pdf) [[code]](https://github.com/sodium49/CNEPS-public) [[article1]](https://www.boannews.com/media/view.asp?idx=129096&page=1&mkind=1&kind=5) [[article2]](https://ssl.dailysecu.com/news/articleView.html?idxno=155331)
 
 {% include section.html %}
 
@@ -44,7 +44,7 @@ Annual Computer Security Applications Conference (ACSAC 2021)<br>[[paper]](/asse
 
 - **V0Finder: Discovering the Correct Origin of Publicly Reported Software Vulnerabilities**<br>Seunghoon Woo, Dongwook Lee, Sunghan Park, Heejo Lee, Sven Dietrich<br><i class="fa-solid fa-crown"></i> 30th USENIX Security Symposium (Security 2021)<br>[[paper]](/assets/papers/SECURITY21.pdf) [[slide]](/assets/presentations/V0Finder_SECURITY21_presentation.pdf) [[code]](https://github.com/wooseunghoon/v0finder-public) [[article1]](https://www.boannews.com/media/view.asp?idx=100545) [[article2]](http://www.kyosu.net/news/articleView.html?idxno=76034)
 
-- **OctoPoCs: Automatic Verification of Propagated Vulnerable Code Using Reformed Proofs of Concept**<br>Seongkyeong Kwon, Seunghoon Woo, Gangmo Seong, Heejo Lee<br>51st IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2021)<br>[[paper]](/assets/papers/DSN21.pdf) [[slide]](/assets/s/OctoPoCs_DSN21_presentation.pdf) [[code]](https://github.com/blbi/OctoPoCs)
+- **OctoPoCs: Automatic Verification of Propagated Vulnerable Code Using Reformed Proofs of Concept**<br>Seongkyeong Kwon, Seunghoon Woo, Gangmo Seong, Heejo Lee<br>51st IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2021)<br>[[paper]](/assets/papers/DSN21.pdf) [[slide]](/assets/presentations/OctoPoCs_DSN21_presentation.pdf) [[code]](https://github.com/blbi/OctoPoCs)
 
 - **CENTRIS: A Precise and Scalable Approach for Identifying Modified Open-Source Software Reuse**<br>Seunghoon Woo, Sunghan Park, Seulbae Kim, Heejo Lee, Hakjoo Oh<br><i class="fa-solid fa-crown"></i> 43rd International Conference on Software Engineering (ICSE 2021)<br>[[paper]](/assets/papers/ICSE21.pdf) [[slide]](/assets/presentations/Centris_ICSE21_presentation.pdf) [[code]](https://github.com/wooseunghoon/centris-public) [[article1]](https://portswigger.net/daily-swig/centris-new-tool-helps-prevent-software-supply-chain-attacks-by-flagging-modified-open-source-components) [[article2]](https://www.boannews.com/media/view.asp?idx=95883)
 
