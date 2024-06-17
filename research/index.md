@@ -33,12 +33,13 @@ We conduct various research on software security. Representative current researc
 {%
   include my_feature.html
   image="images/sca.jpg"
-  text="Identifying what and how OSS projects are reused in the software program is the very first step towards ensuring software security. Our research can precisely identify third-party OSS components from the target software codebase, especially in C/C++ languages where identifying OSS components is challenging. The results of the research have been published in international conferences, including [CENTRIS](/assets/papers/ICSE21.pdf) [ICSE '21]."
+  text="Identifying what and how OSS projects are reused in the software program is the very first step towards ensuring software security. Our research can precisely identify third-party OSS components from the target software codebase, especially in C/C++ languages where identifying OSS components is challenging. The results of the research have been published in international conferences, including [CENTRIS](/assets/papers/ICSE21.pdf) [ICSE '21] and [CNEPS](/assets/papers/ICSE24.pdf) [ICSE '24]."
   flip=true
 %}
 
 - ["CENTRIS: New tool helps prevent software supply chain attacks by flagging modified open source components" (EN)](https://portswigger.net/daily-swig/centris-new-tool-helps-prevent-software-supply-chain-attacks-by-flagging-modified-open-source-components)
 - ["오픈소스 커뮤니티 노리는 공급망 공격, 국내 연구팀 기술로 차단한다" (KR)](https://www.boannews.com/media/view.asp?idx=95883)
+- ["고려대 이희조-우승훈 교수팀, 직접 개발한 CNEPS로 공급망 보안 강화" (KR)](https://www.boannews.com/media/view.asp?idx=129096&page=1&kind=5)
 
 
 
