@@ -446,10 +446,107 @@
   
   
 
-  <section class="background" data-size="page">
+  <section class="background" data-size="2em">
     <p><img src="images/newSSPlogo.png" style="width:200px; padding-right:30px" alt="TEST"><a href="https://www.korea.ac.kr/"><img src="images/korea_logo.png" style="width:140px; float:right; margin-top:15px;" alt="TEST"></a></p>
 
-<p><img src="/images/main.jpg" alt="plain image"></p>
+<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+
+<style>
+  .carousel {
+    position: relative;
+    width: 100%;
+    max-width: 1000px;
+    overflow: hidden;
+    margin: auto;
+    aspect-ratio: 16 / 9; 
+  }
+
+  .carousel-inner {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+    height: 100%;
+  }
+
+  .carousel-item {
+    min-width: 100%;
+    box-sizing: border-box;
+    height: 100%;
+  }
+
+  .carousel-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  .carousel-control-prev,
+  .carousel-control-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none;
+    color: white;
+    font-size: 2em;
+    cursor: pointer;
+    padding: 0.5em;
+    z-index: 1;
+  }
+
+  .carousel-control-prev {
+    left: 10px;
+  }
+
+  .carousel-control-next {
+    right: 10px;
+  }
+
+  @media (max-width: 768px) {
+    .carousel-control-prev,
+    .carousel-control-next {
+      font-size: 1.5em;
+      padding: 0.25em;
+    }
+  }
+</style>
+
+<div class="carousel swiper-container">
+  <div class="carousel-inner swiper-wrapper">
+    <div class="carousel-item swiper-slide active">
+      <img src="image_src1" alt="Image 1">
+    </div>
+    <div class="carousel-item swiper-slide">
+      <img src="image_src2" alt="Image 2">
+    </div>
+    <div class="carousel-item swiper-slide">
+      <img src="image_src3" alt="Image 3">
+    </div>
+  </div>
+  <div class="swiper-pagination"></div> <!-- Pagination element -->
+  <button class="carousel-control-prev" onclick="prevSlide()">❮</button>
+  <button class="carousel-control-next" onclick="nextSlide()">❯</button>
+</div>
+
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const swiper = new Swiper('.swiper-container', {
+      loop: true,
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+      },
+      navigation: {
+        nextEl: '.carousel-control-next',
+        prevEl: '.carousel-control-prev',
+      },
+      slidesPerView: 1,
+      spaceBetween: 0, // No spacing between slides
+    });
+  });
+</script>
 
 <h1 id="software-security-and-privacy-laboratory--korea-university">Software Security and Privacy Laboratory @ Korea UNIVERSITY</h1>
 
