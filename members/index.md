@@ -23,7 +23,7 @@ nav:
 {%
   include member_image.html
   image="images/YHD2.jpg"
-  text="**Yang Heedong (양희동)**<br>(heedongy [at] korea.ac.kr)<br>Research Interests: Binary Code Similarity Detection, Software Security"
+  text="**Heedong Yang (양희동)**<br>(heedongy [at] korea.ac.kr)<br>Research Interests: Binary Code Similarity Detection, Software Security"
   flip=false
 %}
 
@@ -31,7 +31,13 @@ nav:
 
 ## MS students
 
-Please contact Prof. Seunghoon Woo (<U>seunghoonwoo [at] korea.ac.kr</U>).
+{%
+  include member_image.html
+  image="images/CYJ.jpg"
+  text="**Youngjae Choi (최영재)**<br>(youngjaechoi727 [at] gmail.com)<br>Research Interests: OSS Vulnerability Detection, Software Composition Analysis"
+  flip=false
+%}
+
 
 {% include section.html %}
 
@@ -39,10 +45,17 @@ Please contact Prof. Seunghoon Woo (<U>seunghoonwoo [at] korea.ac.kr</U>).
 
 {%
   include member_image.html
+  image="images/default.jpg"
+  text="**Hajin Yun (윤하진)**<br>(faiith7001 [at] gmail.com)<br>Research Interests: Software Security"
+  flip=false
+%}
+
+<!-- {%
+  include member_image.html
   image="images/SJM.jpg"
   text="**Son Jimin (손지민)**<br>(jamie1608 [at] korea.ac.kr)<br>Research Interests: Software Security"
   flip=false
-%}
+%} -->
 
 
 <!-- {%
@@ -52,16 +65,12 @@ Please contact Prof. Seunghoon Woo (<U>seunghoonwoo [at] korea.ac.kr</U>).
   flip=false
 %} -->
 
-{%
-  include member_image.html
-  image="images/CYJ.jpg"
-  text="**Choi Youngjae (최영재)**<br>(youngjaechoi727 [at] gmail.com)<br>Research Interests: Vulnerability Detection with AI"
-  flip=false
-%}
+
 
 {% include section.html %}
 
 ## Former members
 
-* Roh Hyunseo (노현서): Korea University
+* Jimin Son (손지민): Korea University 
+* Hyunseo Roh (노현서): Korea University
 
