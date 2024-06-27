@@ -45,7 +45,7 @@ nav:
 
 {%
   include member_image.html
-  image="images/default.jpg"
+  image="images/default.png"
   text="**Hajin Yun (윤하진)**<br>(faiith7001 [at] gmail.com)<br>Research Interests: Software Security"
   flip=false
 %}
