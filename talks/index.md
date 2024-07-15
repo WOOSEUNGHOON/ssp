@@ -9,6 +9,7 @@ nav:
 
 {% include section.html %}
 
+- **공급망 보안을 위한 수정된 오픈소스SW 재사용 관리**<br>공급망보안 워크숍(Jul 2024)<br>[[presentation]](https://youtu.be/ahKQsvm7j3A?t=26719s)
 - **오픈소스 소프트웨어 취약점 탐지 기술 동향**<br>IoTcube Conference 2023 (Aug 2023)
 - **V1SCAN: Discovering 1-day Vulnerabilities in Reused C/C++ Open-source Software Components Using Code Classification Techniques**<br>Paper presentation at 32nd USENIX Security Symposium (Aug 2023)<br>[[presentation]](https://www.youtube.com/watch?v=BZnDgVNi9jY)
 - **공급망 보안을 위한 오픈소스 소프트웨어 취약점 탐지**<br>NetSec-KR (Apr 2023)
