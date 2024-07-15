@@ -17,6 +17,7 @@ We are continuously looking for enthusiastic **Ph.D./master students** and **gra
 
 ## LATEST NEWS
 
+* **Jul. 2024**: Prof. Woo won the **Best Teaching Award** for the Theory of Computation class in Fall 2023!
 * **Mar. 2024**: Our paper **BLOOMFUZZ** has been accepted at **[ESORICS 2024](https://esorics2024.org/)**. Congrats to Pyeongju!
 * **Mar. 2024**: One **new Ph.D. student** is joining our team. Welcome Heedong Yang!
 * **Dec. 2023**: Our paper **[CNEPS](/assets/papers/ICSE24.pdf)** has been accepted at **[ICSE 2024](https://conf.researchr.org/home/icse-2024)**. Congrats to Yoonjong!
