@@ -50,6 +50,13 @@ nav:
   flip=false
 %}
 
+{%
+  include member_image.html
+  image="images/default.png"
+  text="**Meshkat Mesbah**<br>(meshkatmsb [at] korea.ac.kr)<br>Research Interests: Software Security"
+  flip=false
+%}
+
 <!-- {%
   include member_image.html
   image="images/SJM.jpg"
