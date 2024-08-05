@@ -40,7 +40,7 @@ nav:
 
 {%
   include member_image.html
-  image="images/default.png"
+  image="images/JSG.jpg"
   text="**Seogyeong Cho (조서경)**<br>(jsg8777 [at] gmail.com)<br>Research Interests: AI for Software Security"
   flip=false
 %}
