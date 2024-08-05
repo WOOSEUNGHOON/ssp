@@ -59,7 +59,7 @@ nav:
 
 {%
   include member_image.html
-  image="images/default.png"
+  image="images/meshkat.jpg"
   text="**Meshkat Mesbah**<br>(meshkatmsb [at] korea.ac.kr)<br>Research Interests: Software Security"
   flip=false
 %}
