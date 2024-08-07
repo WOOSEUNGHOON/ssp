@@ -38,6 +38,13 @@ nav:
   flip=false
 %}
 
+{%
+  include member_image.html
+  image="images/JSG.jpg"
+  text="**Seogyeong Cho (조서경)**<br>(jsg8777 [at] gmail.com)<br>Research Interests: AI for Software Security"
+  flip=false
+%}
+
 
 {% include section.html %}
 
@@ -52,7 +59,7 @@ nav:
 
 {%
   include member_image.html
-  image="images/default.png"
+  image="images/meshkat.jpg"
   text="**Meshkat Mesbah**<br>(meshkatmsb [at] korea.ac.kr)<br>Research Interests: Software Security"
   flip=false
 %}
