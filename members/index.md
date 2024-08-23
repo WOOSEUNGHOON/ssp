@@ -22,7 +22,7 @@ nav:
 
 {%
   include member_image.html
-  image="images/YHD2.jpg"
+  image="images/YHD.png"
   text="**Heedong Yang (양희동)**<br>(heedongy [at] korea.ac.kr)<br>Research Interests: Binary Code Similarity Detection, Software Security"
   flip=false
 %}
@@ -85,6 +85,6 @@ nav:
 
 ## Former members
 
-* Jimin Son (손지민): Korea University 
+* Jimin Son (손지민): Korea University
 * Hyunseo Roh (노현서): Korea University
 
