@@ -13,13 +13,16 @@ Software Security and Privacy Laboratory (SSP Lab) was established in 2023. We c
 
 ## RECRUITMENT
 
+{% include clip.html %}
+
 We are continuously looking for enthusiastic **Ph.D./master students** and **graduate/undergraduate interns** interested in working with us. Please contact Prof. Seunghoon Woo (<U>seunghoonwoo [at] korea.ac.kr</U>).
 
 ## LATEST NEWS
 
+* **Sep. 2024**: Two **new MS students** are joining our team. Welcome Youngjae and Seogyeong!
 * **Jul. 2024**: Prof. Woo won the **Excellent Teaching Award (우수강좌상)** for the Theory of Computation class in Fall 2023!
 * **Mar. 2024**: Our paper **BLOOMFUZZ** has been accepted at **[ESORICS 2024](https://esorics2024.org/)**. Congrats to Pyeongju!
-* **Mar. 2024**: One **new Ph.D. student** is joining our team. Welcome Heedong Yang!
+* **Mar. 2024**: One **new Ph.D. student** is joining our team. Welcome Heedong!
 * **Dec. 2023**: Our paper **[CNEPS](/assets/papers/ICSE24.pdf)** has been accepted at **[ICSE 2024](https://conf.researchr.org/home/icse-2024)**. Congrats to Yoonjong!
 * **Aug. 2023**: Our paper **[V1SCAN](/assets/papers/SECURITY23.pdf)** has been published at **[USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)**.
 * <U>SSP lab</U> has been established.
