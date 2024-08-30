@@ -61,6 +61,10 @@ We are continuously looking for enthusiastic **Ph.D./master students** and **gra
 * 2015.12 - 2016.02, **Employee**, Samsung Electronics.
 * 2014.06 - 2014.08, **Internship**, Samsung Electronics.
 
+## COMMITEE
+
+* ASIACCS 2025 (Program Committee Member)
+
 ## REVIEWER
 
 * TDSC: IEEE Transactions on Dependable and Secure Computing (2024)
