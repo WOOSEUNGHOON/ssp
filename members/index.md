@@ -34,14 +34,14 @@ nav:
 {%
   include member_image.html
   image="images/CYJ.jpg"
-  text="**Youngjae Choi (최영재)**<br>(youngjaechoi727 [at] gmail.com)<br>Research Interests: OSS Vulnerability Detection, Software Composition Analysis"
+  text="**Youngjae Choi (최영재)**<br>(youngjaechoi [at] korea.ac.kr)<br>Research Interests: OSS Vulnerability Detection, Software Composition Analysis"
   flip=false
 %}
 
 {%
   include member_image.html
   image="images/JSG.jpg"
-  text="**Seogyeong Cho (조서경)**<br>(jsg8777 [at] gmail.com)<br>Research Interests: AI for Software Security"
+  text="**Seogyeong Cho (조서경)**<br>(jsg8777 [at] korea.ac.kr)<br>Research Interests: AI for Software Security"
   flip=false
 %}
 
