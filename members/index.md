@@ -12,7 +12,7 @@ nav:
 {%
   include my_feature.html
   image="images/newnew_me.jpg"
-  text="**Seunghoon Woo (우승훈)**<br>(seunghoonwoo [at] korea.ac.kr)<br>Assistant professor<br>[Dept. of Computer Science and Engineering](https://cs.korea.ac.kr/)<br>[College of Informatics](https://info.korea.ac.kr/), [Korea University](https://www.korea.ac.kr/)<br>[[CV]](/assets/CV(20240401).pdf) (Last updated: Apr. 2024)"
+  text="**Adviosr**<br>**Seunghoon Woo (우승훈)**<br>(seunghoonwoo [at] korea.ac.kr)<br>Assistant professor<br>[Dept. of Computer Science and Engineering](https://cs.korea.ac.kr/)<br>[College of Informatics](https://info.korea.ac.kr/), [Korea University](https://www.korea.ac.kr/)<br>[[CV]](/assets/CV(20240401).pdf) (Last updated: Apr. 2024)"
   flip=false
 %}
 
@@ -23,7 +23,7 @@ nav:
 {%
   include member_image.html
   image="images/YHD.png"
-  text="**Heedong Yang (양희동)**<br>(heedongy [at] korea.ac.kr)<br>Research Interests: Binary Code Similarity Detection, Software Security"
+  text="**Lab Leader**<br>**[Heedong Yang (양희동)](https://scholar.google.com/citations?user=Gqegeu0AAAAJ&hl=en)**<br>(heedongy [at] korea.ac.kr)<br>Research Interests: Binary Code Similarity Detection, Software Security<br>[[CV]](/assets/heedong_cv.pdf) (Last updated: Sep. 2024)"
   flip=false
 %}
 
