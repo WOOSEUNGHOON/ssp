@@ -64,6 +64,13 @@ nav:
   flip=false
 %}
 
+{%
+  include member_image.html
+  image="images/default.png"
+  text="**Sungeun Yu (유승은)**<br>(spblue4422 [at] korea.ac.kr)<br>Research Interests: Software Security"
+  flip=false
+%}
+
 <!-- {%
   include member_image.html
   image="images/SJM.jpg"
