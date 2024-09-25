@@ -14,7 +14,7 @@ USENIX Security (2021, 2022, 2023), ICSE (2021, 2024), S&P (2017), ACSAC (2021),
 {% include section.html %}
 
 ## 2024
-- **BLOOMFUZZ: Unveiling Bluetooth L2CAP Vulnerabilities via State Cluster Fuzzing with Target-Oriented State Machines**<br>Pyeongju Ahn, Yeonseok Jang, Seunghoon Woo&#42;, Heejo Lee&#42; (* Co-corresponding authors)<br>29th European Symposium on Research in Computer Security (ESORICS 2024)<br>[[paper]](/assets/papers/ESORICS24.pdf)
+- **BLOOMFUZZ: Unveiling Bluetooth L2CAP Vulnerabilities via State Cluster Fuzzing with Target-Oriented State Machines**<br>Pyeongju Ahn, Yeonseok Jang, Seunghoon Woo&#42;, Heejo Lee&#42; (* Co-corresponding authors)<br>29th European Symposium on Research in Computer Security (ESORICS 2024)<br>[[paper]](/assets/papers/ESORICS24.pdf) [[code]](https://github.com/pingjuu/BLOOMFUZZ)
 
 - **CNEPS: A Precise Approach for Examining Dependencies among Third-Party C/C++ Open-Source Components**<br>Yoonjong Na, Seunghoon Woo&#42;, Joomyeong Lee, Heejo Lee&#42; (* Co-corresponding authors)<br><i class="fa-solid fa-crown"></i> 46th International Conference on Software Engineering (ICSE 2024)<br>[[paper]](/assets/papers/ICSE24.pdf) [[slide]](/assets/presentations/CNEPS_ICSE24_presentation.pdf) [[code]](https://github.com/sodium49/CNEPS-public) [[article1]](https://www.boannews.com/media/view.asp?idx=129096&page=1&mkind=1&kind=5) [[article2]](https://ssl.dailysecu.com/news/articleView.html?idxno=155331)
 
