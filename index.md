@@ -68,7 +68,7 @@ We are continuously looking for enthusiastic **Ph.D./master students** and **gra
 ## REVIEWER
 
 * TDSC: IEEE Transactions on Dependable and Secure Computing (2024)
-* TSE: IEEE Transactions on Software Engineering (2023)
+* TSE: IEEE Transactions on Software Engineering (2023, 2024)
 * TOSEM: ACM Transactions on Software Engineering and Methodology (2023)
 * SP&E: Software Practice and Experience (2023)
 * IEEE Transactions on Vehicular Technology (2022)
