@@ -14,7 +14,7 @@ USENIX Security (2021, 2022, 2023), ICSE (2021, 2024), S&P (2017), ACSAC (2021),
 {% include section.html %}
 
 ## 2024
-- **A Large-Scale Analysis of the Effectiveness of Publicly Reported Security Patches**<br>Seunghoon Woo, Eunjin Choi, Heejo Lee<br>Computers & Security (2024, IF:4.8)<br>
+- **A Large-Scale Analysis of the Effectiveness of Publicly Reported Security Patches**<br>Seunghoon Woo, Eunjin Choi, Heejo Lee<br>Computers & Security (2024, IF:4.8)<br> [[paper]](https://doi.org/10.1016/j.cose.2024.104181)
 
 - **BLOOMFUZZ: Unveiling Bluetooth L2CAP Vulnerabilities via State Cluster Fuzzing with Target-Oriented State Machines**<br>Pyeongju Ahn, Yeonseok Jang, Seunghoon Woo&#42;, Heejo Lee&#42; (* Co-corresponding authors)<br>29th European Symposium on Research in Computer Security (ESORICS 2024)<br>[[paper]](/assets/papers/ESORICS24.pdf) [[slide]](/assets/presentations/BLOOMFUZZ_ESORICS24_presentation.pdf) [[code]](https://github.com/pingjuu/BLOOMFUZZ)
 
