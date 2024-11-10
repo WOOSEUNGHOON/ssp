@@ -71,6 +71,13 @@ nav:
   flip=false
 %}
 
+{%
+  include member_image.html
+  image="images/PSH.jpg"
+  text="**Sunha Park (박선하)**<br>(sunha092876 [at] gmail.com)<br>Research Interests: Software Security"
+  flip=false
+%}
+
 <!-- {%
   include member_image.html
   image="images/SJM.jpg"
