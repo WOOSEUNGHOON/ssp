@@ -12,6 +12,7 @@ Currently, our lab is conducting a joint seminar with the [CCS Lab](https://ccs.
 
 |Date|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Paper title|
 |:---:|:-----:|:---------|
+|2024/11/15|Heedong Yang|REACT: IR-Level Patch Presence Test for Binary|
 |2024/09/20|Seogyeong Cho|Demystifying and Detecting Misuses of Deep Learning APIs|
 |2024/09/13|Youngjae Choi|Previous work|
 |2024/08/30|Hajin Yun|Patched Vulnerability Matching for Binary Programs|
