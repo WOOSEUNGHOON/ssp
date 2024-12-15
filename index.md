@@ -13,6 +13,8 @@ Software Security and Privacy Laboratory (SSP Lab) was established in 2023. We c
 
 ## RECRUITMENT
 
+**IMPORTANT**: As per our lab's internal rules, all applicants must join for at least two months as undergraduate interns before application. Those aiming for application in **March** of any given year should contact us by **September of the previous year**, and those aiming for application in **September** should reach out by **March of the same year**.
+
 {% include clip.html %}
 
 We are continuously looking for enthusiastic **Ph.D./master students** and **graduate/undergraduate interns** interested in working with us. Please contact Prof. Seunghoon Woo (<U>seunghoonwoo [at] korea.ac.kr</U>) with your CV and a brief self-introduction (if available, your portfolio as well).
