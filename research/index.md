@@ -11,7 +11,7 @@ We conduct various research on software security. Representative current researc
 
 {% include section.html %}
 
-## Open-source Software Security & Vulnerability Detection
+## Open-source Software Security & Supply Chain Security & Vulnerability Detection
 
 {%
   include my_feature.html
