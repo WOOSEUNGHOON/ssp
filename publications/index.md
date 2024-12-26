@@ -61,3 +61,15 @@ Annual Computer Security Applications Conference (ACSAC 2021)<br>[[paper]](/asse
 - **Web 3.0 시대 핵심 기술, 블록체인 보안 위협 전망 및 분석**<br>우승훈, 이건우, 이태준, 최윤성, 이희조, 민경식, 박진상<br>KISA INSIGHT (2023)<br>[[paper]](/assets/papers/KISA_Insight23.pdf)
 - **오픈소스 SW 취약점 분석 및 탐지기술 동향**<br>우승훈, 홍현지, 이희조<br>OSIA Standards & Technology Review Journal (2022)<br>[[paper]](/assets/papers/OSIA22.pdf)
 - **공급망 보안을 위한 오픈소스 소프트웨어 취약점 관리 기술**<br>홍현지, 우승훈, 이희조<br>정보보호학회지 (2022)<br>[[paper]](/assets/papers/JBBH22.pdf)
+
+
+{% include section.html %}
+
+## Patents
+
+- **METHOD FOR IDENTIFYING OPEN-SOURCE SOFTWARE COMPONENTS AT THE SOURCE-CODE LEVEL**<br>Heejo Lee, Seunghoon Woo<br>International (EU), Registration decision, Nov. 27. 2024.
+
+- **METHOD AND APPARATUS FOR DETECTING PROPAGATION OF SECURITY VULNERABILITIES OF OPEN SOURCE SOFTWARE INHERENT IN COMPONENTS OF TARGET SOFTWARE**<br> 
+Heejo Lee, Seunghoon Woo<br>Domestic, Application, 10-2024-0023236, Feb. 19. 2024.
+
+- **METHOD FOR IDENTIFYING OPEN-SOURCE SOFTWARE COMPONENTS AT THE SOURCE-CODE LEVEL**<br>Heejo Lee, Seunghoon Woo<br>International (US), Registration, 11836486, Dec. 5. 2023.
