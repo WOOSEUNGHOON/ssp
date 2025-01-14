@@ -70,6 +70,7 @@ We are continuously looking for enthusiastic **Ph.D./master students** and **gra
 
 ## REVIEWER
 
+* T-IFS: IEEE Transactions on Information Forensics and Security (2025)
 * TDSC: IEEE Transactions on Dependable and Secure Computing (2024)
 * TSE: IEEE Transactions on Software Engineering (2023, 2024)
 * TOSEM: ACM Transactions on Software Engineering and Methodology (2023)
