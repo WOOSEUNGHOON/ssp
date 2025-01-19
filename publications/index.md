@@ -13,6 +13,13 @@ USENIX Security (2021, 2022, 2023), ICSE (2021, 2024), S&P (2017), ACSAC (2021),
 <i class="fa-solid fa-crown"></i>: Top-tier conferences
 {% include section.html %}
 
+
+
+## 2025
+- **TIVER: Identifying Adaptive Versions of C/C++ Third-Party Open-Source Components Using a Code Clustering Technique (To appear)**<br>Youngjae Choi, Seunghoon Woo<br><i class="fa-solid fa-crown"></i> 47th International Conference on Software Engineering (ICSE 2025)
+
+{% include section.html %}
+
 ## 2024
 - **A Large-Scale Analysis of the Effectiveness of Publicly Reported Security Patches**<br>Seunghoon Woo, Eunjin Choi, Heejo Lee<br>Computers & Security (2024, IF:4.8)<br> [[paper]](https://doi.org/10.1016/j.cose.2024.104181)
 

@@ -21,6 +21,7 @@ We are continuously looking for enthusiastic **Ph.D./master students** and **gra
 
 ## LATEST NEWS
 
+* **Jan. 2025**: Our research paper **TIVER** has been accepted at **[ICSE 2025](https://conf.researchr.org/home/icse-2025)**. Congrats to Youngjae!
 * **Oct. 2024**: Our research paper has been accepted at Computers & Security journal.
 * **Sep. 2024**: Two **new MS students** are joining our team. Welcome Youngjae and Seogyeong!
 * **Jul. 2024**: Prof. Woo won the **Excellent Teaching Award (우수강좌상)** for the Theory of Computation class in Fall 2023!
