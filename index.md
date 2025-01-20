@@ -11,13 +11,6 @@ Software Security and Privacy Laboratory (SSP Lab) was established in 2023. We c
 
 [See on-campus interview at Korea University (KR)](https://blog.naver.com/kumpij/223251918874)
 
-## RECRUITMENT
-
-**IMPORTANT**: As per our lab's internal rules, all applicants must join for at least two months as undergraduate interns before application. Those aiming for application in **March** of any given year should contact us by **September of the previous year**, and those aiming for application in **September** should reach out by **March of the same year**.
-
-{% include clip.html %}
-
-We are continuously looking for enthusiastic **Ph.D./master students** and **graduate/undergraduate interns** interested in working with us. Please contact Prof. Seunghoon Woo (<U>seunghoonwoo [at] korea.ac.kr</U>) with your CV and a brief self-introduction (if available, your portfolio as well).
 
 ## LATEST NEWS
 
@@ -30,6 +23,15 @@ We are continuously looking for enthusiastic **Ph.D./master students** and **gra
 * **Dec. 2023**: Our research paper **[CNEPS](/assets/papers/ICSE24.pdf)** has been accepted at **[ICSE 2024](https://conf.researchr.org/home/icse-2024)**. Congrats to Yoonjong!
 * **Aug. 2023**: Our research paper **[V1SCAN](/assets/papers/SECURITY23.pdf)** has been published at **[USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)**.
 * <U>SSP lab</U> has been established.
+
+## RECRUITMENT
+
+**IMPORTANT**: As per our lab's internal rules, all applicants must join for at least two months as undergraduate interns before application. Those aiming for application in **March** of any given year should contact us by **September of the previous year**, and those aiming for application in **September** should reach out by **March of the same year**.
+
+{% include clip.html %}
+
+We are continuously looking for enthusiastic **Ph.D./master students** and **graduate/undergraduate interns** interested in working with us. Please contact Prof. Seunghoon Woo (<U>seunghoonwoo [at] korea.ac.kr</U>) with your CV and a brief self-introduction (if available, your portfolio as well).
+
 
 ## ADVISOR
 
