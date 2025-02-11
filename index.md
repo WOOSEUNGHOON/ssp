@@ -69,7 +69,8 @@ We are continuously looking for enthusiastic **Ph.D./master students** and **gra
 
 ## COMMITEE
 
-* ASIACCS 2025 (Program Committee Member)
+* [ISC 2025](https://isc25.skku.edu/) (Program Committee Member)
+* [ASIACCS 2025](https://asiaccs2025.hust.edu.vn/) (Program Committee Member)
 
 ## REVIEWER
 
