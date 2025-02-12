@@ -12,6 +12,9 @@ Currently, our lab is conducting a joint seminar with the [CCS Lab](https://ccs.
 
 |Date|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Paper title|
 |:---:|:-----:|:---------|
+|2025/01/31|Seogyeong Cho|CryptoGo: Automatic Detection of Go Cryptographic API Misusess|
+|2025/01/31|Youngjae Choi|Inference of Error Specifications and Bug Detection Using Structural Similarities|
+|2025/01/17|Heedong Yang|LiftFuzz: Validating Binary Lifters through Context-aware Fuzzing with GPT|
 |2024/11/22|Seogyeong Cho|Generating API Parameter Security Rules with LLM for API Misuse Detection|
 |2024/11/22|Youngjae Choi|RAISIN: Identifying Rare Sensitive Functions for Bug Detection|
 |2024/11/15|Heedong Yang|REACT: IR-Level Patch Presence Test for Binary|
