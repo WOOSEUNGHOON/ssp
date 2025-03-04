@@ -48,7 +48,7 @@ nav:
 {%
   include member_image.html
   image="images/PSH.jpg"
-  text="**Sunha Park (박선하)**<br>(sunha092876 [at] gmail.com)<br>Research Interests: Software Security"
+  text="**Sunha Park (박선하)**<br>(sunhap [at] korea.ac.kr)<br>Research Interests: Software Security"
   flip=false
 %}
 
