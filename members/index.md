@@ -45,17 +45,16 @@ nav:
   flip=false
 %}
 
+{%
+  include member_image.html
+  image="images/PSH.jpg"
+  text="**Sunha Park (박선하)**<br>(sunhap [at] korea.ac.kr)<br>Research Interests: Software Security"
+  flip=false
+%}
 
 {% include section.html %}
 
 ## Undergraduate students
-
-{%
-  include member_image.html
-  image="images/default.png"
-  text="**Hajin Yun (윤하진)**<br>(faiith7001 [at] gmail.com)<br>Research Interests: Software Security"
-  flip=false
-%}
 
 {%
   include member_image.html
@@ -71,12 +70,12 @@ nav:
   flip=false
 %}
 
-{%
+<!-- {%
   include member_image.html
-  image="images/PSH.jpg"
-  text="**Sunha Park (박선하)**<br>(sunha092876 [at] gmail.com)<br>Research Interests: Software Security"
+  image="images/default.png"
+  text="**Hajin Yun (윤하진)**<br>(faiith7001 [at] gmail.com)<br>Research Interests: Software Security"
   flip=false
-%}
+%} -->
 
 <!-- {%
   include member_image.html
@@ -99,6 +98,7 @@ nav:
 
 ## Former members
 
-* Jimin Son (손지민): Korea University
+* Hajin Yun (윤하진): Korea University
 * Hyunseo Roh (노현서): Korea University
+* Jimin Son (손지민): Korea University
 
