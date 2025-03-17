@@ -70,6 +70,13 @@ nav:
   flip=false
 %}
 
+{%
+  include member_image.html
+  image="images/BMK.png"
+  text="**Min-Gyoung Ban (반민경)**<br>(tara7004 [at] korea.ac.kr)<br>Research Interests: Software Security, Web Security"
+  flip=false
+%}
+
 <!-- {%
   include member_image.html
   image="images/default.png"
