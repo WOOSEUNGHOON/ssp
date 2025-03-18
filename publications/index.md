@@ -18,6 +18,8 @@ USENIX Security (2021, 2022, 2023), ICSE (2021, 2024, 2025), S&P (2017), ACSAC (
 ## 2025
 - **TIVER: Identifying Adaptive Versions of C/C++ Third-Party Open-Source Components Using a Code Clustering Technique (To appear)**<br>Youngjae Choi, Seunghoon Woo<br><i class="fa-solid fa-crown"></i> 47th International Conference on Software Engineering (ICSE 2025)
 
+- **Enhancing Code Vulnerability Detection Using CodeGraphBERT Deep Learning Techniques**<br>Zeinab Shahbazi, Meshkat Mesbah, Seunghoon Woo<br> 9th International Conference on Innovation in Artificial Intelligence (ICIAI 2025)
+
 {% include section.html %}
 
 ## 2024
