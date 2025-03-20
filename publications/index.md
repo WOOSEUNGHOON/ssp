@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-book" %}Publications
 
 Published research papers on software security and engineering in prestigious conferences and journals including
-USENIX Security (2021, 2022, 2023), ICSE (2021, 2024, 2025), S&P (2017), ACSAC (2021), DSN (2021, 2022), ESORICS (2024), and IEEE ACCESS (2022, 2023).
+USENIX Security (2021, 2022, 2023), ICSE (2021, 2024, 2025), S&P (2017), DSN (2021, 2022, 2025), ACSAC (2021), ESORICS (2024), and IEEE ACCESS (2022, 2023).
 <br><br>
 <i class="fa-solid fa-crown"></i>: Top-tier conferences
 {% include section.html %}
@@ -16,6 +16,8 @@ USENIX Security (2021, 2022, 2023), ICSE (2021, 2024, 2025), S&P (2017), ACSAC (
 
 
 ## 2025
+- **ZCOVER: Uncovering Z-Wave Controller Vulnerabilities Through Systematic Security Analysis of Application Layer Implementation (To appear)**<br> Carlos Nkuba Kayembe, Jimin Kang, Seunghoon Woo, Heejo Lee<br>55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2025)
+
 - **TIVER: Identifying Adaptive Versions of C/C++ Third-Party Open-Source Components Using a Code Clustering Technique (To appear)**<br>Youngjae Choi, Seunghoon Woo<br><i class="fa-solid fa-crown"></i> 47th International Conference on Software Engineering (ICSE 2025)
 
 - **Enhancing Code Vulnerability Detection Using CodeGraphBERT Deep Learning Techniques**<br>Zeinab Shahbazi, Meshkat Mesbah, Seunghoon Woo<br> 9th International Conference on Innovation in Artificial Intelligence (ICIAI 2025)
