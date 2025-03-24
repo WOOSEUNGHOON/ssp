@@ -85,7 +85,7 @@ We are continuously looking for enthusiastic **Ph.D./master students** and **gra
 
 ## CONTACT
 
-<i class="fa-solid fa-home"></i> 206B, Woojung Hall of Informatics<br>
+<i class="fa-solid fa-home"></i> 606, Jung Woonoh IT & General Education Center<br>
 College of Informatics<br>
 Korea University<br>
 Anam-dong 5-ga, Seongbuk-gu<br>
