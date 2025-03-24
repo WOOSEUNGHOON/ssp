@@ -13,6 +13,7 @@ Software Security and Privacy Laboratory (SSP Lab) was established in 2023. We c
 
 
 ## LATEST NEWS
+* **Mar. 2025**: Our research paper **ZCOVER** has been accepted at **[DSN 2025](https://dsn2025.github.io/)**. Congrats to Dr. Carlos!
 * **Mar. 2025**: One **new MS student** is joining our team. Welcome Sunha!
 * **Jan. 2025**: Our research paper **TIVER** has been accepted at **[ICSE 2025](https://conf.researchr.org/home/icse-2025)**. Congrats to Youngjae!
 * **Oct. 2024**: Our research paper has been accepted at Computers & Security journal.
