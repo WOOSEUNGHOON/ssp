@@ -21,9 +21,9 @@
 }
 
 :root {
-  --title: "Lato", sans-serif;
-  --heading: "Lato", sans-serif;
-  --body: "Lato", sans-serif;
+  --title: "Ubuntu", sans-serif;
+  --heading: "Ubuntu", sans-serif;
+  --body: "Ubuntu", sans-serif;
   --code: "Roboto Mono", monospace;
   --medium: 1rem;
   --large: 1.2rem;
