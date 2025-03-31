@@ -12,7 +12,7 @@ li {
   margin: 5px 0;
   padding-left: 10px;
   text-align: justify;
-  line-height: var(--spacing);
+  line-height: 1.5;
 }
 
 /*# sourceMappingURL=list.css.map */

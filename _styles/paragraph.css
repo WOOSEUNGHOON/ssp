@@ -1,7 +1,7 @@
 p {
   margin: 20px 0;
   text-align: justify;
-  line-height: var(--spacing);
+  line-height: 1.5;
 }
 
 /*# sourceMappingURL=paragraph.css.map */
