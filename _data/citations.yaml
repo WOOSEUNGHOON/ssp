@@ -138,20 +138,20 @@
   title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
     and phylogeny'
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
+  - Jacob D. Krol
+  - Joseph T. Burke
+  - Samuel Z. Chen
+  - Lo Sosinski
+  - Faisal S. Alquaddoomi
+  - Evan P. Brenner
+  - Ethan P. Wolfe
+  - Vince P. Rubinetti
   - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
+  - Kellen M. Reason
+  - John B. Johnston
   - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
+  publisher: bioRxiv
+  date: '2024-03-29'
   link: https://doi.org/gstx7j
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
