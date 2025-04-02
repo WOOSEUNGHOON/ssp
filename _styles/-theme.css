@@ -21,9 +21,9 @@
 }
 
 :root {
-  --title: "archivo", sans-serif;
-  --heading: "archivo", sans-serif;
-  --body: "archivo", sans-serif;
+  --title: "Archivo", sans-serif;
+  --heading: "Archivo", sans-serif;
+  --body: "Archivo", sans-serif;
   --code: "Roboto Mono", monospace;
   --medium: 1rem;
   --large: 1.2rem;
