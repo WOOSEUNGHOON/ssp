@@ -77,6 +77,13 @@ nav:
   flip=false
 %}
 
+{%
+  include member_image.html
+  image="images/HSJ.jpg"
+  text="**Soojin Han (한수진)**<br>(sjhan034 [at] naver.com)<br>Research Interests: Software Security"
+  flip=false
+%}
+
 <!-- {%
   include member_image.html
   image="images/default.png"
