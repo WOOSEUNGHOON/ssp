@@ -7,6 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Courses
 
+## 2025 Fall
+ - [SWS127] Topics in Software Security
+ - [COSE451] Software Security
+
 ## 2024 Fall
  - [SWS123] Open-source Software Security
  - [COSE215] Theory of Computation 
