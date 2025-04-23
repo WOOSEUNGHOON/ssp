@@ -1,0 +1,242 @@
+<!--
+  Gallery component with grid layout and lightbox/modal functionality
+
+  Usage:
+  include gallery.html
+    folder="path/to/images"
+    filter=".jpg" (optional, filter images by extension)
+    caption=true (optional, show captions from filename)
+-->
+
+<style>
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-gap: 10px;
+    margin-bottom: 20px;
+  }
+
+  .gallery-item {
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    aspect-ratio: 1 / 1;
+  }
+
+  .gallery-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+  }
+
+  .gallery-item:hover img {
+    transform: scale(1.05);
+  }
+
+  .gallery-caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 8px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+
+  .gallery-item:hover .gallery-caption {
+    opacity: 1;
+  }
+
+  /* Modal/Lightbox */
+  .gallery-modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.9);
+    align-items: center;
+    justify-content: center;
+  }
+
+  .gallery-modal-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 90%;
+    max-height: 90%;
+  }
+
+  .gallery-modal-image {
+    max-width: 100%;
+    max-height: 80vh;
+    object-fit: contain;
+  }
+
+  .gallery-modal-caption {
+    color: white;
+    margin-top: 15px;
+    text-align: center;
+    font-size: 1.1em;
+  }
+
+  .gallery-modal-close {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+
+  .gallery-modal-nav {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .gallery-modal-prev,
+  .gallery-modal-next {
+    color: white;
+    font-size: 40px;
+    cursor: pointer;
+    padding: 0 30px;
+    user-select: none;
+  }
+</style>
+
+<div class="gallery-grid" id="gallery-grid">
+  {% if include.folder %}
+    {% assign image_files = site.static_files | where_exp: "file", "file.path contains include.folder" %}
+    {% assign image_files = image_files | where_exp: "file", "file.path contains '.jpg' or file.path contains '.jpeg' or file.path contains '.png' or file.path contains '.gif' or file.path contains '.JPG' or file.path contains '.JPEG' or file.path contains '.PNG' or file.path contains '.GIF'" %}
+    {% if include.filter %}
+      {% assign image_files = image_files | where_exp: "file", "file.path contains include.filter" %}
+    {% endif %}
+    {% assign image_files = image_files | sort: "path" | reverse %}
+
+    {% for img in image_files %}
+      {% assign filename = img.path | split: '/' | last | split: '.' | first | replace: '_', ' ' | replace: '-', ' ' %}
+      <div class="gallery-item" data-index="{{ forloop.index }}">
+        <img src="{{ site.baseurl }}{{ img.path }}" alt="{{ filename }}">
+        {% if include.caption %}
+        <div class="gallery-caption">{{ filename }}</div>
+        {% endif %}
+      </div>
+    {% endfor %}
+  {% endif %}
+</div>
+
+<!-- Modal/Lightbox -->
+<div id="galleryModal" class="gallery-modal">
+  <span class="gallery-modal-close" onclick="closeModal()">&times;</span>
+
+  <div class="gallery-modal-content">
+    {% if include.folder %}
+      {% for img in image_files %}
+        {% assign filename = img.path | split: '/' | last | split: '.' | first | replace: '_', ' ' | replace: '-', ' ' %}
+        <div class="gallery-modal-slide">
+          <img class="gallery-modal-image" src="{{ site.baseurl }}{{ img.path }}" alt="{{ filename }}">
+          {% if include.caption %}
+          <div class="gallery-modal-caption">{{ filename }}</div>
+          {% endif %}
+        </div>
+      {% endfor %}
+    {% endif %}
+  </div>
+
+  <div class="gallery-modal-nav">
+    <span class="gallery-modal-prev" onclick="changeSlide(-1)">&#10094;</span>
+    <span class="gallery-modal-next" onclick="changeSlide(1)">&#10095;</span>
+  </div>
+</div>
+
+<script>
+  // Gallery modal functionality
+  let slideIndex = 1;
+  const modalSlides = document.getElementsByClassName("gallery-modal-slide");
+  const galleryItems = document.getElementsByClassName("gallery-item");
+
+  // Add click event listeners to gallery items
+  for (let i = 0; i < galleryItems.length; i++) {
+    galleryItems[i].addEventListener('click', function() {
+      const index = parseInt(this.getAttribute('data-index'));
+      openModal();
+      currentSlide(index);
+    });
+  }
+
+  function openModal() {
+    document.getElementById("galleryModal").style.display = "flex";
+    document.body.style.overflow = "hidden"; // Prevent scrolling when modal is open
+  }
+
+  function closeModal() {
+    document.getElementById("galleryModal").style.display = "none";
+    document.body.style.overflow = "auto"; // Restore scrolling
+  }
+
+  function changeSlide(n) {
+    showSlide(slideIndex += n);
+  }
+
+  function currentSlide(n) {
+    showSlide(slideIndex = n);
+  }
+
+  function showSlide(n) {
+    if (modalSlides.length === 0) return;
+
+    if (n > modalSlides.length) {
+      slideIndex = 1;
+    }
+
+    if (n < 1) {
+      slideIndex = modalSlides.length;
+    }
+
+    for (let i = 0; i < modalSlides.length; i++) {
+      modalSlides[i].style.display = "none";
+    }
+
+    modalSlides[slideIndex - 1].style.display = "block";
+  }
+
+  // Close modal when clicking outside the image
+  window.onclick = function(event) {
+    const modal = document.getElementById("galleryModal");
+    if (event.target === modal) {
+      closeModal();
+    }
+  };
+
+  // Handle keyboard navigation
+  document.addEventListener('keydown', function(event) {
+    if (document.getElementById("galleryModal").style.display === "flex") {
+      if (event.key === "Escape") {
+        closeModal();
+      } else if (event.key === "ArrowLeft") {
+        changeSlide(-1);
+      } else if (event.key === "ArrowRight") {
+        changeSlide(1);
+      }
+    }
+  });
+
+  // Initialize slides when the document is loaded
+  document.addEventListener('DOMContentLoaded', function() {
+    if (modalSlides.length > 0) {
+      for (let i = 0; i < modalSlides.length; i++) {
+        modalSlides[i].style.display = "none";
+      }
+      modalSlides[0].style.display = "block";
+    }
+  });
+</script>
