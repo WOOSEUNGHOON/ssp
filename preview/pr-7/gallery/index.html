@@ -452,489 +452,126 @@
   
   
 
-  <section class="background" data-size="1.1em" style="--image: url('/preview/pr-7/rgba(0,%200,%200,%200.7)')">
-    <h1 id="-ssp-lab-gallery">
-<i class="icon fa-solid fa-images"></i> SSP Lab Gallery</h1>
-<!--
-  Gallery component with grid layout and lightbox/modal functionality
+  <section class="background" data-size="0.9em">
+    <h1 id="-gallery">
+<i class="icon fa-solid fa-images"></i> Gallery</h1>
 
-  Usage:
-  include gallery.html
-    folder="path/to/images"
-    filter=".jpg" (optional, filter images by extension)
-    caption=true (optional, show captions from filename)
--->
+<ul class="gallery-list">
+  
+  
+    <li class="gallery-item-card">
+      <p class="gallery-title"><a href="/preview/pr-7/gallery/post/2025-03-15-lab-relocation.html">SSP Lab relocation with CCS Lab</a></p>
+      <p class="gallery-date">2025-03-16</p>
+      
+        <a href="/preview/pr-7/gallery/post/2025-03-15-lab-relocation.html">
+          <img src="/preview/pr-7/gallery/img/2025-03-16-lab_relocation_1.jpg" alt="SSP Lab relocation with CCS Lab" class="gallery-thumbnail">
+        </a>
+      
+    </li>
+  
+    <li class="gallery-item-card">
+      <p class="gallery-title"><a href="/preview/pr-7/gallery/post/2025-02-28-spring-2025-ssp-members.html">2025 Spring SSP Members</a></p>
+      <p class="gallery-date">2025-02-28</p>
+      
+        <a href="/preview/pr-7/gallery/post/2025-02-28-spring-2025-ssp-members.html">
+          <img src="/preview/pr-7/gallery/img/2025-02-28-SSP_Members_1.png" alt="2025 Spring SSP Members" class="gallery-thumbnail">
+        </a>
+      
+    </li>
+  
+    <li class="gallery-item-card">
+      <p class="gallery-title"><a href="/preview/pr-7/gallery/post/2025-01-10-ssp-new-year-party.html">1st SSP Lab New Year Party</a></p>
+      <p class="gallery-date">2025-01-10</p>
+      
+        <a href="/preview/pr-7/gallery/post/2025-01-10-ssp-new-year-party.html">
+          <img src="/preview/pr-7/gallery/img/2025-01-10-(1st)%20SSP%20New%20Year%20Party.JPG" alt="1st SSP Lab New Year Party" class="gallery-thumbnail">
+        </a>
+      
+    </li>
+  
+    <li class="gallery-item-card">
+      <p class="gallery-title"><a href="/preview/pr-7/gallery/post/2024-08-23-summer-2024-ssp-members.html">2024 Summer SSP members</a></p>
+      <p class="gallery-date">2024-08-23</p>
+      
+        <a href="/preview/pr-7/gallery/post/2024-08-23-summer-2024-ssp-members.html">
+          <img src="/preview/pr-7/gallery/img/2024-08-23-SSP_Members1.JPG" alt="2024 Summer SSP members" class="gallery-thumbnail">
+        </a>
+      
+    </li>
+  
+    <li class="gallery-item-card">
+      <p class="gallery-title"><a href="/preview/pr-7/gallery/post/2024-07-11-supplychainworkshop.html">2024 Supply Chain Workshop</a></p>
+      <p class="gallery-date">2024-06-19</p>
+      
+        <a href="/preview/pr-7/gallery/post/2024-07-11-supplychainworkshop.html">
+          <img src="/preview/pr-7/gallery/img/2024-07-11-supplychainworkshop2024_1.jpeg" alt="2024 Supply Chain Workshop" class="gallery-thumbnail">
+        </a>
+      
+    </li>
+  
+    <li class="gallery-item-card">
+      <p class="gallery-title"><a href="/preview/pr-7/gallery/post/2024-06-19-first-ssp-members.html">First SSP Members Photo</a></p>
+      <p class="gallery-date">2024-06-19</p>
+      
+        <a href="/preview/pr-7/gallery/post/2024-06-19-first-ssp-members.html">
+          <img src="/preview/pr-7/gallery/img/2024-06-19-SSP_Members1.JPG" alt="First SSP Members Photo" class="gallery-thumbnail">
+        </a>
+      
+    </li>
+  
+</ul>
 
 <style>
-  .gallery-grid {
+  .gallery-list {
+    list-style: none;
+    padding: 0;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-    grid-gap: 10px;
-    margin-bottom: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 20px;
   }
 
-  .gallery-item {
-    position: relative;
-    overflow: hidden;
-    cursor: pointer;
-    aspect-ratio: 1 / 1;
+  .gallery-item-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 15px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
   }
 
-  .gallery-item img {
+  .gallery-item-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+  }
+
+  .gallery-thumbnail {
     width: 100%;
-    height: 100%;
+    height: 200px;
     object-fit: cover;
-    transition: transform 0.3s ease;
+    border-radius: 4px;
   }
 
-  .gallery-item:hover img {
-    transform: scale(1.05);
+  .gallery-date {
+    color: #666;
+    font-size: 0.9em;
   }
 
-  .gallery-caption {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background: rgba(0, 0, 0, 0.7);
-    color: white;
-    padding: 8px;
-    opacity: 0;
-    transition: opacity 0.3s ease;
+  .gallery-item-card p.gallery-title {
+    font-size: 1.0em;
+    margin-top: 0;
+    margin-bottom: 8px;
   }
 
-  .gallery-item:hover .gallery-caption {
-    opacity: 1;
+  .gallery-item-card p.gallery-title a {
+    text-decoration: none;
+    color: inherit;
   }
 
-  /* Modal/Lightbox */
-  .gallery-modal {
-    display: none;
-    position: fixed;
-    z-index: 1000;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.9);
-    align-items: center;
-    justify-content: center;
-  }
-
-  .gallery-modal-content {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    max-width: 90%;
-    max-height: 90%;
-  }
-
-  .gallery-modal-image {
-    max-width: 100%;
-    max-height: 80vh;
-    object-fit: contain;
-  }
-
-  .gallery-modal-caption {
-    color: white;
-    margin-top: 15px;
-    text-align: center;
-    font-size: 1.1em;
-  }
-
-  .gallery-modal-close {
-    position: absolute;
-    top: 20px;
-    right: 30px;
-    color: white;
-    font-size: 40px;
-    font-weight: bold;
-    cursor: pointer;
-  }
-
-  .gallery-modal-nav {
-    position: absolute;
-    top: 50%;
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-  }
-
-  .gallery-modal-prev,
-  .gallery-modal-next {
-    color: white;
-    font-size: 40px;
-    cursor: pointer;
-    padding: 0 30px;
-    user-select: none;
+  .gallery-item-card p.gallery-title a:hover,
+  .gallery-item-card p.gallery-title a:visited,
+  .gallery-item-card p.gallery-title a:active {
+    color: inherit;
+    text-decoration: none;
   }
 </style>
-
-<div class="gallery-grid" id="gallery-grid">
-  
-    
-    
-    
-    
-
-    
-      
-      <div class="gallery-item" data-index="1">
-        <img src="/preview/pr-7/gallery/img/2025-02-28-SSP_Members8.png" alt="2025 02 28 SSP Members8">
-        
-        <div class="gallery-caption">2025 02 28 SSP Members8</div>
-        
-      </div>
-    
-      
-      <div class="gallery-item" data-index="2">
-        <img src="/preview/pr-7/gallery/img/2025-02-28-SSP_Members7.jpg" alt="2025 02 28 SSP Members7">
-        
-        <div class="gallery-caption">2025 02 28 SSP Members7</div>
-        
-      </div>
-    
-      
-      <div class="gallery-item" data-index="3">
-        <img src="/preview/pr-7/gallery/img/2025-02-28-SSP_Members6.jpg" alt="2025 02 28 SSP Members6">
-        
-        <div class="gallery-caption">2025 02 28 SSP Members6</div>
-        
-      </div>
-    
-      
-      <div class="gallery-item" data-index="4">
-        <img src="/preview/pr-7/gallery/img/2025-02-28-SSP_Members5.jpg" alt="2025 02 28 SSP Members5">
-        
-        <div class="gallery-caption">2025 02 28 SSP Members5</div>
-        
-      </div>
-    
-      
-      <div class="gallery-item" data-index="5">
-        <img src="/preview/pr-7/gallery/img/2025-02-28-SSP_Members4.jpg" alt="2025 02 28 SSP Members4">
-        
-        <div class="gallery-caption">2025 02 28 SSP Members4</div>
-        
-      </div>
-    
-      
-      <div class="gallery-item" data-index="6">
-        <img src="/preview/pr-7/gallery/img/2025-02-28-SSP_Members3.jpg" alt="2025 02 28 SSP Members3">
-        
-        <div class="gallery-caption">2025 02 28 SSP Members3</div>
-        
-      </div>
-    
-      
-      <div class="gallery-item" data-index="7">
-        <img src="/preview/pr-7/gallery/img/2025-02-28-SSP_Members2.jpg" alt="2025 02 28 SSP Members2">
-        
-        <div class="gallery-caption">2025 02 28 SSP Members2</div>
-        
-      </div>
-    
-      
-      <div class="gallery-item" data-index="8">
-        <img src="/preview/pr-7/gallery/img/2025-02-28-SSP_Members1.jpg" alt="2025 02 28 SSP Members1">
-        
-        <div class="gallery-caption">2025 02 28 SSP Members1</div>
-        
-      </div>
-    
-      
-      <div class="gallery-item" data-index="9">
-        <img src="/preview/pr-7/gallery/img/2025-01-10-(1st)%20SSP%20New%20Year%20Party.JPG" alt="2025 01 10 (1st) SSP New Year Party">
-        
-        <div class="gallery-caption">2025 01 10 (1st) SSP New Year Party</div>
-        
-      </div>
-    
-      
-      <div class="gallery-item" data-index="10">
-        <img src="/preview/pr-7/gallery/img/2024-08-23-SSP_Members4.JPG" alt="2024 08 23 SSP Members4">
-        
-        <div class="gallery-caption">2024 08 23 SSP Members4</div>
-        
-      </div>
-    
-      
-      <div class="gallery-item" data-index="11">
-        <img src="/preview/pr-7/gallery/img/2024-08-23-SSP_Members3.jpg" alt="2024 08 23 SSP Members3">
-        
-        <div class="gallery-caption">2024 08 23 SSP Members3</div>
-        
-      </div>
-    
-      
-      <div class="gallery-item" data-index="12">
-        <img src="/preview/pr-7/gallery/img/2024-08-23-SSP_Members2.JPG" alt="2024 08 23 SSP Members2">
-        
-        <div class="gallery-caption">2024 08 23 SSP Members2</div>
-        
-      </div>
-    
-      
-      <div class="gallery-item" data-index="13">
-        <img src="/preview/pr-7/gallery/img/2024-08-23-SSP_Members1.JPG" alt="2024 08 23 SSP Members1">
-        
-        <div class="gallery-caption">2024 08 23 SSP Members1</div>
-        
-      </div>
-    
-      
-      <div class="gallery-item" data-index="14">
-        <img src="/preview/pr-7/gallery/img/2024-06-19-SSP_Members3.JPG" alt="2024 06 19 SSP Members3">
-        
-        <div class="gallery-caption">2024 06 19 SSP Members3</div>
-        
-      </div>
-    
-      
-      <div class="gallery-item" data-index="15">
-        <img src="/preview/pr-7/gallery/img/2024-06-19-SSP_Members2.JPG" alt="2024 06 19 SSP Members2">
-        
-        <div class="gallery-caption">2024 06 19 SSP Members2</div>
-        
-      </div>
-    
-      
-      <div class="gallery-item" data-index="16">
-        <img src="/preview/pr-7/gallery/img/2024-06-19-SSP_Members1.JPG" alt="2024 06 19 SSP Members1">
-        
-        <div class="gallery-caption">2024 06 19 SSP Members1</div>
-        
-      </div>
-    
-  
-</div>
-
-<!-- Modal/Lightbox -->
-<div id="galleryModal" class="gallery-modal">
-  <span class="gallery-modal-close" onclick="closeModal()">×</span>
-
-  <div class="gallery-modal-content">
-    
-      
-        
-        <div class="gallery-modal-slide">
-          <img class="gallery-modal-image" src="/preview/pr-7/gallery/img/2025-02-28-SSP_Members8.png" alt="2025 02 28 SSP Members8">
-          
-          <div class="gallery-modal-caption">2025 02 28 SSP Members8</div>
-          
-        </div>
-      
-        
-        <div class="gallery-modal-slide">
-          <img class="gallery-modal-image" src="/preview/pr-7/gallery/img/2025-02-28-SSP_Members7.jpg" alt="2025 02 28 SSP Members7">
-          
-          <div class="gallery-modal-caption">2025 02 28 SSP Members7</div>
-          
-        </div>
-      
-        
-        <div class="gallery-modal-slide">
-          <img class="gallery-modal-image" src="/preview/pr-7/gallery/img/2025-02-28-SSP_Members6.jpg" alt="2025 02 28 SSP Members6">
-          
-          <div class="gallery-modal-caption">2025 02 28 SSP Members6</div>
-          
-        </div>
-      
-        
-        <div class="gallery-modal-slide">
-          <img class="gallery-modal-image" src="/preview/pr-7/gallery/img/2025-02-28-SSP_Members5.jpg" alt="2025 02 28 SSP Members5">
-          
-          <div class="gallery-modal-caption">2025 02 28 SSP Members5</div>
-          
-        </div>
-      
-        
-        <div class="gallery-modal-slide">
-          <img class="gallery-modal-image" src="/preview/pr-7/gallery/img/2025-02-28-SSP_Members4.jpg" alt="2025 02 28 SSP Members4">
-          
-          <div class="gallery-modal-caption">2025 02 28 SSP Members4</div>
-          
-        </div>
-      
-        
-        <div class="gallery-modal-slide">
-          <img class="gallery-modal-image" src="/preview/pr-7/gallery/img/2025-02-28-SSP_Members3.jpg" alt="2025 02 28 SSP Members3">
-          
-          <div class="gallery-modal-caption">2025 02 28 SSP Members3</div>
-          
-        </div>
-      
-        
-        <div class="gallery-modal-slide">
-          <img class="gallery-modal-image" src="/preview/pr-7/gallery/img/2025-02-28-SSP_Members2.jpg" alt="2025 02 28 SSP Members2">
-          
-          <div class="gallery-modal-caption">2025 02 28 SSP Members2</div>
-          
-        </div>
-      
-        
-        <div class="gallery-modal-slide">
-          <img class="gallery-modal-image" src="/preview/pr-7/gallery/img/2025-02-28-SSP_Members1.jpg" alt="2025 02 28 SSP Members1">
-          
-          <div class="gallery-modal-caption">2025 02 28 SSP Members1</div>
-          
-        </div>
-      
-        
-        <div class="gallery-modal-slide">
-          <img class="gallery-modal-image" src="/preview/pr-7/gallery/img/2025-01-10-(1st)%20SSP%20New%20Year%20Party.JPG" alt="2025 01 10 (1st) SSP New Year Party">
-          
-          <div class="gallery-modal-caption">2025 01 10 (1st) SSP New Year Party</div>
-          
-        </div>
-      
-        
-        <div class="gallery-modal-slide">
-          <img class="gallery-modal-image" src="/preview/pr-7/gallery/img/2024-08-23-SSP_Members4.JPG" alt="2024 08 23 SSP Members4">
-          
-          <div class="gallery-modal-caption">2024 08 23 SSP Members4</div>
-          
-        </div>
-      
-        
-        <div class="gallery-modal-slide">
-          <img class="gallery-modal-image" src="/preview/pr-7/gallery/img/2024-08-23-SSP_Members3.jpg" alt="2024 08 23 SSP Members3">
-          
-          <div class="gallery-modal-caption">2024 08 23 SSP Members3</div>
-          
-        </div>
-      
-        
-        <div class="gallery-modal-slide">
-          <img class="gallery-modal-image" src="/preview/pr-7/gallery/img/2024-08-23-SSP_Members2.JPG" alt="2024 08 23 SSP Members2">
-          
-          <div class="gallery-modal-caption">2024 08 23 SSP Members2</div>
-          
-        </div>
-      
-        
-        <div class="gallery-modal-slide">
-          <img class="gallery-modal-image" src="/preview/pr-7/gallery/img/2024-08-23-SSP_Members1.JPG" alt="2024 08 23 SSP Members1">
-          
-          <div class="gallery-modal-caption">2024 08 23 SSP Members1</div>
-          
-        </div>
-      
-        
-        <div class="gallery-modal-slide">
-          <img class="gallery-modal-image" src="/preview/pr-7/gallery/img/2024-06-19-SSP_Members3.JPG" alt="2024 06 19 SSP Members3">
-          
-          <div class="gallery-modal-caption">2024 06 19 SSP Members3</div>
-          
-        </div>
-      
-        
-        <div class="gallery-modal-slide">
-          <img class="gallery-modal-image" src="/preview/pr-7/gallery/img/2024-06-19-SSP_Members2.JPG" alt="2024 06 19 SSP Members2">
-          
-          <div class="gallery-modal-caption">2024 06 19 SSP Members2</div>
-          
-        </div>
-      
-        
-        <div class="gallery-modal-slide">
-          <img class="gallery-modal-image" src="/preview/pr-7/gallery/img/2024-06-19-SSP_Members1.JPG" alt="2024 06 19 SSP Members1">
-          
-          <div class="gallery-modal-caption">2024 06 19 SSP Members1</div>
-          
-        </div>
-      
-    
-  </div>
-
-  <div class="gallery-modal-nav">
-    <span class="gallery-modal-prev" onclick="changeSlide(-1)">❮</span>
-    <span class="gallery-modal-next" onclick="changeSlide(1)">❯</span>
-  </div>
-</div>
-
-<script>
-  // Gallery modal functionality
-  let slideIndex = 1;
-  const modalSlides = document.getElementsByClassName("gallery-modal-slide");
-  const galleryItems = document.getElementsByClassName("gallery-item");
-
-  // Add click event listeners to gallery items
-  for (let i = 0; i < galleryItems.length; i++) {
-    galleryItems[i].addEventListener('click', function() {
-      const index = parseInt(this.getAttribute('data-index'));
-      openModal();
-      currentSlide(index);
-    });
-  }
-
-  function openModal() {
-    document.getElementById("galleryModal").style.display = "flex";
-    document.body.style.overflow = "hidden"; // Prevent scrolling when modal is open
-  }
-
-  function closeModal() {
-    document.getElementById("galleryModal").style.display = "none";
-    document.body.style.overflow = "auto"; // Restore scrolling
-  }
-
-  function changeSlide(n) {
-    showSlide(slideIndex += n);
-  }
-
-  function currentSlide(n) {
-    showSlide(slideIndex = n);
-  }
-
-  function showSlide(n) {
-    if (modalSlides.length === 0) return;
-
-    if (n > modalSlides.length) {
-      slideIndex = 1;
-    }
-
-    if (n < 1) {
-      slideIndex = modalSlides.length;
-    }
-
-    for (let i = 0; i < modalSlides.length; i++) {
-      modalSlides[i].style.display = "none";
-    }
-
-    modalSlides[slideIndex - 1].style.display = "block";
-  }
-
-  // Close modal when clicking outside the image
-  window.onclick = function(event) {
-    const modal = document.getElementById("galleryModal");
-    if (event.target === modal) {
-      closeModal();
-    }
-  };
-
-  // Handle keyboard navigation
-  document.addEventListener('keydown', function(event) {
-    if (document.getElementById("galleryModal").style.display === "flex") {
-      if (event.key === "Escape") {
-        closeModal();
-      } else if (event.key === "ArrowLeft") {
-        changeSlide(-1);
-      } else if (event.key === "ArrowRight") {
-        changeSlide(1);
-      }
-    }
-  });
-
-  // Initialize slides when the document is loaded
-  document.addEventListener('DOMContentLoaded', function() {
-    if (modalSlides.length > 0) {
-      for (let i = 0; i < modalSlides.length; i++) {
-        modalSlides[i].style.display = "none";
-      }
-      modalSlides[0].style.display = "block";
-    }
-  });
-</script>
   </section>
 
 
