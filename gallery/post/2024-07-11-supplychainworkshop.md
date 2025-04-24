@@ -1,7 +1,7 @@
 ---
 layout: gallery-post
 title: 2024 Supply Chain Workshop
-date: 2024-06-19
+date: 2024-07-11
 images:
   - /gallery/img/2024-07-11-supplychainworkshop2024_1.jpeg
   - /gallery/img/2024-07-11-supplychainworkshop2024_2.jpeg
