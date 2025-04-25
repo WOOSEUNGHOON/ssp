@@ -423,6 +423,12 @@
         </a>
       
     
+      
+        <a href="/gallery/" data-tooltip="Gallery">
+          Gallery
+        </a>
+      
+    
   </nav>
 </header>
 
@@ -447,7 +453,35 @@
   
 
   <section class="background" data-size="2em">
-    <p><img src="images/new_SSPLogo_capital.png" style="width:200px; padding-right:30px" alt="TEST"><a href="https://www.korea.ac.kr/"><img src="images/korea_logo.png" style="width:140px; float:right; margin-top:15px;" alt="TEST"></a></p>
+    <p><img id="ssp-logo" src="images/new_SSPLogo_capital.png" style="width:200px; padding-right:30px" alt="SSP Logo"><a href="https://www.korea.ac.kr/"><img id="korea-logo" src="images/korea_logo.png" style="width:140px; float:right; margin-top:15px;" alt="Korea University Logo"></a></p>
+
+<script>
+  function updateImagesForTheme() {
+    const sspLogo = document.getElementById('ssp-logo');
+    const koreaLogo = document.getElementById('korea-logo');
+    const isDarkMode = document.documentElement.dataset.dark === 'true';
+
+    if (isDarkMode) {
+      sspLogo.src = 'images/new_ssp_logo_dark.png';
+      koreaLogo.src = 'images/korea_logo_dark.png';
+    } else {
+      sspLogo.src = 'images/new_SSPLogo_capital.png';
+      koreaLogo.src = 'images/korea_logo.png';
+    }
+  }
+
+  setTimeout(updateImagesForTheme, 0);
+
+  const observer = new MutationObserver((mutationsList) => {
+    for(let mutation of mutationsList) {
+      if (mutation.type === 'attributes' && mutation.attributeName === 'data-dark') {
+        updateImagesForTheme();
+      }
+    }
+  });
+
+  observer.observe(document.documentElement, { attributes: true });
+</script>
 
 <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
 
