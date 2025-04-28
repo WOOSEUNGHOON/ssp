@@ -12,6 +12,8 @@ Currently, our lab is conducting a joint seminar with the [CCS Lab](https://ccs.
 
 |Date|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Paper title|
 |:---:|:-----:|:---------|
+|2025/04/18|Youngjae Choi|TIVER: Identifying Adaptive Versions of C/C++ Third-Party Open-Source Components Using a Code Clustering Technique|
+|2025/04/18|Heedong Yang|PS3 : Precise Patch Presence Test based on Semantic Symbolic Signature|
 |2025/01/31|Seogyeong Cho|CryptoGo: Automatic Detection of Go Cryptographic API Misusess|
 |2025/01/31|Youngjae Choi|Inference of Error Specifications and Bug Detection Using Structural Similarities|
 |2025/01/17|Heedong Yang|LiftFuzz: Validating Binary Lifters through Context-aware Fuzzing with GPT|
