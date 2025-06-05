@@ -69,6 +69,7 @@ Annual Computer Security Applications Conference (ACSAC 2021)<br>[[paper]](/asse
 
 ## Domestic Publications
 
+- **COTS 바이너리의 1-day 취약점 탐지를 위한 Patch Presence Test 연구**<br>양희동, 이정우, 우승훈<br>한국정보보호학회 CISC-S (2025)
 - **공급망 보안을 위한 소프트웨어 명세서(SBOM) 개선 연구**<br>최영재, 양희동, 우승훈<br>정보보호학회지 (2025)<br>[[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12088070)
 - **Web 3.0 시대 핵심 기술, 블록체인 보안 위협 전망 및 분석**<br>우승훈, 이건우, 이태준, 최윤성, 이희조, 민경식, 박진상<br>KISA INSIGHT (2023)<br>[[paper]](/assets/papers/KISA_Insight23.pdf)
 - **오픈소스 SW 취약점 분석 및 탐지기술 동향**<br>우승훈, 홍현지, 이희조<br>OSIA Standards & Technology Review Journal (2022)<br>[[paper]](/assets/papers/OSIA22.pdf)
