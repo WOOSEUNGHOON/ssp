@@ -16,7 +16,7 @@ nav:
       <p class="gallery-date">{{ post.date | date: "%Y-%m-%d" }}</p>
       {% if post.images and post.images[0] %}
         <a href="{{ site.baseurl }}{{ post.url }}">
-          <img src="{{ site.baseurl }}{{ post.images[0] }}" alt="{{ post.title }}" class="gallery-thumbnail"/>
+          <img src="{{ post.images[0] }}" alt="{{ post.title }}" class="gallery-thumbnail"/>
         </a>
       {% endif %}
     </li>

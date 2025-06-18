@@ -1,6 +1,6 @@
 ---
 layout: gallery-post
-title: 2024 Supply Chain Security Workshop
+title: Attending 2024 Supply Chain Security Workshop
 date: 2024-07-11
 images:
   - https://file.ssp.kr/img/2024/2024-07-11-supplychainworkshop2024_1.jpeg
