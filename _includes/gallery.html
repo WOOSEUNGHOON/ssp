@@ -125,7 +125,7 @@
     {% for img in image_files %}
       {% assign filename = img.path | split: '/' | last | split: '.' | first | replace: '_', ' ' | replace: '-', ' ' %}
       <div class="gallery-item" data-index="{{ forloop.index }}">
-        <img src="{{ site.baseurl }}{{ img.path }}" alt="{{ filename }}">
+        <img src="{{ img.path }}" alt="{{ filename }}">
         {% if include.caption %}
         <div class="gallery-caption">{{ filename }}</div>
         {% endif %}
@@ -143,7 +143,7 @@
       {% for img in image_files %}
         {% assign filename = img.path | split: '/' | last | split: '.' | first | replace: '_', ' ' | replace: '-', ' ' %}
         <div class="gallery-modal-slide">
-          <img class="gallery-modal-image" src="{{ site.baseurl }}{{ img.path }}" alt="{{ filename }}">
+          <img class="gallery-modal-image" src="{{ img.path }}" alt="{{ filename }}">
           {% if include.caption %}
           <div class="gallery-modal-caption">{{ filename }}</div>
           {% endif %}
