@@ -13,12 +13,15 @@ Software Security and Privacy Laboratory (SSP Lab) was established in 2023. We c
 
 
 ## LATEST NEWS
-* **Jun. 2025**: Prof. Woo won the **Best Lecture Award (석탑강의상)** for the Theory of Computation class in Fall 2024!
+
+* **Jun. 2025**: Prof. Woo is serving as a PC at USENIX Security 2026.
+* **Jun. 2025**: Prof. Woo won the **Best Lecture Award (석탑강의상)** for the Theory of Computation class in Fall 2024!d
 * **Mar. 2025**: Our research paper **ZCOVER** has been accepted at **[DSN 2025](https://dsn2025.github.io/)**. Congrats to Dr. Carlos!
 * **Mar. 2025**: One **new MS student** is joining our team. Welcome Sunha!
 * **Jan. 2025**: Our research paper **TIVER** has been accepted at **[ICSE 2025](https://conf.researchr.org/home/icse-2025)**. Congrats to Youngjae!
 * **Oct. 2024**: Our research paper has been accepted at Computers & Security journal.
 * **Sep. 2024**: Two **new MS students** are joining our team. Welcome Youngjae and Seogyeong!
+* **Aug. 2024**: Prof. Woo is serving as a PC at ASIACCS 2025.
 * **Jul. 2024**: Prof. Woo won the **Excellent Teaching Award (우수강좌상)** for the Theory of Computation class in Fall 2023!
 * **Mar. 2024**: Our research paper **[BLOOMFUZZ](/assets/papers/ESORICS24.pdf)** has been accepted at **[ESORICS 2024](https://esorics2024.org/)**. Congrats to Pyeongju!
 * **Mar. 2024**: One **new Ph.D. student** is joining our team. Welcome Heedong!
@@ -71,6 +74,7 @@ We are continuously looking for enthusiastic **Ph.D./master students** and **gra
 
 ## COMMITEE
 
+* USENIX Security 2026 (Program Committee Member)
 * [ISC 2025](https://isc25.skku.edu/) (Program Committee Member)
 * [ASIACCS 2025](https://asiaccs2025.hust.edu.vn/) (Program Committee Member)
 
