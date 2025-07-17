@@ -24,6 +24,7 @@ We conduct various research on software security. Representative current researc
 - ["이희조 고려대 교수팀 , 취약 코드 탐지 MOVERY 기술 개발" (KR)](https://n.news.naver.com/mnews/article/030/0003046842?sid=105)
 - ["고려대, '재사용 코드'' 자동 탐지 기술 개발" (KR)](http://www.veritas-a.com/news/articleView.html?idxno=83064)
 - ["이희조·우승훈 고려대 컴퓨터학과 교수 연구팀, 오픈소스 소프트웨어 취약점 탐지 기술 V1SCAN 개발" (KR)](https://www.dailysmart.co.kr/news/articleView.html?idxno=77884)
+- ["고려대 우승훈 교수팀, 오픈소스 보안 취약점 분석 기술 'TIVER' 개발" (KR)](https://www.kfenews.co.kr/news/articleView.html?idxno=638650)
 
 
 {% include section.html %}
