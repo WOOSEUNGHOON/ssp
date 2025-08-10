@@ -52,6 +52,20 @@ nav:
   flip=false
 %}
 
+{%
+  include member_image.html
+  image="images/YSE.jpg"
+  text="**Sungeun Yu (유승은)**<br>(spblue4422 [at] korea.ac.kr)<br>Research Interests: Software Security"
+  flip=false
+%}
+
+{%
+  include member_image.html
+  image="images/default.jpg"
+  text="**Tan Pei Rou**<br><br>Research Interests: Software Security"
+  flip=false
+%}
+
 {% include section.html %}
 
 ## Undergraduate students
@@ -60,13 +74,6 @@ nav:
   include member_image.html
   image="images/meshkat.jpg"
   text="**Meshkat Mesbah**<br>(meshkatmsb [at] korea.ac.kr)<br>Research Interests: Software Security"
-  flip=false
-%}
-
-{%
-  include member_image.html
-  image="images/default.png"
-  text="**Sungeun Yu (유승은)**<br>(spblue4422 [at] korea.ac.kr)<br>Research Interests: Software Security"
   flip=false
 %}
 
