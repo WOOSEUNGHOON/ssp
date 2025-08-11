@@ -91,6 +91,13 @@ nav:
   flip=false
 %}
 
+{%
+  include member_image.html
+  image="images/default.png"
+  text="**Taehyun Kim (김태현)**<br>(kth9245 [at] naver.com)<br>Research Interests: Binary Software Security"
+  flip=false
+%}
+
 <!-- {%
   include member_image.html
   image="images/default.png"
