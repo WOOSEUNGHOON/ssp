@@ -61,8 +61,8 @@ nav:
 
 {%
   include member_image.html
-  image="images/default.png"
-  text="**Tan Pei Rou**<br><br>Research Interests: Software Security"
+  image="images/tanpeirou.jpg"
+  text="**Tan Pei Rou**<br><br>Research Interests: Attack Simulation"
   flip=false
 %}
 

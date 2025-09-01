@@ -14,6 +14,7 @@ Software Security and Privacy Laboratory (SSP Lab) was established in 2023. We c
 
 ## LATEST NEWS
 
+* **Sep. 2025**: Two **new MS students** are joining our team. Welcome Sungeun and Pei Rou!
 * **Jun. 2025**: Prof. Woo is serving as a PC at USENIX Security 2026.
 * **Jun. 2025**: Prof. Woo won the **Best Lecture Award (석탑강의상)** for the Theory of Computation class in Fall 2024!
 * **Mar. 2025**: Our research paper **[ZCOVER](/assets/papers/DSN25.pdf)** has been accepted at **[DSN 2025](https://dsn2025.github.io/)**. Congrats to Dr. Carlos!
