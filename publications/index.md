@@ -80,9 +80,11 @@ Annual Computer Security Applications Conference (ACSAC 2021)<br>[[paper]](/asse
 
 ## Patents
 
-- **METHOD FOR IDENTIFYING OPEN-SOURCE SOFTWARE COMPONENTS AT THE SOURCE-CODE LEVEL**<br>Heejo Lee, Seunghoon Woo<br>International (EU), Registration decision, Nov. 27. 2024.
+- **METHOD AND APPARATUS FOR GENERATING ADAPTIVE VERSION COVERING VERSION DISTRIBUTION OF REUSED OPEN SOURCE SOFTWARE COMPONENT**<br>Seunghoon Woo, Youngjae Choi<br>Domestic, Application, 10-2025-0123459, Sep. 01. 2025. [[material]](/assets/patents/KR_TIVER25.pdf)
+
+- **METHOD FOR IDENTIFYING OPEN-SOURCE SOFTWARE COMPONENTS AT THE SOURCE-CODE LEVEL**<br>Heejo Lee, Seunghoon Woo<br>International (EU), Registration, EP4033380B1, Apr. 16. 2025. [[material]](/assets/patents/EU_CENTRIS25.pdf)
 
 - **METHOD AND APPARATUS FOR DETECTING PROPAGATION OF SECURITY VULNERABILITIES OF OPEN SOURCE SOFTWARE INHERENT IN COMPONENTS OF TARGET SOFTWARE**<br> 
-Heejo Lee, Seunghoon Woo<br>Domestic, Application, 10-2024-0023236, Feb. 19. 2024.
+Heejo Lee, Seunghoon Woo<br>Domestic, Application, 10-2024-0023236, Feb. 19. 2024. [[material]](/assets/patents/KR_V1SCAN24.pdf)
 
-- **METHOD FOR IDENTIFYING OPEN-SOURCE SOFTWARE COMPONENTS AT THE SOURCE-CODE LEVEL**<br>Heejo Lee, Seunghoon Woo<br>International (US), Registration, 11836486, Dec. 5. 2023.
+- **METHOD FOR IDENTIFYING OPEN-SOURCE SOFTWARE COMPONENTS AT THE SOURCE-CODE LEVEL**<br>Heejo Lee, Seunghoon Woo<br>International (US), Registration, 11836486, Dec. 5. 2023. [[material]](/assets/patents/US_CENTRIS23.pdf)
