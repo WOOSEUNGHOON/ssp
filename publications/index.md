@@ -80,7 +80,7 @@ Annual Computer Security Applications Conference (ACSAC 2021)<br>[[paper]](/asse
 
 ## Patents
 
-- **METHOD AND APPARATUS FOR GENERATING ADAPTIVE VERSION COVERING VERSION DISTRIBUTION OF REUSED OPEN SOURCE SOFTWARE COMPONENT**<br>Seunghoon Woo, Youngjae Choi<br>Domestic, Application, 10-2025-0123459, Sep. 01. 2025. [[material]](/assets/patents/KR_TIVER25.pdf)
+- **METHOD AND APPARATUS FOR GENERATING ADAPTIVE VERSION COVERING VERSION DISTRIBUTION OF REUSED OPEN SOURCE SOFTWARE COMPONENT**<br>Seunghoon Woo, Youngjae Choi<br>Domestic, Application, 10-2025-0123459, Sep. 1. 2025. [[material]](/assets/patents/KR_TIVER25.pdf)
 
 - **METHOD FOR IDENTIFYING OPEN-SOURCE SOFTWARE COMPONENTS AT THE SOURCE-CODE LEVEL**<br>Heejo Lee, Seunghoon Woo<br>International (EU), Registration, EP4033380B1, Apr. 16. 2025. [[material]](/assets/patents/EU_CENTRIS25.pdf)
 
