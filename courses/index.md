@@ -7,6 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Courses
 
+## 2025 Fall
+ - [COSE215] Theory of Computation 
+
 ## 2025 Spring
  - [SWS127] Topics in Software Security
  - [COSE451] Software Security
