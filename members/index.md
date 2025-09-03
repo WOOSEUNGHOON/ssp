@@ -62,7 +62,7 @@ nav:
 {%
   include member_image.html
   image="images/tanpeirou.jpg"
-  text="**Tan Pei Rou**<br><br>Research Interests: Attack Simulation"
+  text="**Tan Pei Rou**<br>(tanpeirou [at] korea.ac.kr)<br>Research Interests: Attack Simulation"
   flip=false
 %}
 
