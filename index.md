@@ -32,7 +32,7 @@ Software Security and Privacy Laboratory (SSP Lab) was established in 2023. We c
 
 ## RECRUITMENT
 
-**IMPORTANT**: As per our lab's internal rules, all applicants must join for at least two months as undergraduate interns before application. Those aiming for application in **March** of any given year should contact us before **September of the previous year**, and those aiming for application in **September** should reach out before **March of the same year**.
+**IMPORTANT**: As per our lab's internal rules, all applicants must join for at least two months as undergraduate interns before application. Those aiming for application in **March** of any given year should contact us before **August of the previous year**, and those aiming for application in **September** should reach out before **February of the same year**.
 
 {% include clip.html %}
 
