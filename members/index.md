@@ -98,6 +98,20 @@ nav:
   flip=false
 %}
 
+{%
+  include member_image.html
+  image="images/HHJ.jpg"
+  text="**Hojin Han (한호진)**<br>(seupjak [at] korea.ac.kr)<br>Research Interests: LLM Embedded Software Security"
+  flip=false
+%}
+
+{%
+  include member_image.html
+  image="images/default.png"
+  text="**Dohyeok Keum (금도혁)**<br>(kdo1206 [at] korea.ac.kr)<br>Research Interests: Software Security"
+  flip=false
+%}
+
 <!-- {%
   include member_image.html
   image="images/default.png"
