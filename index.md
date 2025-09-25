@@ -14,7 +14,7 @@ Software Security and Privacy Laboratory (SSP Lab) was established in 2023. We c
 
 ## LATEST NEWS
 
-* **Sep. 2025**: Our research paper **CRYPTBARA** has been accepted at **[ASE 2025](https://conf.researchr.org/home/ase-2025)**. Congrats to Seogyeong and Sungeun!
+* **Sep. 2025**: Our research paper **CRYPTBARA** has been accepted at **[ASE 2025](https://conf.researchr.org/home/ase-2025)**. Congrats to Seogyeong and S(e)ungeun!
 * **Sep. 2025**: Two **new MS students** are joining our team. Welcome Sungeun and Pei Rou!
 * **Jun. 2025**: Prof. Woo is serving as a PC at USENIX Security 2026.
 * **Jun. 2025**: Prof. Woo won the **Best Lecture Award (석탑강의상)** for the Theory of Computation class in Fall 2024!
@@ -76,7 +76,7 @@ We are continuously looking for enthusiastic **Ph.D./master students** and **gra
 
 ## COMMITEE
 
-* USENIX Security 2026 (Program Committee Member)
+* [USENIX Security 2026](https://www.usenix.org/conference/usenixsecurity26) (Program Committee Member)
 * [ISC 2025](https://isc25.skku.edu/) (Program Committee Member)
 * [ASIACCS 2025](https://asiaccs2025.hust.edu.vn/) (Program Committee Member)
 

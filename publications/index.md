@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-book" %}Publications
 
 Published research papers on software security and engineering in prestigious conferences and journals including
-USENIX Security (2021, 2022, 2023), ICSE (2021, 2024, 2025), S&P (2017), DSN (2021, 2022, 2025), ACSAC (2021), ESORICS (2024), and IEEE ACCESS (2022, 2023).
+USENIX Security (2021, 2022, 2023), ICSE (2021, 2024, 2025), S&P (2017), ASE (2025), DSN (2021, 2022, 2025), ACSAC (2021), ESORICS (2024), and IEEE ACCESS (2022, 2023).
 <br><br>
 <i class="fa-solid fa-crown"></i>: Top-tier conferences
 {% include section.html %}
