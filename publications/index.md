@@ -24,7 +24,7 @@ USENIX Security (2021, 2022, 2023), ICSE (2021, 2024, 2025), S&P (2017), ASE (20
 
 - **Enhancing Code Vulnerability Detection Using CodeGraphBERT Deep Learning Techniques**<br>Zeinab Shahbazi, Meshkat Mesbah, Seunghoon Woo<br> 9th International Conference on Innovation in Artificial Intelligence (ICIAI 2025)
 
-- **A Large-Scale Analysis of the Effectiveness of Publicly Reported Security Patches**<br>Seunghoon Woo, Eunjin Choi, Heejo Lee<br>Computers & Security (2025, IF:5.4)<br> [[paper]](https://doi.org/10.1016/j.cose.2024.104181)
+- **A Large-Scale Analysis of the Effectiveness of Publicly Reported Security Patches**<br>Seunghoon Woo, Eunjin Choi, Heejo Lee<br>Computers & Security (COSE 2025, IF:5.4)<br> [[paper]](https://doi.org/10.1016/j.cose.2024.104181)
 
 {% include section.html %}
 
