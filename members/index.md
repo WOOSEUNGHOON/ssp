@@ -105,6 +105,13 @@ nav:
   flip=false
 %}
 
+{%
+  include member_image.html
+  image="images/LH.jpg"
+  text="**Han Lee (이한)**<br>(tw0n3 [at] korea.ac.kr)<br>Research Interests: Fuzzing, Software Security"
+  flip=false
+%}
+
 
 <!-- {%
   include member_image.html
