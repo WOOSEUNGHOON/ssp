@@ -16,6 +16,9 @@ USENIX Security (2021, 2022, 2023), ICSE (2021, 2024, 2025), S&P (2017), ASE (20
 
 
 ## 2025
+
+- **Human vs AI: Insecure Use of Security-sensitive Functions in AI-generated Code in Comparison to Human-written Code (accepted)**<br>Joonku Lee, Heejo Lee&#42;, Seunghoon Woo&#42;, Sieun Ju (* Co-corresponding authors)<br>41st ACM/SIGAPP Symposium On Applied Computing (ACM SAC 2026): Poster for Presentation 
+
 - **CRYPTBARA: Dependency-Guided Detection of Python Cryptographic API Misuses**<br>Seogyeong Cho, Seungeun Yu, Seunghoon Woo<br><i class="fa-solid fa-crown"></i> 40th IEEE/ACM Automated Software Engineering Conference (ASE 2025)<br>[[paper]](/assets/papers/ASE25.pdf) [[slide]](/assets/presentations/CRYPTBARA_ASE25_presentation.pdf) [[code]](https://github.com/choseogyeong/CRYPTBARA)
 
 - **ZCOVER: Uncovering Z-Wave Controller Vulnerabilities Through Systematic Security Analysis of Application Layer Implementation**<br> Carlos Nkuba Kayembe, Jimin Kang, Seunghoon Woo&#42;, Heejo Lee&#42; (* Co-corresponding authors)<br>55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2025)<br>[[paper]](/assets/papers/DSN25.pdf) [[slide]](/assets/presentations/ZCOVER_DSN25_presentation.pdf) [[code]](https://github.com/CNK2100/ZCOVER_public)
