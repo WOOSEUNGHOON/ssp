@@ -14,6 +14,7 @@ Software Security and Privacy Laboratory (SSP Lab) was established in 2023. We c
 
 ## LATEST NEWS
 
+* **Dec. 2025**: Our research paper **SBridge** has been accepted at **[FSE 2026](https://conf.researchr.org/home/fse-2026)**. Congrats to Heedong!
 * **Nov. 2025**: Prof. Woo won the **Best Lecture Award (석탑강의상)** for the Software Security class in Spring 2025!
 * **Sep. 2025**: Our research paper **[CRYPTBARA](/assets/papers/ASE25.pdf)** has been accepted at **[ASE 2025](https://conf.researchr.org/home/ase-2025)**. Congrats to Seogyeong and S(e)ungeun!
 * **Sep. 2025**: Two **new MS students** are joining our team. Welcome Sungeun and Pei Rou!
