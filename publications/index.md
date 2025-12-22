@@ -16,7 +16,7 @@ USENIX Security (2021, 2022, 2023), ICSE (2021, 2024, 2025), S&P (2017), ASE (20
 
 ## 2026
 
-- **SBridge: Identifying Source-to-Binary Function Similarity via Cross-Domain Control Block Matching (Accepted)**<br>Heedong Yang, Jeongwoo Lee, Hajin Yun, Seunghoon Woo<br><i class="fa-solid fa-crown"></i> The ACM International Conference on the Foundations of Software Engineering (FSE)
+- **SBridge: Identifying Source-to-Binary Function Similarity via Cross-Domain Control Block Matching (Accepted)**<br>Heedong Yang, Jeongwoo Lee, Hajin Yun, Seunghoon Woo<br><i class="fa-solid fa-crown"></i> The ACM International Conference on the Foundations of Software Engineering (FSE 2026)
 
 - **Human vs AI: Insecure Use of Security-sensitive Functions in AI-generated Code in Comparison to Human-written Code (accepted)**<br>Joonku Lee, Heejo Lee&#42;, Seunghoon Woo&#42;, Sieun Ju (* Co-corresponding authors)<br>41st ACM/SIGAPP Symposium On Applied Computing (ACM SAC 2026) 
 
