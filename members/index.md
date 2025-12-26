@@ -112,6 +112,13 @@ nav:
   flip=false
 %}
 
+{%
+  include member_image.html
+  image="images/default.png"
+  text="**Soeun Yang (양소은)**<br>(soeun9753 [at] naver.com)<br>Research Interests: OSS Vulnerability Detection"
+  flip=false
+%}
+
 
 <!-- {%
   include member_image.html
