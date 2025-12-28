@@ -2,7 +2,7 @@
 title: Gallery
 permalink: /gallery/
 nav:
-  order: 5
+  order: 6
   tooltip: Gallery
 ---
 
