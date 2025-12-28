@@ -11,28 +11,28 @@ nav:
 
 {% include clip.html %}
 
-고려대학교 소프트웨어 보안 연구실에서는 안전한 소프트웨어 생태계를 구축하는데 기여할 연구원을 모집합니다. 
+고려대학교 소프트웨어 보안 연구실(SSP Lab)에서는 안전한 소프트웨어 생태계를 구축하는데 기여할 연구원을 모집합니다. 관심있는 학생은 아래 안내 사항을 읽고 우승훈 교수 및 연구실 지원 담당자에게 이메일 주시기 바랍니다.
 
-관심있는 학생은 아래 안내 사항을 읽고 우승훈 교수 및 연구실 지원 담당자에게 이메일 주시기 바랍니다.
+- 지도교수: 우승훈 (seunghoonwoo [at] korea.ac.kr)
+- 지원담당: 최영재 (youngjaechoi [at] korea.ac.kr)
 
-지도교수: 우승훈 (seunghoonwoo [at] korea.ac.kr)
-지원담당: 최영재 (youngjaechoi [at] korea.ac.kr)
+Software Security and Privacy Laboratory @ Korea University is seeking researchers who will contribute to building a secure software ecosystem. Interested students are encouraged to review the information below and contact Prof. Seunghoon Woo and the designated lab staff via email.
 
-Software Security and Privacy Laboratory @ Korea University is seeking researchers who will contribute to building a secure software ecosystem.
-
-Interested students are encouraged to review the information below and contact Prof. Seunghoon Woo and the designated lab staff via email.
-
-Professor: Seunghoon Woo (seunghoonwoo [at] korea.ac.kr)
-Lab staff: Youngjae Choi (youngjaechoi [at] korea.ac.kr)
+- Professor: Seunghoon Woo (seunghoonwoo [at] korea.ac.kr)
+- Lab staff: Youngjae Choi (youngjaechoi [at] korea.ac.kr)
 
 {% include section.html %}
 
 ## 연구실 지원 방법 (How to Apply to the Laboratory)
 
+연구실에 지원을 희망하시는 분은 아래 지원방법을 참고해서 메일주시기 바랍니다.
+
 - **대학원 지원 이전에 최소 2개월 이상 연구 인턴 수행 필수**
 - 지원 서류: (1) 이력서, (2) 성적표, (3) 자기소개서 및 (가능하면) 포트폴리오
 - 지원 방법: 위 명시된 이메일(교수 및 지원담당자) 주소로 지원
 - 소프트웨어 보안에 대한 관심과 열정이 없는 단순 지원은 정중히 사양합니다.
+
+If you are interested in our lab, please refer to the application instructions below and contact us by email.
 
 - **Completion of a research internship for at least two months is required prior to applying to the graduate program.**
 - Application materials: (1) CV, (2) academic transcript, (3) self-introduction document and, if available, your portfolio as well.
