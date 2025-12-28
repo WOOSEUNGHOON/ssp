@@ -25,7 +25,7 @@ Software Security and Privacy Laboratory @ Korea University is seeking researche
 
 ## 연구실 지원 방법 (How to Apply to the Laboratory)
 
-연구실에 지원을 희망하시는 분은 아래 지원방법을 참고해서 메일주시기 바랍니다. 소프트웨어 보안에 대한 관심과 열정이 없는 단순 지원은 정중히 사양합니다.
+연구실 지원을 희망하시는 분은 아래를 참고해서 메일주시기 바랍니다. 소프트웨어 보안에 대한 관심과 열정이 없는 지원은 정중히 사양합니다.
 
 - **(석사/박사) 대학원 입학 지원 이전에 최소 2개월 이상 연구 인턴 수행 필수**
 - 지원 서류: (1) 이력서, (2) 성적표, (3) 자기소개서 및 (가능하면) 포트폴리오
@@ -53,9 +53,7 @@ SSP Lab은 당장 소프트웨어 보안에 전문적인 지식이 없더라도,
 - 영어로 말하거나 글을 쓰는데 충분한 능력을 갖추신 분
 - 컴퓨터 보안 관련 기업에서 인턴십을 수행했거나, 근무한 경험이 있는 분
 
-SSP Lab welcomes applicants who may not yet have specialized expertise in software security, but who possess a solid foundation in computer science and software development and are eager to pursue in-depth research in security.
-
-In particular, we are looking for candidates with the following mindset:
+SSP Lab welcomes applicants who may not yet have specialized expertise in software security, but who possess a solid foundation in computer science and software development and are eager to pursue in-depth research in security. In particular, we are looking for candidates with the following mindset:
 
 - Passion for security research: Applicants who have a genuine interest and enthusiasm for research itself, rather than pursuing a degree alone.
 - Self-motivated attitude: Applicants who can take initiative and drive their own research, rather than only carrying out assigned tasks.
