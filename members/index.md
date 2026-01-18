@@ -119,6 +119,19 @@ nav:
   flip=false
 %}
 
+{%
+  include member_image.html
+  image="images/default.png"
+  text="**Minhyuk Hong (홍민혁)**<br>(minster7650 [at] naver.com)<br>Research Interests: AI for Software Security"
+  flip=false
+%}
+
+{%
+  include member_image.html
+  image="images/default.png"
+  text="**Hyunjing Doh (도현정)**<br>(hyunjung7312 [at] naver.com)<br>Research Interests: Software Security"
+  flip=false
+%}
 
 <!-- {%
   include member_image.html
