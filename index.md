@@ -69,12 +69,14 @@ Software Security and Privacy Laboratory (SSP Lab) was established in 2023. We c
 
 ## COMMITEE
 
+* [ASE 2026](https://conf.researchr.org/home/ase-2026) (Program Committee Member)
 * [USENIX Security 2026](https://www.usenix.org/conference/usenixsecurity26) (Program Committee Member)
 * [ISC 2025](https://isc25.skku.edu/) (Program Committee Member)
 * [ASIACCS 2025](https://asiaccs2025.hust.edu.vn/) (Program Committee Member)
 
 ## REVIEWER
 
+* TBD: Transactions on Big Data (2026)
 * Computers & Security (2025)
 * T-IFS: IEEE Transactions on Information Forensics and Security (2025)
 * TDSC: IEEE Transactions on Dependable and Secure Computing (2024)
