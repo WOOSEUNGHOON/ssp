@@ -50,6 +50,7 @@ Software Security and Privacy Laboratory (SSP Lab) was established in 2023. We c
 * **Software Composition Analysis (SCA)**
 * **Software Bills of Materials (SBoM) Management**
 * **Security Patch Analysis**
+* **AI for Security/Security for AI**
 
 [See more](/research)
 
