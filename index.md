@@ -38,7 +38,7 @@ Software Security and Privacy Laboratory (SSP Lab) was established in 2023. We c
 {%
   include my_feature_idx.html
   image="images/profile.jpg"
-  text="**Seunghoon Woo (우승훈)**<br>(seunghoonwoo [at] korea.ac.kr)<br>Assistant professor<br>[Dept. of Computer Science and Engineering](https://cs.korea.ac.kr/)<br>[College of Informatics](https://info.korea.ac.kr/), [Korea University](https://www.korea.ac.kr/)<br>[[CV]](/assets/CV(20250321).pdf) (Last updated: Mar. 2025)"
+  text="**Seunghoon Woo (우승훈)**<br>(seunghoonwoo [at] korea.ac.kr)<br>Assistant professor<br>[Dept. of Computer Science and Engineering](https://cs.korea.ac.kr/)<br>[College of Informatics](https://info.korea.ac.kr/), [Korea University](https://www.korea.ac.kr/)<br>[[CV]](/assets/CV(20260209).pdf) (Last updated: Feb. 2026)"
   flip=false
 %}
 
