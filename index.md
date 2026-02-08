@@ -50,6 +50,7 @@ Software Security and Privacy Laboratory (SSP Lab) was established in 2023. We c
 * **Software Composition Analysis (SCA)**
 * **Software Bills of Materials (SBoM) Management**
 * **Security Patch Analysis**
+* **AI for Security/Security for AI**
 
 [See more](/research)
 
@@ -77,9 +78,9 @@ Software Security and Privacy Laboratory (SSP Lab) was established in 2023. We c
 ## REVIEWER
 
 * TBD: Transactions on Big Data (2026)
+* TDSC: IEEE Transactions on Dependable and Secure Computing (2024, 2026)
 * Computers & Security (2025)
 * T-IFS: IEEE Transactions on Information Forensics and Security (2025)
-* TDSC: IEEE Transactions on Dependable and Secure Computing (2024)
 * TSE: IEEE Transactions on Software Engineering (2023, 2024)
 * TOSEM: ACM Transactions on Software Engineering and Methodology (2023)
 * SP&E: Software Practice and Experience (2023)
