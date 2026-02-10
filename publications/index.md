@@ -30,7 +30,7 @@ USENIX Security (2021, 2022, 2023), ICSE (2021, 2024, 2025), S&P (2017), ASE (20
 
 - **TIVER: Identifying Adaptive Versions of C/C++ Third-Party Open-Source Components Using a Code Clustering Technique**<br>Youngjae Choi, Seunghoon Woo<br><i class="fa-solid fa-crown"></i> 47th International Conference on Software Engineering (ICSE 2025)<br>[[<i class="fa-solid fa-file-pdf"></i> paper]](/assets/papers/ICSE25.pdf) [[<i class="fa-solid fa-file-powerpoint"></i> slide]](/assets/presentations/TIVER_ICSE25_presentation.pdf) [[<i class="fa-solid fa-file-code"></i> code]](https://github.com/Genius-Choi/TIVER-public) [[<i class="fa-solid fa-newspaper"></i> article1]](https://www.kfenews.co.kr/news/articleView.html?idxno=638650) [[<i class="fa-solid fa-newspaper"></i> article2]](https://www.dailysecu.com/news/articleView.html?idxno=166742)
 
-- **Enhancing Code Vulnerability Detection Using CodeGraphBERT Deep Learning Techniques**<br>Zeinab Shahbazi, Meshkat Mesbah, Seunghoon Woo<br> 9th International Conference on Innovation in Artificial Intelligence (ICIAI 2025)
+- **Enhancing Code Vulnerability Detection Using CodeGraphBERT Deep Learning Techniques**<br>Zeinab Shahbazi, Meshkat Mesbah, Seunghoon Woo<br> 9th International Conference on Innovation in Artificial Intelligence (ICIAI 2025)<br>[[link]](https://link.springer.com/chapter/10.1007/978-981-95-0887-7_2)
 
 - **A Large-Scale Analysis of the Effectiveness of Publicly Reported Security Patches**<br>Seunghoon Woo, Eunjin Choi, Heejo Lee<br>Computers & Security (COSE 2025, IF:5.4)<br> [[<i class="fa-solid fa-file-pdf"></i> paper]](https://doi.org/10.1016/j.cose.2024.104181)
 
