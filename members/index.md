@@ -66,28 +66,22 @@ nav:
   flip=false
 %}
 
+{%
+  include member_image.html
+  image="images/LH.jpg"
+  text="**Han Lee (이한)**<br>(tw0n3 [at] korea.ac.kr)<br>Research Interests: Fuzzing, Software Security"
+  flip=false
+%}
+
 {% include section.html %}
 
 ## Undergraduate students
 
-{%
-  include member_image.html
-  image="images/BMK.png"
-  text="**Min-Gyoung Ban (반민경)**<br>(tara7004 [at] korea.ac.kr)<br>Research Interests: Software Security, Web Security"
-  flip=false
-%}
 
 {%
   include member_image.html
   image="images/HSJ.jpg"
   text="**Soojin Han (한수진)**<br>(sjhan034 [at] naver.com)<br>Research Interests: Software Security"
-  flip=false
-%}
-
-{%
-  include member_image.html
-  image="images/default.png"
-  text="**Taehyun Kim (김태현)**<br>(kth9245 [at] naver.com)<br>Research Interests: Binary Software Security"
   flip=false
 %}
 
@@ -102,13 +96,6 @@ nav:
   include member_image.html
   image="images/default.png"
   text="**Dohyeok Keum (금도혁)**<br>(kdo1206 [at] korea.ac.kr)<br>Research Interests: Software Security"
-  flip=false
-%}
-
-{%
-  include member_image.html
-  image="images/LH.jpg"
-  text="**Han Lee (이한)**<br>(tw0n3 [at] korea.ac.kr)<br>Research Interests: Fuzzing, Software Security"
   flip=false
 %}
 
@@ -164,11 +151,28 @@ nav:
 %} -->
 
 
+<!-- {%
+  include member_image.html
+  image="images/default.png"
+  text="**Taehyun Kim (김태현)**<br>(kth9245 [at] naver.com)<br>Research Interests: Binary Software Security"
+  flip=false
+%} -->
+
+<!-- {%
+  include member_image.html
+  image="images/BMK.png"
+  text="**Min-Gyoung Ban (반민경)**<br>(tara7004 [at] korea.ac.kr)<br>Research Interests: Software Security, Web Security"
+  flip=false
+%}
+ -->
+
 
 {% include section.html %}
 
 ## Former members
 
+* Taehyun Kim (김태현): Korea University
+* Min-Gyoung Ban (반민경): Korea University
 * Meshkat Mesbah: Korea University
 * Hajin Yun (윤하진): Korea University
 * Hyunseo Roh (노현서): Korea University
