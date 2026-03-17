@@ -27,16 +27,18 @@ nav:
   flip=false
 %}
 
-{% include section.html %}
-
-## MS students
-
 {%
   include member_image.html
   image="images/CYJ.jpg"
   text="**Youngjae Choi (최영재)**<br>(youngjaechoi [at] korea.ac.kr)<br>Research Interests: OSS Vulnerability Detection, Supply Chain Security<br>[[Page]](https://youngjaechoi7.github.io/)"
   flip=false
 %}
+
+
+{% include section.html %}
+
+## MS students
+
 
 {%
   include member_image.html
@@ -171,10 +173,12 @@ nav:
 
 ## Former members
 
-* Taehyun Kim (김태현): Korea University
+* Taehyun Kim (김태현), Min-Gyoung Ban (반민경), Meshkat Mesbah, Hajin Yun (윤하진), Hyunseo Roh (노현서), Jimin Son (손지민): Korea University
+
+<!-- * Taehyun Kim (김태현): Korea University
 * Min-Gyoung Ban (반민경): Korea University
 * Meshkat Mesbah: Korea University
 * Hajin Yun (윤하진): Korea University
 * Hyunseo Roh (노현서): Korea University
-* Jimin Son (손지민): Korea University
+* Jimin Son (손지민): Korea University -->
 
