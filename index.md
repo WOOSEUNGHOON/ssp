@@ -20,7 +20,7 @@ Two new MS students are joining our team. Welcome Sungeun and Pei Rou!
 * **Sep. 2024**: Two **new MS students** are joining our team. Welcome Youngjae and Seogyeong!
 * **Mar. 2024**: One **new Ph.D. student** is joining our team. Welcome Heedong!-->
 
-* **Mar. 2026**: Two research papers have been accepted at **[FSE 2026](https://conf.researchr.org/home/fse-2026)**. Congrats to Heedong and Sunha!
+* **Mar. 2026**: Two research papers have been accepted at **[FSE 2026](https://conf.researchr.org/home/fse-2026)**. Congrats to Heedong, Sunha, and Soojin!
 * **Feb. 2026**: Prof. Woo is serving as a PC at ASE 2026.
 * **Nov. 2025**: Prof. Woo won the **Best Lecture Award (석탑강의상)** for the Software Security class in Spring 2025!
 * **Sep. 2025**: Our research paper **[CRYPTBARA](/assets/papers/ASE25.pdf)** has been accepted at **[ASE 2025](https://conf.researchr.org/home/ase-2025)**. Congrats to Seogyeong and S(e)ungeun!
