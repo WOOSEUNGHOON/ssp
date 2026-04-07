@@ -23,7 +23,8 @@ USENIX Security (2021, 2022, 2023), ICSE (2021, 2024, 2025), S&P (2017), ASE (20
 
 - **Clovery: Identifying Affected Versions in C/C++ Public Security Vulnerability Reports (Accepted)**<br>Duyeong Kim, Jimin Kang, Yeonhee Kim, Seunghoon Woo, Heejo Lee<br>41st IFIP international conference on ICT systems security and privacy protection (IFIPSEC 2026) 
 
-- **Human vs AI: Insecure Use of Security-Sensitive Functions in AI-generated Code in Comparison to Human-written Code (Accepted)**<br>Joonku Lee, Sieun Ju, Seunghoon Woo, Heejo Lee <br>41st ACM/SIGAPP Symposium On Applied Computing (ACM SAC 2026) 
+- **Human vs AI: Insecure Use of Security-Sensitive Functions in AI-generated Code in Comparison to Human-written Code**<br>Joonku Lee, Sieun Ju, Seunghoon Woo, Heejo Lee <br>41st ACM/SIGAPP Symposium On Applied Computing (ACM SAC 2026) 
+<br>[[<i class="fa-solid fa-file-pdf"></i> paper]](/assets/papers/SAC26.pdf) [[<i class="fa-solid fa-file-powerpoint"></i> slide]](/assets/presentations/SAC26_presentation.pdf)
 
 {% include section.html %}
 
