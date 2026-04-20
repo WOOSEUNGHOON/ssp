@@ -34,11 +34,9 @@ nav:
   flip=false
 %}
 
-
 {% include section.html %}
 
 ## MS students
-
 
 {%
   include member_image.html
@@ -79,7 +77,6 @@ nav:
 
 ## Undergraduate students
 
-
 {%
   include member_image.html
   image="images/HSJ.jpg"
@@ -118,7 +115,7 @@ nav:
 {%
   include member_image.html
   image="images/default.png"
-  text="**Hyunjing Doh (도현정)**<br>(hyunjung7312 [at] naver.com)<br>Research Interests: Software Security"
+  text="**Hyunjung Doh (도현정)**<br>(hyunjung7312 [at] naver.com)<br>Research Interests: Software Security"
   flip=false
 %}
 
@@ -128,7 +125,6 @@ nav:
   text="**Meshkat Mesbah**<br>(meshkatmsb [at] korea.ac.kr)<br>Research Interests: Software Security"
   flip=false
 %} -->
-
 
 <!-- {%
   include member_image.html
@@ -144,14 +140,12 @@ nav:
   flip=false
 %} -->
 
-
 <!-- {%
   include member_image.html
   image="images/NHS.jpg"
   text="**Roh Hyunseo (노현서)**<br>(milknono [at] korea.ac.kr)<br>Research Interests: AI related Software Security"
   flip=false
 %} -->
-
 
 <!-- {%
   include member_image.html
@@ -168,12 +162,11 @@ nav:
 %}
  -->
 
-
 {% include section.html %}
 
 ## Former members
 
-* Taehyun Kim (김태현), Min-Gyoung Ban (반민경), Meshkat Mesbah, Hajin Yun (윤하진), Hyunseo Roh (노현서), Jimin Son (손지민): Korea University
+- Taehyun Kim (김태현), Min-Gyoung Ban (반민경), Meshkat Mesbah, Hajin Yun (윤하진), Hyunseo Roh (노현서), Jimin Son (손지민): Korea University
 
 <!-- * Taehyun Kim (김태현): Korea University
 * Min-Gyoung Ban (반민경): Korea University
@@ -181,4 +174,3 @@ nav:
 * Hajin Yun (윤하진): Korea University
 * Hyunseo Roh (노현서): Korea University
 * Jimin Son (손지민): Korea University -->
-
