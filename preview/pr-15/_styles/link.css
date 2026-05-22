@@ -1,0 +1,15 @@
+a {
+  color: #7c3aed;
+  transition-property: color;
+  overflow-wrap: break-word;
+}
+
+a:hover {
+  color: var(--text);
+}
+
+a:not([href]) {
+  color: var(--text);
+}
+
+/*# sourceMappingURL=link.css.map */
