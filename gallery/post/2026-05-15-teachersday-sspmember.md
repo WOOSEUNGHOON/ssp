@@ -3,11 +3,11 @@ layout: gallery-post
 title: 2026 Teacher's day SSP Members
 date: 2026-05-15
 images:
-  - https://file.ssp.kr/img/2026/2026-05-15-teachersday_1.jpg
-  - https://file.ssp.kr/img/2026/2026-05-15-teachersday_2.jpg
-  - https://file.ssp.kr/img/2026/2026-05-15-teachersday_3.jpg
-  - https://file.ssp.kr/img/2026/2026-05-15-teachersday_4.jpg
-  - https://file.ssp.kr/img/2026/2026-05-15-teachersday_5.jpg
+  - https://file.ssp.kr/img/2026/2026-05-15-teachersday_1.jpeg
+  - https://file.ssp.kr/img/2026/2026-05-15-teachersday_2.jpeg
+  - https://file.ssp.kr/img/2026/2026-05-15-teachersday_3.jpeg
+  - https://file.ssp.kr/img/2026/2026-05-15-teachersday_4.jpeg
+  - https://file.ssp.kr/img/2026/2026-05-15-teachersday_5.jpeg
 ---
 
 To celebrate Teacher’s Day, we held a small event for professor Woo 🌸 🐵
