@@ -22,7 +22,8 @@ USENIX Security (2021, 2022, 2023), ICSE (2021, 2024, 2025), S&P (2017), ASE (20
 - **SBridge: Identifying Source-to-Binary Function Similarity via Cross-Domain Control Block Matching (Accepted)**<br>Heedong Yang, Jeongwoo Lee, Hajin Yun, Seunghoon Woo<br><i class="fa-solid fa-crown"></i> The ACM International Conference on the Foundations of Software Engineering (FSE 2026)
 
 - **Clovery: Identifying Affected Versions in C/C++ Public Security Vulnerability Reports**<br>Duyeong Kim, Jimin Kang, Yeonhee Kim, Seunghoon Woo, Heejo Lee<br>41st IFIP international conference on ICT systems security and privacy protection (IFIPSEC 2026) 
-<br>[[<i class="fa-solid fa-file-pdf"></i> paper]](/assets/papers/IFIPSEC26.pdf) [[<i class="fa-solid fa-file-powerpoint"></i> slide]](/assets/presentations/CLOVERY_IFIPSEC26_presentation.pdf)
+<br>[[<i class="fa-solid fa-file-pdf"></i> paper]](/assets/papers/IFIPSEC26.pdf) [[<i class="fa-solid fa-file-powerpoint"></i> slide]](/assets/presentations/CLOVERY_IFIPSEC26_presentation.pdf)[[<i class="fa-solid fa-file-code"></i> code]](https://github.com/kimdu0/clovery) 
+
 
 - **Human vs AI: Insecure Use of Security-Sensitive Functions in AI-generated Code in Comparison to Human-written Code**<br>Joonku Lee, Sieun Ju, Seunghoon Woo, Heejo Lee <br>41st ACM/SIGAPP Symposium On Applied Computing (ACM SAC 2026) 
 <br>[[<i class="fa-solid fa-file-pdf"></i> paper]](/assets/papers/SAC26.pdf) [[<i class="fa-solid fa-file-powerpoint"></i> slide]](/assets/presentations/SAC26_presentation.pdf)
