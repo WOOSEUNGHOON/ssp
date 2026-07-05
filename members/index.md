@@ -127,66 +127,8 @@ nav:
 %}
 
 
-<!-- {%
-  include member_image.html
-  image="images/default.png"
-  text="**Dohyeok Keum (금도혁)**<br>(kdo1206 [at] korea.ac.kr)<br>Research Interests: Software Security"
-  flip=false
-%}
- -->
-
-<!-- {%
-  include member_image.html
-  image="images/meshkat.jpg"
-  text="**Meshkat Mesbah**<br>(meshkatmsb [at] korea.ac.kr)<br>Research Interests: Software Security"
-  flip=false
-%} -->
-
-<!-- {%
-  include member_image.html
-  image="images/default.png"
-  text="**Hajin Yun (윤하진)**<br>(faiith7001 [at] gmail.com)<br>Research Interests: Software Security"
-  flip=false
-%} -->
-
-<!-- {%
-  include member_image.html
-  image="images/SJM.jpg"
-  text="**Son Jimin (손지민)**<br>(jamie1608 [at] korea.ac.kr)<br>Research Interests: Software Security"
-  flip=false
-%} -->
-
-<!-- {%
-  include member_image.html
-  image="images/NHS.jpg"
-  text="**Roh Hyunseo (노현서)**<br>(milknono [at] korea.ac.kr)<br>Research Interests: AI related Software Security"
-  flip=false
-%} -->
-
-<!-- {%
-  include member_image.html
-  image="images/default.png"
-  text="**Taehyun Kim (김태현)**<br>(kth9245 [at] naver.com)<br>Research Interests: Binary Software Security"
-  flip=false
-%} -->
-
-<!-- {%
-  include member_image.html
-  image="images/BMK.png"
-  text="**Min-Gyoung Ban (반민경)**<br>(tara7004 [at] korea.ac.kr)<br>Research Interests: Software Security, Web Security"
-  flip=false
-%}
- -->
-
 {% include section.html %}
 
 ## Former members
 
 - Dohyeok Keum (금도혁), Taehyun Kim (김태현), Min-Gyoung Ban (반민경), Meshkat Mesbah, Hajin Yun (윤하진), Hyunseo Roh (노현서), Jimin Son (손지민): Korea University
-
-<!-- * Taehyun Kim (김태현): Korea University
-* Min-Gyoung Ban (반민경): Korea University
-* Meshkat Mesbah: Korea University
-* Hajin Yun (윤하진): Korea University
-* Hyunseo Roh (노현서): Korea University
-* Jimin Son (손지민): Korea University -->
