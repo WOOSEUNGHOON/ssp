@@ -106,11 +106,14 @@ $wrap: 800px;
   box-sizing: border-box;
 
   text-align: center;
+  text-align-last: center;
   border-top: 1px solid #e5e5e5;
 }
 
 .member-text p {
   margin: 0;
+  text-align: center;
+  text-align-last: center;
 }
 
 /* 모바일에서만 1명씩 */
