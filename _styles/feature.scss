@@ -112,8 +112,9 @@ $wrap: 800px;
 
 .member-text p {
   margin: 0;
-  text-align: center;
-  text-align-last: center;
+  text-align: center !important;
+  text-align-last: center !important;
+  line-height: 1.5;
 }
 
 /* 모바일에서만 1명씩 */
