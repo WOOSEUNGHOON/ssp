@@ -136,15 +136,6 @@ nav:
   flip=false
 %}
 
-
-</div>
-
-{% include section.html %}
-
-## Alumni
-
-<div class="member-grid">
-
 </div>
 
 {% include section.html %}
