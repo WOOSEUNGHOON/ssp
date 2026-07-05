@@ -94,13 +94,6 @@ nav:
 {%
   include member_image.html
   image="images/default.png"
-  text="**Dohyeok Keum (금도혁)**<br>(kdo1206 [at] korea.ac.kr)<br>Research Interests: Software Security"
-  flip=false
-%}
-
-{%
-  include member_image.html
-  image="images/default.png"
   text="**Soeun Yang (양소은)**<br>(soeun9753 [at] naver.com)<br>Research Interests: OSS Vulnerability Detection"
   flip=false
 %}
@@ -118,6 +111,29 @@ nav:
   text="**Hyunjung Doh (도현정)**<br>(hyunjung7312 [at] naver.com)<br>Research Interests: Software Security"
   flip=false
 %}
+
+{%
+  include member_image.html
+  image="images/default.png"
+  text="**Chaemin Shin (신채민)**<br>(min029582 [at] naver.com)<br>Research Interests: AI for Security"
+  flip=false
+%}
+
+{%
+  include member_image.html
+  image="images/default.png"
+  text="**Junewoo Roh (노준우)**<br>(njunu17 [at] naver.com)<br>Research Interests: Security for AI"
+  flip=false
+%}
+
+
+<!-- {%
+  include member_image.html
+  image="images/default.png"
+  text="**Dohyeok Keum (금도혁)**<br>(kdo1206 [at] korea.ac.kr)<br>Research Interests: Software Security"
+  flip=false
+%}
+ -->
 
 <!-- {%
   include member_image.html
@@ -166,7 +182,7 @@ nav:
 
 ## Former members
 
-- Taehyun Kim (김태현), Min-Gyoung Ban (반민경), Meshkat Mesbah, Hajin Yun (윤하진), Hyunseo Roh (노현서), Jimin Son (손지민): Korea University
+- Dohyeok Keum (금도혁), Taehyun Kim (김태현), Min-Gyoung Ban (반민경), Meshkat Mesbah, Hajin Yun (윤하진), Hyunseo Roh (노현서), Jimin Son (손지민): Korea University
 
 <!-- * Taehyun Kim (김태현): Korea University
 * Min-Gyoung Ban (반민경): Korea University

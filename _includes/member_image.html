@@ -1,4 +1,4 @@
-<div class="feature">
+<!-- <div class="feature">
 <a class="feature-image" aria-label="feature link">
  <img
       src="{{ include.image | relative_url }}"
@@ -7,6 +7,20 @@
     >
   </a>
  <div class="feature-text">
+    {{ include.text | markdownify }}
+  </div>
+</div>
+ -->
+ <div class="feature" style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <a class="feature-image" aria-label="feature link" style="display: block; margin-bottom: 0.8rem;">
+    <img
+      src="{{ include.image | relative_url }}"
+      alt="{{ include.title | default: "feature image" }}"
+      {% include fallback.html %}
+    >
+  </a>
+
+  <div class="feature-text">
     {{ include.text | markdownify }}
   </div>
 </div>
