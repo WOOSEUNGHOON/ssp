@@ -25,14 +25,14 @@ nav:
 {%
   include member_image.html
   image="images/YHD.png"
-  text="**Lab Leader**<br>**Heedong Yang (양희동)**<br>(heedongy [at] korea.ac.kr)<br>Research Interests: Binary Code Similarity Detection, Software Security<br>[[CV]](https://heedongy.github.io/CV/heedong_cv.pdf) (Last updated: Mar. 2025)<br>[[Google Scholar]](https://scholar.google.com/citations?user=Gqegeu0AAAAJ&hl=en)"
+  text="**Lab Leader**<br>**Heedong Yang (양희동)**<br>(heedongy [at] korea.ac.kr)<br>[[CV]](https://heedongy.github.io/CV/heedong_cv.pdf) (Mar. 2025) [[Google Scholar]](https://scholar.google.com/citations?user=Gqegeu0AAAAJ&hl=en)"
   flip=false
 %}
 
 {%
   include member_image.html
   image="images/CYJ.jpg"
-  text="**Youngjae Choi (최영재)**<br>(youngjaechoi [at] korea.ac.kr)<br>Research Interests: OSS Vulnerability Detection, Supply Chain Security<br>[[Page]](https://youngjaechoi7.github.io/)"
+  text="**Youngjae Choi (최영재)**<br>(youngjaechoi [at] korea.ac.kr)<br>[[Personal Page]](https://youngjaechoi7.github.io/)"
   flip=false
 %}
 
@@ -47,35 +47,35 @@ nav:
 {%
   include member_image.html
   image="images/JSG.jpg"
-  text="**Seogyeong Cho (조서경)**<br>(jsg8777 [at] korea.ac.kr)<br>Research Interests: AI for Software Security"
+  text="**Seogyeong Cho (조서경)**<br>(jsg8777 [at] korea.ac.kr)"
   flip=false
 %}
 
 {%
   include member_image.html
   image="images/PSH.jpg"
-  text="**Sunha Park (박선하)**<br>(sunhap [at] korea.ac.kr)<br>Research Interests: Software Security"
+  text="**Sunha Park (박선하)**<br>(sunhap [at] korea.ac.kr)"
   flip=false
 %}
 
 {%
   include member_image.html
   image="images/YSE.jpg"
-  text="**Sungeun Yu (유승은)**<br>(spblue4422 [at] korea.ac.kr)<br>Research Interests: Software Security"
+  text="**Sungeun Yu (유승은)**<br>(spblue4422 [at] korea.ac.kr)"
   flip=false
 %}
 
 {%
   include member_image.html
   image="images/tanpeirou.jpg"
-  text="**Tan Pei Rou**<br>(tanpeirou [at] korea.ac.kr)<br>Research Interests: Attack Simulation"
+  text="**Tan Pei Rou**<br>(tanpeirou [at] korea.ac.kr)"
   flip=false
 %}
 
 {%
   include member_image.html
   image="images/LH.jpg"
-  text="**Han Lee (이한)**<br>(tw0n3 [at] korea.ac.kr)<br>Research Interests: Fuzzing, Software Security"
+  text="**Han Lee (이한)**<br>(tw0n3 [at] korea.ac.kr)"
   flip=false
 %}
 
@@ -90,49 +90,49 @@ nav:
 {%
   include member_image.html
   image="images/HSJ.jpg"
-  text="**Soojin Han (한수진)**<br>(sjhan034 [at] naver.com)<br>Research Interests: Software Security"
+  text="**Soojin Han (한수진)**<br>(sjhan034 [at] naver.com)"
   flip=false
 %}
 
 {%
   include member_image.html
   image="images/HHJ.jpg"
-  text="**Hojin Han (한호진)**<br>(seupjak [at] korea.ac.kr)<br>Research Interests: LLM Embedded Software Security"
+  text="**Hojin Han (한호진)**<br>(seupjak [at] korea.ac.kr)"
   flip=false
 %}
 
 {%
   include member_image.html
   image="images/default.png"
-  text="**Soeun Yang (양소은)**<br>(soeun9753 [at] naver.com)<br>Research Interests: OSS Vulnerability Detection"
+  text="**Soeun Yang (양소은)**<br>(soeun9753 [at] naver.com)"
   flip=false
 %}
 
 {%
   include member_image.html
   image="images/default.png"
-  text="**Minhyuk Hong (홍민혁)**<br>(minster7650 [at] naver.com)<br>Research Interests: AI for Software Security"
+  text="**Minhyuk Hong (홍민혁)**<br>(minster7650 [at] naver.com)"
   flip=false
 %}
 
 {%
   include member_image.html
   image="images/default.png"
-  text="**Hyunjung Doh (도현정)**<br>(hyunjung7312 [at] naver.com)<br>Research Interests: Software Security"
+  text="**Hyunjung Doh (도현정)**<br>(hyunjung7312 [at] naver.com)"
   flip=false
 %}
 
 {%
   include member_image.html
   image="images/default.png"
-  text="**Chaemin Shin (신채민)**<br>(min029582 [at] naver.com)<br>Research Interests: AI for Security"
+  text="**Chaemin Shin (신채민)**<br>(min029582 [at] naver.com)"
   flip=false
 %}
 
 {%
   include member_image.html
   image="images/default.png"
-  text="**Junewoo Roh (노준우)**<br>(njunu17 [at] naver.com)<br>Research Interests: Security for AI"
+  text="**Junewoo Roh (노준우)**<br>(njunu17 [at] naver.com)"
   flip=false
 %}
 
