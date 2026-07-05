@@ -1,9 +1,10 @@
-<div class="feature" style="display: inline-flex; flex-direction: column; align-items: center; text-align: center; vertical-align: top; width: 260px; margin: 20px;">
-  <a class="feature-image" aria-label="feature link" style="display: block; margin-bottom: 0.8rem;">
+<div class="feature" style="display: inline-flex; flex-direction: column; align-items: center; text-align: center; vertical-align: top; width: 300px; margin: 30px;">
+  <a class="feature-image" aria-label="feature link" style="display: block; margin-bottom: 1rem;">
     <img
       src="{{ include.image | relative_url }}"
       alt="{{ include.title | default: "feature image" }}"
       {% include fallback.html %}
+      style="width: 200px; height: 200px; object-fit: cover; object-position: center;"
     >
   </a>
 
