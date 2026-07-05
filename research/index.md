@@ -49,7 +49,7 @@ We conduct various research on software security. Representative current researc
   include my_feature.html
   image="images/aisec.jpg"
   text="As AI becomes a core component of modern software systems, security risks arise not only from traditional code vulnerabilities but also from models, prompts, agents, data, and AI software supply chains. We investigate these emerging threats and develop techniques to analyze and mitigate security risks in AI-based systems. In addition, we leverage AI techniques to improve software security analysis. Our research explores LLM-assisted approaches for vulnerability detection, security patch analysis, and API misuse identification, with the goal of making security analysis more accurate and practical. The results of the research have been published in international conferences, including [CRYPTBARA](/assets/papers/ASE25.pdf) [ASE '25]."
-  flip=true
+  flip=false
 %}
 
 - ["고려대, 암호 오용 잡는 'CRYPTBARA' 개발" (KR)](https://www.kfenews.co.kr/news/articleView.html?idxno=650990)
@@ -63,7 +63,7 @@ We conduct various research on software security. Representative current researc
   include my_feature.html
   image="images/patch.jpg"
   text="Assessing the quality of security patches provided through public vulnerability databases (e.g., NVD) is an essential task for proper vulnerability resolution. We have conducted research ranging from effective methods of collecting security patches to techniques for verifying their quality. The results of our research have been presented in international conferences and journals as papers, including [V0Finder](/assets/papers/SECURITY21.pdf) [USENIX Security '21], [xVDB](/assets/papers/ACCESS22_xvdb.pdf) [IEEE ACCESS '22], and [Clovery](/assets/papers/IFIPSEC26.pdf)."
-  flip=false
+  flip=true
 %}
 
 - ["고려대 이희조 교수팀, 취약점 최초 발생 지점 탐지기술 'V0Finder' 개발" (KR)](https://www.boannews.com/media/view.asp?idx=100545)
