@@ -141,6 +141,14 @@ nav:
 
 {% include section.html %}
 
+## Alumni
+
+<div class="member-grid">
+
+</div>
+
+{% include section.html %}
+
 ## Former members
 
 - Dohyeok Keum (금도혁), Taehyun Kim (김태현), Min-Gyoung Ban (반민경), Meshkat Mesbah, Hajin Yun (윤하진), Hyunseo Roh (노현서), Jimin Son (손지민): Korea University
