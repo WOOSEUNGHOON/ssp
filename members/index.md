@@ -20,6 +20,8 @@ nav:
 
 ## Ph.D. students
 
+<div class="member-grid">
+
 {%
   include member_image.html
   image="images/YHD.png"
@@ -34,9 +36,13 @@ nav:
   flip=false
 %}
 
+</div>
+
 {% include section.html %}
 
 ## MS students
+
+<div class="member-grid">
 
 {%
   include member_image.html
@@ -73,9 +79,13 @@ nav:
   flip=false
 %}
 
+</div>
+
 {% include section.html %}
 
 ## Undergraduate students
+
+<div class="member-grid">
 
 {%
   include member_image.html
@@ -126,6 +136,8 @@ nav:
   flip=false
 %}
 
+
+</div>
 
 {% include section.html %}
 
