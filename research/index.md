@@ -62,7 +62,7 @@ We conduct various research on software security. Representative current researc
 {%
   include my_feature.html
   image="images/patch.jpg"
-  text="Assessing the quality of security patches provided through public vulnerability databases (e.g., NVD) is an essential task for proper vulnerability resolution. We have conducted research ranging from effective methods of collecting security patches to techniques for verifying their quality. The results of our research have been presented in international conferences and journals as papers, including [V0Finder](/assets/papers/SECURITY21.pdf) [USENIX Security '21], [xVDB](/assets/papers/ACCESS22_xvdb.pdf) [IEEE ACCESS '22], and [Clovery](/assets/papers/IFIPSEC26.pdf)."
+  text="Assessing the quality of security patches provided through public vulnerability databases (e.g., NVD) is an essential task for proper vulnerability resolution. We have conducted research ranging from effective methods of collecting security patches to techniques for verifying their quality. The results of our research have been presented in international conferences and journals as papers, including [V0Finder](/assets/papers/SECURITY21.pdf) [USENIX Security '21], [xVDB](/assets/papers/ACCESS22_xvdb.pdf) [IEEE ACCESS '22], and [Clovery](/assets/papers/IFIPSEC26.pdf) [IFIPSEC '26]."
   flip=true
 %}
 
