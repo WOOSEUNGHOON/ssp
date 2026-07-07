@@ -116,5 +116,60 @@
     margin: 0 auto;
   }
 }
+.former-member-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+  margin: 32px 0 20px 0;
+}
+
+.former-member-card {
+  background: white;
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+  border: 1px solid #eeeeee;
+  padding: 18px 14px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.former-member-icon {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f3f6fa;
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+.former-member-name {
+  font-weight: 600;
+  font-size: 0.95rem;
+  line-height: 1.35;
+}
+
+.former-member-note {
+  margin-top: 6px;
+  font-size: 0.82rem;
+  color: #666;
+}
+
+/* 모바일에서만 1개씩 */
+@media (max-width: 600px) {
+  .former-member-grid {
+    grid-template-columns: 1fr;
+  }
+  .former-member-card {
+    max-width: 320px;
+    margin: 0 auto;
+    width: 100%;
+  }
+}
 
 /*# sourceMappingURL=feature.css.map */
