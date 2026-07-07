@@ -79,6 +79,21 @@ nav:
   flip=false
 %}
 
+{%
+  include member_image.html
+  image="images/HMH.jpg"
+  text="**Minhyuk Hong (홍민혁)**<br>(minster7650 [at] naver.com)"
+  flip=false
+%}
+
+{%
+  include member_image.html
+  image="images/DHJ.png"
+  text="**Hyunjung Doh (도현정)**<br>(hyunjung7312 [at] naver.com)"
+  flip=false
+%}
+
+
 </div>
 
 {% include section.html %}
@@ -105,20 +120,6 @@ nav:
   include member_image.html
   image="images/default.png"
   text="**Soeun Yang (양소은)**<br>(soeun9753 [at] naver.com)"
-  flip=false
-%}
-
-{%
-  include member_image.html
-  image="images/default.png"
-  text="**Minhyuk Hong (홍민혁)**<br>(minster7650 [at] naver.com)"
-  flip=false
-%}
-
-{%
-  include member_image.html
-  image="images/default.png"
-  text="**Hyunjung Doh (도현정)**<br>(hyunjung7312 [at] naver.com)"
   flip=false
 %}
 
