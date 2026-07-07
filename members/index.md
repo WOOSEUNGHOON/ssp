@@ -161,6 +161,7 @@ nav:
   <div class="former-member-icon">👤</div>
   <div class="former-member-name">Min-Gyoung Ban (반민경)</div>
   <div class="former-member-note">Korea University</div>
+  <div class="former-member-note">(currently PhD student at UMD)
 </div>
 
 <div class="former-member-card">
@@ -173,6 +174,7 @@ nav:
   <div class="former-member-icon">👤</div>
   <div class="former-member-name">Hajin Yun (윤하진)</div>
   <div class="former-member-note">Korea University</div>
+  <div class="former-member-note">(currently PhD student at UCLA)
 </div>
 
 <div class="former-member-card">
