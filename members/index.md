@@ -143,4 +143,48 @@ nav:
 
 ## Former members
 
-- Dohyeok Keum (금도혁), Taehyun Kim (김태현), Min-Gyoung Ban (반민경), Meshkat Mesbah, Hajin Yun (윤하진), Hyunseo Roh (노현서), Jimin Son (손지민): Korea University
+<div class="former-member-grid">
+
+<div class="former-member-card">
+  <div class="former-member-icon">👤</div>
+  <div class="former-member-name">Dohyeok Keum (금도혁)</div>
+  <div class="former-member-note">Korea University</div>
+</div>
+
+<div class="former-member-card">
+  <div class="former-member-icon">👤</div>
+  <div class="former-member-name">Taehyun Kim (김태현)</div>
+  <div class="former-member-note">Korea University</div>
+</div>
+
+<div class="former-member-card">
+  <div class="former-member-icon">👤</div>
+  <div class="former-member-name">Min-Gyoung Ban (반민경)</div>
+  <div class="former-member-note">Korea University</div>
+</div>
+
+<div class="former-member-card">
+  <div class="former-member-icon">👤</div>
+  <div class="former-member-name">Meshkat Mesbah</div>
+  <div class="former-member-note">Korea University</div>
+</div>
+
+<div class="former-member-card">
+  <div class="former-member-icon">👤</div>
+  <div class="former-member-name">Hajin Yun (윤하진)</div>
+  <div class="former-member-note">Korea University</div>
+</div>
+
+<div class="former-member-card">
+  <div class="former-member-icon">👤</div>
+  <div class="former-member-name">Hyunseo Roh (노현서)</div>
+  <div class="former-member-note">Korea University</div>
+</div>
+
+<div class="former-member-card">
+  <div class="former-member-icon">👤</div>
+  <div class="former-member-name">Jimin Son (손지민)</div>
+  <div class="former-member-note">Korea University</div>
+</div>
+
+</div>
