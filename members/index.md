@@ -25,7 +25,7 @@ nav:
 {%
   include member_image.html
   image="images/YHD.png"
-  text="**Lab Leader**<br>**Heedong Yang (양희동)**<br>(heedongy [at] korea.ac.kr)<br>[[CV]](https://heedongy.github.io/CV/heedong_cv.pdf) (Mar. 2025) [[Google Scholar]](https://scholar.google.com/citations?user=Gqegeu0AAAAJ&hl=en)"
+  text="**Lab Leader**<br>**Heedong Yang (양희동)**<br>(heedongy [at] korea.ac.kr)<br>[[CV]](https://heedongy.github.io/CV/heedong_cv.pdf) (Jul. 2026) [[Google Scholar]](https://scholar.google.com/citations?user=Gqegeu0AAAAJ&hl=en)"
   flip=false
 %}
 
