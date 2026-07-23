@@ -20,6 +20,7 @@ Two new MS students are joining our team. Welcome Sungeun and Pei Rou!
 * **Sep. 2024**: Two **new MS students** are joining our team. Welcome Youngjae and Seogyeong!
 * **Mar. 2024**: One **new Ph.D. student** is joining our team. Welcome Heedong!-->
 
+* **Jul. 2026**: Prof. Woo is serving as a PC at USENIX Security 2027.
 * **Jul. 2026**: Prof. Woo won the **Excellent Teaching Award (우수강좌상)** for the Theory of Computation class in Fall 2025!
 * **Mar. 2026**: Two research papers have been accepted at **[FSE 2026](https://conf.researchr.org/home/fse-2026)**. Congrats to Heedong, Sunha, and Soojin!
 * **Feb. 2026**: Prof. Woo is serving as a PC at ASE 2026.
@@ -74,6 +75,7 @@ Two new MS students are joining our team. Welcome Sungeun and Pei Rou!
 
 ## COMMITEE
 
+* [USENIX Security 2027](https://www.usenix.org/conference/usenixsecurity27) (Program Committee Member)
 * [ASE 2026](https://conf.researchr.org/home/ase-2026) (Program Committee Member)
 * [USENIX Security 2026](https://www.usenix.org/conference/usenixsecurity26) (Program Committee Member)
 * [ISC 2025](https://isc25.skku.edu/) (Program Committee Member)
