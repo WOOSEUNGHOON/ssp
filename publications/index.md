@@ -17,9 +17,12 @@ USENIX Security (2021, 2022, 2023), ICSE (2021, 2024, 2025), S&P (2017), ASE (20
 ## 2026
 
 
-- **Uncovering Similar but Different Packages in PyPI and Potential Security Threats (Accepted)**<br>Sunha Park, Soojin Han, Seunghoon Woo<br><i class="fa-solid fa-crown"></i> The ACM International Conference on the Foundations of Software Engineering (FSE 2026)
+- **Uncovering Similar but Different Packages in PyPI and Potential Security Threats**<br>Sunha Park, Soojin Han, Seunghoon Woo<br><i class="fa-solid fa-crown"></i> The ACM International Conference on the Foundations of Software Engineering (FSE 2026)
+<br>[[<i class="fa-solid fa-file-pdf"></i> paper]](/assets/papers/FSE26_Uncovering.pdf) [[<i class="fa-solid fa-file-powerpoint"></i> slide]](/assets/presentations/Uncovering_FSE26_presentation.pdf)[[<i class="fa-solid fa-file-code"></i> code]](https://github.com/sunha21/pypi-replication-analysis) 
 
-- **SBridge: Identifying Source-to-Binary Function Similarity via Cross-Domain Control Block Matching (Accepted)**<br>Heedong Yang, Jeongwoo Lee, Hajin Yun, Seunghoon Woo<br><i class="fa-solid fa-crown"></i> The ACM International Conference on the Foundations of Software Engineering (FSE 2026)
+- **SBridge: Identifying Source-to-Binary Function Similarity via Cross-Domain Control Block Matching**<br>Heedong Yang, Jeongwoo Lee, Hajin Yun, Seunghoon Woo<br><i class="fa-solid fa-crown"></i> The ACM International Conference on the Foundations of Software Engineering (FSE 2026)
+<br>[[<i class="fa-solid fa-file-pdf"></i> paper]](/assets/papers/FSE26_SBridge.pdf) [[<i class="fa-solid fa-file-powerpoint"></i> slide]](/assets/presentations/SBridge_FSE26_presentation.pdf)[[<i class="fa-solid fa-file-code"></i> code]](https://github.com/heedongy/SBridge_Artifact) 
+
 
 - **Clovery: Identifying Affected Versions in C/C++ Public Security Vulnerability Reports**<br>Duyeong Kim, Jimin Kang, Yeonhee Kim, Seunghoon Woo, Heejo Lee<br>41st IFIP international conference on ICT systems security and privacy protection (IFIPSEC 2026) 
 <br>[[<i class="fa-solid fa-file-pdf"></i> paper]](/assets/papers/IFIPSEC26.pdf) [[<i class="fa-solid fa-file-powerpoint"></i> slide]](/assets/presentations/CLOVERY_IFIPSEC26_presentation.pdf)[[<i class="fa-solid fa-file-code"></i> code]](https://github.com/kimdu0/clovery) 
