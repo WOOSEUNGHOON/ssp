@@ -70,7 +70,7 @@ $wrap: 800px;
 }
 
 .member-card {
-  background: white;
+  background: var(--background-alt);
   border-radius: 12px;
   box-shadow: var(--shadow);
   overflow: hidden;
@@ -107,7 +107,7 @@ $wrap: 800px;
 
   text-align: center;
   text-align-last: center;
-  border-top: 1px solid #e5e5e5;
+  border-top: 1px solid var(--light-gray);
 }
 
 .member-text p {
@@ -137,10 +137,10 @@ $wrap: 800px;
 }
 
 .former-member-card {
-  background: white;
+  background: var(--background-alt);
   border-radius: 12px;
   box-shadow: var(--shadow);
-  border: 1px solid #eeeeee;
+  border: 1px solid var(--light-gray);
 
   padding: 16px 14px;
   box-sizing: border-box;
@@ -163,7 +163,7 @@ $wrap: 800px;
   align-items: center;
   justify-content: center;
 
-  background: #f3f6fa;
+  background: var(--background);
   font-size: 1.6rem;
 }
 
@@ -181,7 +181,7 @@ $wrap: 800px;
 .former-member-note {
   margin-top: 5px;
   font-size: 0.8rem;
-  color: #666;
+  color: var(--gray);
   line-height: 1.3;
 }
 
