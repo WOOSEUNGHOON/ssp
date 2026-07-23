@@ -83,7 +83,7 @@ Two new MS students are joining our team. Welcome Sungeun and Pei Rou!
 
 * TBD: Transactions on Big Data (2026)
 * TDSC: IEEE Transactions on Dependable and Secure Computing (2024, 2026)
-* Computers & Security (2025)
+* Computers & Security (2025, 2026)
 * T-IFS: IEEE Transactions on Information Forensics and Security (2025)
 * TSE: IEEE Transactions on Software Engineering (2023, 2024)
 * TOSEM: ACM Transactions on Software Engineering and Methodology (2023)
