@@ -137,6 +137,14 @@ nav:
   flip=false
 %}
 
+{%
+  include member_image.html
+  image="images/default.png"
+  text="**Yeji Ryu (유예지)**<br>(ryuyeji3415 [at] naver.com)"
+  flip=false
+%}
+
+
 </div>
 
 {% include section.html %}
