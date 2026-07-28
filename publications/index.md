@@ -16,6 +16,7 @@ USENIX Security (2021, 2022, 2023), ICSE (2021, 2024, 2025), S&P (2017), ASE (20
 
 ## 2026
 
+- **GANADI: Uncovering C/C++ OSS Reuse Genealogies via Pivotal Function-based Clustering to Enhance Supply Chain Security (Accepted)**<br>Dongyeon Kim, Seunghoon Woo&#42;, Heejo Lee&#42; (* Corresponding authors)<br><i class="fa-solid fa-crown"></i> 41st IEEE/ACM Automated Software Engineering Conference (ASE 2026)
 
 - **Uncovering Similar but Different Packages in PyPI and Potential Security Threats**<br>Sunha Park, Soojin Han, Seunghoon Woo<br><i class="fa-solid fa-crown"></i> The ACM International Conference on the Foundations of Software Engineering (FSE 2026)
 <br>[[<i class="fa-solid fa-file-pdf"></i> paper]](/assets/papers/FSE26_Uncovering.pdf) [[<i class="fa-solid fa-file-powerpoint"></i> slide]](/assets/presentations/Uncovering_FSE26_presentation.pdf)[[<i class="fa-solid fa-file-code"></i> code]](https://github.com/sunha21/pypi-replication-analysis) 
