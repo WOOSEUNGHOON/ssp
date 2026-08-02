@@ -74,13 +74,11 @@ Two new MS students are joining our team. Welcome Sungeun and Pei Rou!
 * 2015.12 - 2016.02, **Employee**, Samsung Electronics.
 * 2014.06 - 2014.08, **Internship**, Samsung Electronics.
 
-## COMMITEE
+## PROGRAM COMMITEE
 
-* [USENIX Security 2027](https://www.usenix.org/conference/usenixsecurity27) (Program Committee Member)
-* [ASE 2026](https://conf.researchr.org/home/ase-2026) (Program Committee Member)
-* [USENIX Security 2026](https://www.usenix.org/conference/usenixsecurity26) (Program Committee Member)
-* [ISC 2025](https://isc25.skku.edu/) (Program Committee Member)
-* [ASIACCS 2025](https://asiaccs2025.hust.edu.vn/) (Program Committee Member)
+* 2027: [USENIX Security](https://www.usenix.org/conference/usenixsecurity27)
+* 2026: [USENIX Security](https://www.usenix.org/conference/usenixsecurity26), [ASE](https://conf.researchr.org/home/ase-2026)
+* 2025: [ASIACCS](https://asiaccs2025.hust.edu.vn/), [ISC](https://isc25.skku.edu/)
 
 ## REVIEWER
 
