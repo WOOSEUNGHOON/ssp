@@ -102,13 +102,16 @@ Annual Computer Security Applications Conference (ACSAC 2021)<br>[[<i class="fa-
 
 ## Patents
 
+- **METHOD AND APPARATUS FOR DETECTING PROPAGATION OF SECURITY VULNERABILITIES OF OPEN SOURCE SOFTWARE INHERENT IN COMPONENTS OF TARGET SOFTWARE**<br> 
+Heejo Lee, Seunghoon Woo<br>International (US), Registration, US 12,694,126 B2, Jul. 28. 2026. [[<i class="fa-solid fa-file"></i> material]](/assets/patents/US_V1SCAN26.pdf)
+
+- **METHOD AND APPARATUS FOR DETECTING PROPAGATION OF SECURITY VULNERABILITIES OF OPEN SOURCE SOFTWARE INHERENT IN COMPONENTS OF TARGET SOFTWARE**<br> 
+Heejo Lee, Seunghoon Woo<br>Domestic, Registration, 10-2977203, Jun. 9. 2026. [[<i class="fa-solid fa-file"></i> material]](/assets/patents/KR_V1SCAN26.pdf)
+
 - **METHOD AND APPARATUS FOR DETECTING MISUSE OF APPLICATION PROGRAMMING INTERFACE IN PYTHON SOURCE CODE**<br>Seunghoon Woo, Seogyeong Cho<br>Domestic, Application, 10-2026-0075459, Apr. 27. 2026. [[<i class="fa-solid fa-file"></i> material]](/assets/patents/KR_CRYPT25.pdf)
 
 - **METHOD AND APPARATUS FOR GENERATING ADAPTIVE VERSION COVERING VERSION DISTRIBUTION OF REUSED OPEN SOURCE SOFTWARE COMPONENT**<br>Seunghoon Woo, Youngjae Choi<br>Domestic, Application, 10-2025-0123459, Sep. 1. 2025. [[<i class="fa-solid fa-file"></i> material]](/assets/patents/KR_TIVER25.pdf)
 
 - **METHOD FOR IDENTIFYING OPEN-SOURCE SOFTWARE COMPONENTS AT THE SOURCE-CODE LEVEL**<br>Heejo Lee, Seunghoon Woo<br>International (EU), Registration, EP4033380B1, Apr. 16. 2025. [[<i class="fa-solid fa-file"></i> material]](/assets/patents/EU_CENTRIS25.pdf)
-
-- **METHOD AND APPARATUS FOR DETECTING PROPAGATION OF SECURITY VULNERABILITIES OF OPEN SOURCE SOFTWARE INHERENT IN COMPONENTS OF TARGET SOFTWARE**<br> 
-Heejo Lee, Seunghoon Woo<br>Domestic, Application, 10-2024-0023236, Feb. 19. 2024. [[<i class="fa-solid fa-file"></i> material]](/assets/patents/KR_V1SCAN24.pdf)
 
 - **METHOD FOR IDENTIFYING OPEN-SOURCE SOFTWARE COMPONENTS AT THE SOURCE-CODE LEVEL**<br>Heejo Lee, Seunghoon Woo<br>International (US), Registration, 11836486, Dec. 5. 2023. [[<i class="fa-solid fa-file"></i> material]](/assets/patents/US_CENTRIS23.pdf)
