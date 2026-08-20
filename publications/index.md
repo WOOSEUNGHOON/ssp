@@ -96,6 +96,11 @@ Annual Computer Security Applications Conference (ACSAC 2021)<br>[[<i class="fa-
 
 ## Domestic Publications
 
+- **AI 에이전트의 실행 수준 취약점 탐지를 위한 Attack Chain 기반 Taint 분석**<br>도현정, 이한, 조서경, 우승훈<br>한국컴퓨터종합학술대회 (2026)
+- **LLM 코드리뷰에서 PR 메타데이터를 통한 간접 프롬프트 주입 공격의 실증 분석**<br>한호진, 박선하, 양희동, 우승훈<br>한국컴퓨터종합학술대회 (2026)
+- **Cross-Language 경로 분석 기반 npm 네이티브 익스텐션 취약점 탐지**<br>홍민혁, 양희동, 최영재, 우승훈<br>한국컴퓨터종합학술대회 (2026)
+- **Java 생태계에서 SCA 분석 기법의 한계와 연구 동향**<br>양소은, 양희동, 유승은, 우승훈<br>한국컴퓨터종합학술대회 (2026)
+- **LLM 기반 Vulnerability Patch Localization 기술 연구**<br>금도혁, 우승훈<br>한국컴퓨터종합학술대회 (2026)
 - **COTS 바이너리의 1-day 취약점 탐지를 위한 Patch Presence Test 연구**<br>양희동, 이정우, 우승훈<br>한국정보보호학회 CISC-S (2025)<br>[[link]](https://kiisc.or.kr/bbs/downloadBoardImage?uploadedFileId=12693)
 - **공급망 보안을 위한 소프트웨어 명세서(SBOM) 개선 연구**<br>최영재, 양희동, 우승훈<br>정보보호학회지 (2025)<br>[[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12088070)
 - **Web 3.0 시대 핵심 기술, 블록체인 보안 위협 전망 및 분석**<br>우승훈, 이건우, 이태준, 최윤성, 이희조, 민경식, 박진상<br>KISA INSIGHT (2023)<br>[[<i class="fa-solid fa-file-pdf"></i> paper]](/assets/papers/KISA_Insight23.pdf)
