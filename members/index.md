@@ -46,13 +46,6 @@ nav:
 
 {%
   include member_image.html
-  image="images/JSG.jpg"
-  text="**Seogyeong Cho (조서경)**<br>(jsg8777 [at] korea.ac.kr)"
-  flip=false
-%}
-
-{%
-  include member_image.html
   image="images/PSH.jpg"
   text="**Sunha Park (박선하)**<br>(sunhap [at] korea.ac.kr)"
   flip=false
@@ -153,6 +146,23 @@ nav:
 
 
 </div>
+
+{% include section.html %}
+
+
+## Alumni
+
+<div class="member-grid">
+
+{%
+  include member_image.html
+  image="images/JSG.jpg"
+  text="**Seogyeong Cho (조서경)**<br>M.S. 2026. 08."
+  flip=false
+%}
+
+</div>
+
 
 {% include section.html %}
 
