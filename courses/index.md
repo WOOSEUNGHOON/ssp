@@ -7,6 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Courses
 
+## 2026 fall
+ - [COSE215] Theory of Computation 
+ - [AAA623] Software Security
+
 ## 2026 Spring
  - [COSE451] Software Security
  - [SWS123] Open-source Software Security
