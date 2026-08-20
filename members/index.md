@@ -144,6 +144,13 @@ nav:
   flip=false
 %}
 
+{%
+  include member_image.html
+  image="images/default.png"
+  text="**Daeun Kim (김다은)**<br>(rlaekdms901 [at] naver.com)"
+  flip=false
+%}
+
 
 </div>
 
