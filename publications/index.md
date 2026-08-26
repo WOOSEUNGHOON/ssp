@@ -23,11 +23,11 @@ USENIX Security (2021, 2022, 2023), ICSE (2021, 2024, 2025), S&P (2017), ASE (20
 
 - **Uncovering Similar but Different Packages in PyPI and Potential Security Threats**<br>Sunha Park, Soojin Han, Seunghoon Woo<br><i class="fa-solid fa-crown"></i> The ACM International Conference on the Foundations of Software Engineering (FSE 2026)
 <br>[[<i class="fa-solid fa-file-pdf"></i> paper]](/assets/papers/FSE26_Uncovering.pdf) [[<i class="fa-solid fa-file-powerpoint"></i> slide]](/assets/presentations/Uncovering_FSE26_presentation.pdf)[[<i class="fa-solid fa-file-code"></i> code]](https://github.com/sunha21/pypi-replication-analysis) [[<i class="fa-solid fa-newspaper"></i> article1]](
-https://news.nate.com/view/20260731n17287) [[<i class="fa-solid fa-newspaper"></i> article2]](https://www.newsis.com/view/NISX20260731_0003731621)
+https://news.nate.com/view/20260731n17287) [[<i class="fa-solid fa-newspaper"></i> article2]](https://www.newsis.com/view/NISX20260731_0003731621) [[<i class="fa-solid fa-newspaper"></i> article3]](https://www.linkedin.com/posts/koreauniversity_korea-university-team-unveils-binary-level-activity-7493139238981619712-nbsw?utm_source=share&utm_medium=member_desktop&rcm=ACoAADOmhG0BOgFRGFg3dLtiVrjb_qqGi_tPomM)
 
 - **SBridge: Identifying Source-to-Binary Function Similarity via Cross-Domain Control Block Matching**<br>Heedong Yang, Jeongwoo Lee, Hajin Yun, Seunghoon Woo<br><i class="fa-solid fa-crown"></i> The ACM International Conference on the Foundations of Software Engineering (FSE 2026)
 <br>[[<i class="fa-solid fa-file-pdf"></i> paper]](/assets/papers/FSE26_SBridge.pdf) [[<i class="fa-solid fa-file-powerpoint"></i> slide]](/assets/presentations/SBridge_FSE26_presentation.pdf)[[<i class="fa-solid fa-file-code"></i> code]](https://github.com/heedongy/SBridge_Artifact) [[<i class="fa-solid fa-newspaper"></i> article1]](
-https://news.nate.com/view/20260731n17287) [[<i class="fa-solid fa-newspaper"></i> article2]](https://www.newsis.com/view/NISX20260731_0003731621)
+https://news.nate.com/view/20260731n17287) [[<i class="fa-solid fa-newspaper"></i> article2]](https://www.newsis.com/view/NISX20260731_0003731621) [[<i class="fa-solid fa-newspaper"></i> article3]](https://www.linkedin.com/posts/koreauniversity_korea-university-team-unveils-binary-level-activity-7493139238981619712-nbsw?utm_source=share&utm_medium=member_desktop&rcm=ACoAADOmhG0BOgFRGFg3dLtiVrjb_qqGi_tPomM)
 
 
 - **Clovery: Identifying Affected Versions in C/C++ Public Security Vulnerability Reports**<br>Duyeong Kim, Jimin Kang, Yeonhee Kim, Seunghoon Woo, Heejo Lee<br>41st IFIP international conference on ICT systems security and privacy protection (IFIPSEC 2026) 
