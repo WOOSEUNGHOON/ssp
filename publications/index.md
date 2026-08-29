@@ -96,16 +96,16 @@ Annual Computer Security Applications Conference (ACSAC 2021)<br>[[<i class="fa-
 
 ## Domestic Publications
 
-- <span style="color:#800020;"><strong>[우수발표논문]</strong></span> **AI 에이전트의 실행 수준 취약점 탐지를 위한 Attack Chain 기반 Taint 분석**: 도현정, 이한, 조서경, 우승훈. 한국컴퓨터종합학술대회 (2026) [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929704)
-- **LLM 코드리뷰에서 PR 메타데이터를 통한 간접 프롬프트 주입 공격의 실증 분석**: 한호진, 박선하, 양희동, 우승훈. 한국컴퓨터종합학술대회 (2026) [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929695)
-- **Cross-Language 경로 분석 기반 npm 네이티브 익스텐션 취약점 탐지**: 홍민혁, 양희동, 최영재, 우승훈. 한국컴퓨터종합학술대회 (2026) [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929718)
-- **Java 생태계에서 SCA 분석 기법의 한계와 연구 동향**: 양소은, 양희동, 유승은, 우승훈. 한국컴퓨터종합학술대회 (2026) [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929721)
-- **LLM 기반 Vulnerability Patch Localization 기술 연구**: 금도혁, 우승훈. 한국컴퓨터종합학술대회 (2026) [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929698)
-- **COTS 바이너리의 1-day 취약점 탐지를 위한 Patch Presence Test 연구**: 양희동, 이정우, 우승훈.  한국정보보호학회 CISC-S (2025) [[link]](https://kiisc.or.kr/bbs/downloadBoardImage?uploadedFileId=12693)
-- **공급망 보안을 위한 소프트웨어 명세서(SBOM) 개선 연구**: 최영재, 양희동, 우승훈. 정보보호학회지 (2025) [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12088070)
-- **Web 3.0 시대 핵심 기술, 블록체인 보안 위협 전망 및 분석**: 우승훈, 이건우, 이태준, 최윤성, 이희조, 민경식, 박진상. KISA INSIGHT (2023) [[<i class="fa-solid fa-file-pdf"></i> paper]](/assets/papers/KISA_Insight23.pdf)
-- **오픈소스 SW 취약점 분석 및 탐지기술 동향**: 우승훈, 홍현지, 이희조. OSIA Standards & Technology Review Journal (2022) [[<i class="fa-solid fa-file-pdf"></i> paper]](/assets/papers/OSIA22.pdf)
-- **공급망 보안을 위한 오픈소스 소프트웨어 취약점 관리 기술**: 홍현지, 우승훈, 이희조. 정보보호학회지 (2022) [[<i class="fa-solid fa-file-pdf"></i> paper]](/assets/papers/JBBH22.pdf)
+- <span style="color:#800020;"><strong>[우수발표논문]</strong></span> **AI 에이전트의 실행 수준 취약점 탐지를 위한 Attack Chain 기반 Taint 분석**<br>도현정, 이한, 조서경, 우승훈. 한국컴퓨터종합학술대회 (2026) [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929704)
+- **LLM 코드리뷰에서 PR 메타데이터를 통한 간접 프롬프트 주입 공격의 실증 분석**<br>한호진, 박선하, 양희동, 우승훈. 한국컴퓨터종합학술대회 (2026) [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929695)
+- **Cross-Language 경로 분석 기반 npm 네이티브 익스텐션 취약점 탐지**<br>홍민혁, 양희동, 최영재, 우승훈. 한국컴퓨터종합학술대회 (2026) [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929718)
+- **Java 생태계에서 SCA 분석 기법의 한계와 연구 동향**<br>양소은, 양희동, 유승은, 우승훈. 한국컴퓨터종합학술대회 (2026) [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929721)
+- **LLM 기반 Vulnerability Patch Localization 기술 연구**<br>금도혁, 우승훈. 한국컴퓨터종합학술대회 (2026) [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929698)
+- **COTS 바이너리의 1-day 취약점 탐지를 위한 Patch Presence Test 연구**<br>양희동, 이정우, 우승훈.  한국정보보호학회 CISC-S (2025) [[link]](https://kiisc.or.kr/bbs/downloadBoardImage?uploadedFileId=12693)
+- **공급망 보안을 위한 소프트웨어 명세서(SBOM) 개선 연구**<br>최영재, 양희동, 우승훈. 정보보호학회지 (2025) [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12088070)
+- **Web 3.0 시대 핵심 기술, 블록체인 보안 위협 전망 및 분석**<br>우승훈, 이건우, 이태준, 최윤성, 이희조, 민경식, 박진상. KISA INSIGHT (2023) [[<i class="fa-solid fa-file-pdf"></i> paper]](/assets/papers/KISA_Insight23.pdf)
+- **오픈소스 SW 취약점 분석 및 탐지기술 동향**<br>우승훈, 홍현지, 이희조. OSIA Standards & Technology Review Journal (2022) [[<i class="fa-solid fa-file-pdf"></i> paper]](/assets/papers/OSIA22.pdf)
+- **공급망 보안을 위한 오픈소스 소프트웨어 취약점 관리 기술**<br>홍현지, 우승훈, 이희조. 정보보호학회지 (2022) [[<i class="fa-solid fa-file-pdf"></i> paper]](/assets/papers/JBBH22.pdf)
 
 
 {% include section.html %}
