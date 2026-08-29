@@ -96,7 +96,7 @@ Annual Computer Security Applications Conference (ACSAC 2021)<br>[[<i class="fa-
 
 ## Domestic Publications
 
-- **AI 에이전트의 실행 수준 취약점 탐지를 위한 Attack Chain 기반 Taint 분석**: 도현정, 이한, 조서경, 우승훈. 한국컴퓨터종합학술대회 (2026) [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929704)
+- <span style="color:#800020;"><strong>[우수발표논문]</strong></span> **AI 에이전트의 실행 수준 취약점 탐지를 위한 Attack Chain 기반 Taint 분석**: 도현정, 이한, 조서경, 우승훈. 한국컴퓨터종합학술대회 (2026) [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929704)
 - **LLM 코드리뷰에서 PR 메타데이터를 통한 간접 프롬프트 주입 공격의 실증 분석**: 한호진, 박선하, 양희동, 우승훈. 한국컴퓨터종합학술대회 (2026) [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929695)
 - **Cross-Language 경로 분석 기반 npm 네이티브 익스텐션 취약점 탐지**: 홍민혁, 양희동, 최영재, 우승훈. 한국컴퓨터종합학술대회 (2026) [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929718)
 - **Java 생태계에서 SCA 분석 기법의 한계와 연구 동향**: 양소은, 양희동, 유승은, 우승훈. 한국컴퓨터종합학술대회 (2026) [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929721)
