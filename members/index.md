@@ -75,14 +75,14 @@ nav:
 {%
   include member_image.html
   image="images/HMH.jpg"
-  text="**Minhyuk Hong (홍민혁)**<br>(minster7650 [at] naver.com)"
+  text="**Minhyuk Hong (홍민혁)**<br>(minhyukhong [at] korea.ac.kr)"
   flip=false
 %}
 
 {%
   include member_image.html
   image="images/DHJ.png"
-  text="**Hyunjung Doh (도현정)**<br>(hyunjung7312 [at] naver.com)"
+  text="**Hyunjung Doh (도현정)**<br>(dohhj07 [at] korea.ac.kr)"
   flip=false
 %}
 
@@ -106,13 +106,6 @@ nav:
   include member_image.html
   image="images/HHJ.jpg"
   text="**Hojin Han (한호진)**<br>(seupjak [at] korea.ac.kr)"
-  flip=false
-%}
-
-{%
-  include member_image.html
-  image="images/default.png"
-  text="**Soeun Yang (양소은)**<br>(soeun9753 [at] naver.com)"
   flip=false
 %}
 
@@ -168,8 +161,16 @@ nav:
 
 ## Former members
 
-
 <div class="former-member-grid">
+
+<div class="former-member-card">
+  <div class="former-member-icon">👤</div>
+  <div class="former-member-info">
+    <div class="former-member-name">Soeun Yang (양소은)</div>
+    <div class="former-member-note">-</div>
+  </div>
+</div>
+
 
 <div class="former-member-card">
   <div class="former-member-icon">👤</div>
